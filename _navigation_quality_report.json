@@ -1,0 +1,2491 @@
+{
+  "generated_at_utc": "2026-08-14T06:02:08.003371Z",
+  "summary": {
+    "total_pages_with_permalink": 242,
+    "visible_pages": 211,
+    "hidden_pages": 31,
+    "visible_pages_without_inbound_links": 0,
+    "visible_orphan_pages": 0,
+    "visible_pages_with_empty_branch_sections": 0,
+    "visible_pages_with_missing_parent_target": 0,
+    "branch_navigation_coverage_percent": 100.0,
+    "inline_internal_edge_count": 1887,
+    "inline_internal_target_page_count": 211,
+    "visible_pages_gaining_inbound_from_inline_links": 0,
+    "visible_pages_without_inline_inbound_links": 0,
+    "visible_pages_with_inline_outbound_links": 211,
+    "visible_pages_without_inline_outbound_links": 0,
+    "average_inline_inbound_links_per_visible_page": 8.94,
+    "unresolved_inline_internal_target_count": 0,
+    "related_report_edge_count": 0,
+    "related_report_cross_root_edge_count": 0,
+    "related_report_target_page_count": 0,
+    "visible_pages_with_related_report_panel": 0,
+    "visible_pages_without_related_report_panel": 211,
+    "related_report_panel_coverage_percent": 0.0,
+    "average_related_report_links_per_visible_page": 0.0,
+    "unresolved_related_report_target_count": 0,
+    "sample_edge_count": 200
+  },
+  "samples": {
+    "visible_without_inbound_links": [],
+    "visible_orphan_pages": [],
+    "visible_empty_branch_sections": [],
+    "visible_missing_parent_target": [],
+    "visible_gaining_inbound_from_inline_links": [],
+    "visible_without_inline_inbound_links": [],
+    "visible_without_inline_outbound_links": [],
+    "visible_without_related_report_panel": [
+      {
+        "basename": "roswell_UFO_ramey_me_6248d5",
+        "title": "roswell UFO ramey",
+        "permalink": "/roswell-ufo-ramey/"
+      },
+      {
+        "basename": "roswell_UFO_ramey_me_6248d5_2015_rescanning_ea8b25",
+        "title": "2015 Scans",
+        "permalink": "/2015-scans/"
+      },
+      {
+        "basename": "roswell_UFO_ramey_me_6248d5_2015_rescanning_ea8b25_2015_scan_release_c776b7",
+        "title": "Scan Release",
+        "permalink": "/scan-release/"
+      },
+      {
+        "basename": "roswell_UFO_ramey_me_6248d5_2015_rescanning_ea8b25_independent_reader_c_a1cbd2",
+        "title": "Reader Convergence",
+        "permalink": "/reader-convergence/"
+      },
+      {
+        "basename": "roswell_UFO_ramey_me_6248d5_2015_rescanning_ea8b25_multiple_imaging_met_1550fa",
+        "title": "Imaging Methods",
+        "permalink": "/imaging-methods/"
+      },
+      {
+        "basename": "roswell_UFO_ramey_me_6248d5_2015_rescanning_ea8b25_original_negative_re_142081",
+        "title": "Original Negative",
+        "permalink": "/original-negative/"
+      },
+      {
+        "basename": "roswell_UFO_ramey_me_6248d5_2015_rescanning_ea8b25_photographic_grain_c_f6133f",
+        "title": "Grain Ceiling",
+        "permalink": "/grain-ceiling/"
+      },
+      {
+        "basename": "roswell_UFO_ramey_me_6248d5_2015_rescanning_ea8b25_ramey_negative_condi_a05214",
+        "title": "Film Condition",
+        "permalink": "/film-condition/"
+      },
+      {
+        "basename": "roswell_UFO_ramey_me_6248d5_ai_enhancement_9a4d7e",
+        "title": "AI Enhancement",
+        "permalink": "/ai-enhancement/"
+      },
+      {
+        "basename": "roswell_UFO_ramey_me_6248d5_ai_enhancement_9a4d7e_ai_letter_reconstruc_71ea0a",
+        "title": "AI Readings",
+        "permalink": "/ai-readings/"
+      },
+      {
+        "basename": "roswell_UFO_ramey_me_6248d5_ai_enhancement_9a4d7e_ai_super_resolution_ea5af1",
+        "title": "AI Limits",
+        "permalink": "/ai-limits/"
+      },
+      {
+        "basename": "roswell_UFO_ramey_me_6248d5_ai_enhancement_9a4d7e_archival_ai_standard_0232f2",
+        "title": "AI Standards",
+        "permalink": "/ai-standards/"
+      },
+      {
+        "basename": "roswell_UFO_ramey_me_6248d5_ai_enhancement_9a4d7e_generated_detail_ris_3a1c9a",
+        "title": "Generated Details",
+        "permalink": "/generated-details/"
+      },
+      {
+        "basename": "roswell_UFO_ramey_me_6248d5_ai_enhancement_9a4d7e_ramey_perception_bia_5670e6",
+        "title": "Perception Bias",
+        "permalink": "/perception-bias/"
+      },
+      {
+        "basename": "roswell_UFO_ramey_me_6248d5_ai_enhancement_9a4d7e_restoration_vs_recon_df0a6b",
+        "title": "Restoration Debate",
+        "permalink": "/restoration-debate/"
+      },
+      {
+        "basename": "roswell_UFO_ramey_me_6248d5_atomic_priming_362a6b",
+        "title": "Atomic Prime",
+        "permalink": "/atomic-prime/"
+      },
+      {
+        "basename": "roswell_UFO_ramey_me_6248d5_atomic_priming_362a6b_atomic_prime_nuclear_937cff",
+        "title": "Nuclear Words",
+        "permalink": "/nuclear-words/"
+      },
+      {
+        "basename": "roswell_UFO_ramey_me_6248d5_atomic_priming_362a6b_atomic_vs_blind_word_a8f4b6",
+        "title": "Word Counts",
+        "permalink": "/word-counts/"
+      },
+      {
+        "basename": "roswell_UFO_ramey_me_6248d5_atomic_priming_362a6b_cross_prime_survivin_6d78a4",
+        "title": "Surviving Words",
+        "permalink": "/surviving-words/"
+      },
+      {
+        "basename": "roswell_UFO_ramey_me_6248d5_atomic_priming_362a6b_missing_score_sheets_72cd13",
+        "title": "Missing Records",
+        "permalink": "/missing-records/"
+      },
+      {
+        "basename": "roswell_UFO_ramey_me_6248d5_atomic_priming_362a6b_priming_effort_confo_b5656e",
+        "title": "Search Effort",
+        "permalink": "/search-effort/"
+      },
+      {
+        "basename": "roswell_UFO_ramey_me_6248d5_atomic_priming_362a6b_rudiak_atomic_prime_c2b962",
+        "title": "Rudiak Critique",
+        "permalink": "/rudiak-critique/"
+      },
+      {
+        "basename": "roswell_UFO_ramey_me_6248d5_balloon_vs_crash_843d99",
+        "title": "Competing Claims",
+        "permalink": "/competing-claims/"
+      },
+      {
+        "basename": "roswell_UFO_ramey_me_6248d5_balloon_vs_crash_843d99_fbi_teletype_evidenc_d5f7f8",
+        "title": "FBI Teletype",
+        "permalink": "/fbi-teletype-4992fe/"
+      },
+      {
+        "basename": "roswell_UFO_ramey_me_6248d5_balloon_vs_crash_843d99_fort_worth_press_eve_6da711",
+        "title": "Fort Worth",
+        "permalink": "/fort-worth-132c2b/"
+      },
+      {
+        "basename": "roswell_UFO_ramey_me_6248d5_balloon_vs_crash_843d99_military_secrecy_exp_224472",
+        "title": "Secrecy Factor",
+        "permalink": "/secrecy-factor/"
+      },
+      {
+        "basename": "roswell_UFO_ramey_me_6248d5_balloon_vs_crash_843d99_project_mogul_record_348d24",
+        "title": "Mogul Records",
+        "permalink": "/mogul-records/"
+      },
+      {
+        "basename": "roswell_UFO_ramey_me_6248d5_balloon_vs_crash_843d99_ramey_memo_claims_ba3ea9",
+        "title": "Memo Claims",
+        "permalink": "/memo-claims/"
+      },
+      {
+        "basename": "roswell_UFO_ramey_me_6248d5_balloon_vs_crash_843d99_roswell_debris_evide_865514",
+        "title": "Debris Evidence",
+        "permalink": "/debris-evidence/"
+      },
+      {
+        "basename": "roswell_UFO_ramey_me_6248d5_blind_reading_3d7212_554838",
+        "title": "Blind Reading",
+        "permalink": "/blind-reading/"
+      },
+      {
+        "basename": "roswell_UFO_ramey_me_6248d5_blind_reading_3d7212_554838_blind_first_readings_ece236",
+        "title": "Blind First",
+        "permalink": "/blind-first/"
+      },
+      {
+        "basename": "roswell_UFO_ramey_me_6248d5_blind_reading_3d7212_554838_controlled_memo_view_1790b7",
+        "title": "Viewing Time",
+        "permalink": "/viewing-time-94a4eb/"
+      },
+      {
+        "basename": "roswell_UFO_ramey_me_6248d5_blind_reading_3d7212_554838_free_vs_forced_trans_468041",
+        "title": "Free Reading",
+        "permalink": "/free-reading/"
+      },
+      {
+        "basename": "roswell_UFO_ramey_me_6248d5_blind_reading_3d7212_554838_memo_agreement_thres_13d740",
+        "title": "Agreement Rules",
+        "permalink": "/agreement-rules/"
+      },
+      {
+        "basename": "roswell_UFO_ramey_me_6248d5_blind_reading_3d7212_554838_ramey_calibration_wo_f66837",
+        "title": "Calibration Words",
+        "permalink": "/calibration-words/"
+      },
+      {
+        "basename": "roswell_UFO_ramey_me_6248d5_blind_reading_3d7212_554838_uncertain_letters_co_d0b1d7",
+        "title": "Uncertain Letters",
+        "permalink": "/uncertain-letters/"
+      },
+      {
+        "basename": "roswell_UFO_ramey_me_6248d5_bond_johnson_2307d7_281e84",
+        "title": "Johnson",
+        "permalink": "/johnson/"
+      },
+      {
+        "basename": "roswell_UFO_ramey_me_6248d5_bond_johnson_2307d7_281e84_johnson_1989_account_9da244",
+        "title": "1989 Account",
+        "permalink": "/1989-account/"
+      },
+      {
+        "basename": "roswell_UFO_ramey_me_6248d5_bond_johnson_2307d7_281e84_johnson_marcel_frame_0e584a",
+        "title": "Marcel Frames",
+        "permalink": "/marcel-frames/"
+      },
+      {
+        "basename": "roswell_UFO_ramey_me_6248d5_bond_johnson_2307d7_281e84_johnson_memory_recon_f37283",
+        "title": "Memory Effects",
+        "permalink": "/memory-effects/"
+      },
+      {
+        "basename": "roswell_UFO_ramey_me_6248d5_bond_johnson_2307d7_281e84_johnson_paper_proven_8e03e1",
+        "title": "Paper Origin",
+        "permalink": "/paper-origin-7e98ca/"
+      },
+      {
+        "basename": "roswell_UFO_ramey_me_6248d5_bond_johnson_2307d7_281e84_johnson_photo_count_da7407",
+        "title": "Photo Count",
+        "permalink": "/photo-count/"
+      },
+      {
+        "basename": "roswell_UFO_ramey_me_6248d5_bond_johnson_2307d7_281e84_ramey_statement_shif_0f8164",
+        "title": "Ramey s Statement",
+        "permalink": "/ramey-s-statement/"
+      },
+      {
+        "basename": "roswell_UFO_ramey_me_6248d5_disc_reading_917df6_421dc7",
+        "title": "Disc Reading",
+        "permalink": "/disc-reading/"
+      },
+      {
+        "basename": "roswell_UFO_ramey_me_6248d5_disc_reading_917df6_421dc7_disc_balloon_explana_c56a6c",
+        "title": "Balloon Conflict",
+        "permalink": "/balloon-conflict/"
+      },
+      {
+        "basename": "roswell_UFO_ramey_me_6248d5_disc_reading_917df6_421dc7_disc_disk_else_readi_eb5af6",
+        "title": "Rival Readings",
+        "permalink": "/rival-readings-c99906/"
+      },
+      {
+        "basename": "roswell_UFO_ramey_me_6248d5_disc_reading_917df6_421dc7_disc_proof_standard_df63b7",
+        "title": "Proof Standard",
+        "permalink": "/proof-standard/"
+      },
+      {
+        "basename": "roswell_UFO_ramey_me_6248d5_disc_reading_917df6_421dc7_disc_quotation_marks_4cc283",
+        "title": "Quote Marks",
+        "permalink": "/quote-marks/"
+      },
+      {
+        "basename": "roswell_UFO_ramey_me_6248d5_disc_reading_917df6_421dc7_disc_vs_secure_words_7fe7e6",
+        "title": "Secure Words",
+        "permalink": "/secure-words/"
+      },
+      {
+        "basename": "roswell_UFO_ramey_me_6248d5_disc_reading_917df6_421dc7_rudiak_disc_sentence_f572e8",
+        "title": "Rudiak Sentence",
+        "permalink": "/rudiak-sentence/"
+      },
+      {
+        "basename": "roswell_UFO_ramey_me_6248d5_enhancement_risks_cfa68e",
+        "title": "Enhancement",
+        "permalink": "/enhancement/"
+      },
+      {
+        "basename": "roswell_UFO_ramey_me_6248d5_enhancement_risks_cfa68e_contrast_detail_loss_b2acb0",
+        "title": "Contrast Loss",
+        "permalink": "/contrast-loss/"
+      },
+      {
+        "basename": "roswell_UFO_ramey_me_6248d5_enhancement_risks_cfa68e_ramey_competing_rest_efa156",
+        "title": "Multiple Restorations",
+        "permalink": "/multiple-restorations/"
+      },
+      {
+        "basename": "roswell_UFO_ramey_me_6248d5_enhancement_risks_cfa68e_ramey_enhancement_re_cdbaf0",
+        "title": "Reproducibility",
+        "permalink": "/reproducibility/"
+      },
+      {
+        "basename": "roswell_UFO_ramey_me_6248d5_enhancement_risks_cfa68e_ramey_sharpening_hal_1a84e1",
+        "title": "Halo Effects",
+        "permalink": "/halo-effects/"
+      },
+      {
+        "basename": "roswell_UFO_ramey_me_6248d5_enhancement_risks_cfa68e_sharpening_false_str_dc0ee1",
+        "title": "False Strokes",
+        "permalink": "/false-strokes/"
+      },
+      {
+        "basename": "roswell_UFO_ramey_me_6248d5_enhancement_risks_cfa68e_sharpness_vs_resolut_763664",
+        "title": "Sharp vs Resolved",
+        "permalink": "/sharp-vs-resolved/"
+      },
+      {
+        "basename": "roswell_UFO_ramey_me_6248d5_estes_scan_03a163_e30cb6",
+        "title": "Estes Scan",
+        "permalink": "/estes-scan/"
+      },
+      {
+        "basename": "roswell_UFO_ramey_me_6248d5_estes_scan_03a163_e30cb6_estes_9000_dpi_scan_78eefa",
+        "title": "Estes Scan",
+        "permalink": "/estes-scan-345ffa/"
+      },
+      {
+        "basename": "roswell_UFO_ramey_me_6248d5_estes_scan_03a163_e30cb6_estes_disputed_words_1b4091",
+        "title": "Disputed Words",
+        "permalink": "/disputed-words/"
+      },
+      {
+        "basename": "roswell_UFO_ramey_me_6248d5_estes_scan_03a163_e30cb6_negative_vs_print_sc_93fe84",
+        "title": "Negative vs Print",
+        "permalink": "/negative-vs-print/"
+      },
+      {
+        "basename": "roswell_UFO_ramey_me_6248d5_estes_scan_03a163_e30cb6_ramey_image_distorti_9aa39c",
+        "title": "Image Distortion",
+        "permalink": "/image-distortion/"
+      },
+      {
+        "basename": "roswell_UFO_ramey_me_6248d5_estes_scan_03a163_e30cb6_ramey_memo_priming_t_eeb967",
+        "title": "Priming Test",
+        "permalink": "/priming-test-eebd2d/"
+      },
+      {
+        "basename": "roswell_UFO_ramey_me_6248d5_estes_scan_03a163_e30cb6_scan_resolution_limi_18bd11",
+        "title": "Resolution Limits",
+        "permalink": "/resolution-limits/"
+      },
+      {
+        "basename": "roswell_UFO_ramey_me_6248d5_expectation_effects_9e6957",
+        "title": "Expectation",
+        "permalink": "/expectation/"
+      },
+      {
+        "basename": "roswell_UFO_ramey_me_6248d5_expectation_effects_9e6957_atomic_prompt_word_s_fed8ab",
+        "title": "Atomic Prompt",
+        "permalink": "/atomic-prompt/"
+      },
+      {
+        "basename": "roswell_UFO_ramey_me_6248d5_expectation_effects_9e6957_blind_reader_reality_e538cd",
+        "title": "Blind Readers",
+        "permalink": "/blind-readers/"
+      },
+      {
+        "basename": "roswell_UFO_ramey_me_6248d5_expectation_effects_9e6957_cross_group_readabil_cf14fd",
+        "title": "Cross Group Test",
+        "permalink": "/cross-group-test/"
+      },
+      {
+        "basename": "roswell_UFO_ramey_me_6248d5_expectation_effects_9e6957_roswell_circular_con_de0efb",
+        "title": "Circular Reading",
+        "permalink": "/circular-reading/"
+      },
+      {
+        "basename": "roswell_UFO_ramey_me_6248d5_expectation_effects_9e6957_sentence_coherence_t_f7f199",
+        "title": "Coherence Trap",
+        "permalink": "/coherence-trap/"
+      },
+      {
+        "basename": "roswell_UFO_ramey_me_6248d5_expectation_effects_9e6957_word_search_context_3b9d8f",
+        "title": "Word Searches",
+        "permalink": "/word-searches/"
+      },
+      {
+        "basename": "roswell_UFO_ramey_me_6248d5_film_grain_3330d4_8b1116",
+        "title": "Film Grain",
+        "permalink": "/film-grain/"
+      },
+      {
+        "basename": "roswell_UFO_ramey_me_6248d5_film_grain_3330d4_8b1116_ambiguous_letter_con_f8957f",
+        "title": "Letter Confusions",
+        "permalink": "/letter-confusions/"
+      },
+      {
+        "basename": "roswell_UFO_ramey_me_6248d5_film_grain_3330d4_8b1116_grain_letter_illusio_bed1f2",
+        "title": "Grain Illusions",
+        "permalink": "/grain-illusions/"
+      },
+      {
+        "basename": "roswell_UFO_ramey_me_6248d5_film_grain_3330d4_8b1116_memo_letter_breakup_505eb3",
+        "title": "Broken Letters",
+        "permalink": "/broken-letters/"
+      },
+      {
+        "basename": "roswell_UFO_ramey_me_6248d5_film_grain_3330d4_8b1116_scan_fidelity_vs_gra_ac18cf",
+        "title": "Scan vs Grain",
+        "permalink": "/scan-vs-grain/"
+      },
+      {
+        "basename": "roswell_UFO_ramey_me_6248d5_film_grain_3330d4_8b1116_stroke_persistence_t_ee7e0c",
+        "title": "Stroke Survival",
+        "permalink": "/stroke-survival/"
+      },
+      {
+        "basename": "roswell_UFO_ramey_me_6248d5_film_grain_3330d4_8b1116_typed_letter_geometr_38a536",
+        "title": "Letter Geometry",
+        "permalink": "/letter-geometry/"
+      },
+      {
+        "basename": "roswell_UFO_ramey_me_6248d5_fort_worth_photos_24d97f",
+        "title": "Debris Photos",
+        "permalink": "/debris-photos/"
+      },
+      {
+        "basename": "roswell_UFO_ramey_me_6248d5_fort_worth_photos_24d97f_balloon_debris_switc_d224db",
+        "title": "Substitution Test",
+        "permalink": "/substitution-test/"
+      },
+      {
+        "basename": "roswell_UFO_ramey_me_6248d5_fort_worth_photos_24d97f_dubose_substitution_4a0ad4",
+        "title": "Du Bose Claim",
+        "permalink": "/du-bose-claim/"
+      },
+      {
+        "basename": "roswell_UFO_ramey_me_6248d5_fort_worth_photos_24d97f_fort_worth_photo_seq_f0470a",
+        "title": "Photo Sequence",
+        "permalink": "/photo-sequence/"
+      },
+      {
+        "basename": "roswell_UFO_ramey_me_6248d5_fort_worth_photos_24d97f_marcel_photo_account_ebb45a",
+        "title": "Marcel Accounts",
+        "permalink": "/marcel-accounts/"
+      },
+      {
+        "basename": "roswell_UFO_ramey_me_6248d5_fort_worth_photos_24d97f_mogul_photo_comparis_ebb99e",
+        "title": "MOGUL Match",
+        "permalink": "/mogul-match/"
+      },
+      {
+        "basename": "roswell_UFO_ramey_me_6248d5_fort_worth_photos_24d97f_newton_debris_identi_38a85e",
+        "title": "Newton ID",
+        "permalink": "/newton-id/"
+      },
+      {
+        "basename": "roswell_UFO_ramey_me_6248d5_fort_worth_wording_ba6760",
+        "title": "Fort Worth",
+        "permalink": "/fort-worth/"
+      },
+      {
+        "basename": "roswell_UFO_ramey_me_6248d5_fort_worth_wording_ba6760_fort_worth_clue_limi_ce73d4",
+        "title": "Limits",
+        "permalink": "/limits/"
+      },
+      {
+        "basename": "roswell_UFO_ramey_me_6248d5_fort_worth_wording_ba6760_fort_worth_early_rea_116aaa",
+        "title": "Early Readings",
+        "permalink": "/early-readings/"
+      },
+      {
+        "basename": "roswell_UFO_ramey_me_6248d5_fort_worth_wording_ba6760_fort_worth_enhanceme_0c3ce3",
+        "title": "Enhancement Test",
+        "permalink": "/enhancement-test/"
+      },
+      {
+        "basename": "roswell_UFO_ramey_me_6248d5_fort_worth_wording_ba6760_fort_worth_location_1c3fcc",
+        "title": "Location Check",
+        "permalink": "/location-check/"
+      },
+      {
+        "basename": "roswell_UFO_ramey_me_6248d5_fort_worth_wording_ba6760_fort_worth_paper_ori_51c5f1",
+        "title": "Paper Origin",
+        "permalink": "/paper-origin/"
+      },
+      {
+        "basename": "roswell_UFO_ramey_me_6248d5_fort_worth_wording_ba6760_fort_worth_reader_ag_a566e0",
+        "title": "Reader Agreement",
+        "permalink": "/reader-agreement/"
+      },
+      {
+        "basename": "roswell_UFO_ramey_me_6248d5_greenwood_reading_c04240",
+        "title": "Greenwood",
+        "permalink": "/greenwood/"
+      },
+      {
+        "basename": "roswell_UFO_ramey_me_6248d5_greenwood_reading_c04240_greenwood_confidence_42189c",
+        "title": "Greenwood s Caution",
+        "permalink": "/greenwood-s-caution/"
+      },
+      {
+        "basename": "roswell_UFO_ramey_me_6248d5_greenwood_reading_c04240_greenwood_rudiak_rea_fda9a1",
+        "title": "Rival Readings",
+        "permalink": "/rival-readings/"
+      },
+      {
+        "basename": "roswell_UFO_ramey_me_6248d5_greenwood_reading_c04240_haut_haught_press_er_770c1f",
+        "title": "Haut or Haught",
+        "permalink": "/haut-or-haught/"
+      },
+      {
+        "basename": "roswell_UFO_ramey_me_6248d5_greenwood_reading_c04240_military_punctuation_203798",
+        "title": "Punctuation Test",
+        "permalink": "/punctuation-test/"
+      },
+      {
+        "basename": "roswell_UFO_ramey_me_6248d5_greenwood_reading_c04240_news_copy_validation_ca59c9",
+        "title": "News Copy Test",
+        "permalink": "/news-copy-test/"
+      },
+      {
+        "basename": "roswell_UFO_ramey_me_6248d5_greenwood_reading_c04240_warren_haught_clue_fb33ef",
+        "title": "Warren Haught",
+        "permalink": "/warren-haught/"
+      },
+      {
+        "basename": "roswell_UFO_ramey_me_6248d5_houran_randle_study_efb939",
+        "title": "Priming Study",
+        "permalink": "/priming-study/"
+      },
+      {
+        "basename": "roswell_UFO_ramey_me_6248d5_houran_randle_study_efb939_ambiguity_memo_readi_d848c7",
+        "title": "Ambiguity",
+        "permalink": "/ambiguity/"
+      },
+      {
+        "basename": "roswell_UFO_ramey_me_6248d5_houran_randle_study_efb939_blind_group_baseline_876de7",
+        "title": "Blind Baseline",
+        "permalink": "/blind-baseline/"
+      },
+      {
+        "basename": "roswell_UFO_ramey_me_6248d5_houran_randle_study_efb939_prior_knowledge_read_c5b228",
+        "title": "Prior Knowledge",
+        "permalink": "/prior-knowledge/"
+      },
+      {
+        "basename": "roswell_UFO_ramey_me_6248d5_houran_randle_study_efb939_same_image_experimen_ea94a3",
+        "title": "Same Image",
+        "permalink": "/same-image/"
+      },
+      {
+        "basename": "roswell_UFO_ramey_me_6248d5_houran_randle_study_efb939_story_cross_group_si_bc9193",
+        "title": "Story",
+        "permalink": "/story/"
+      },
+      {
+        "basename": "roswell_UFO_ramey_me_6248d5_houran_randle_study_efb939_viewing_time_roswell_b2e59d",
+        "title": "Viewing Time",
+        "permalink": "/viewing-time/"
+      },
+      {
+        "basename": "roswell_UFO_ramey_me_6248d5_image_limits_adf0b3_142cd5",
+        "title": "Image Limits",
+        "permalink": "/image-limits/"
+      },
+      {
+        "basename": "roswell_UFO_ramey_me_6248d5_image_limits_adf0b3_142cd5_memo_crease_shadows_e5ecf1",
+        "title": "Crease Shadows",
+        "permalink": "/crease-shadows/"
+      },
+      {
+        "basename": "roswell_UFO_ramey_me_6248d5_image_limits_adf0b3_142cd5_memo_false_edges_531d83",
+        "title": "False Edges",
+        "permalink": "/false-edges/"
+      },
+      {
+        "basename": "roswell_UFO_ramey_me_6248d5_image_limits_adf0b3_142cd5_memo_photo_artifacts_c96554",
+        "title": "Photo Artifacts",
+        "permalink": "/photo-artifacts/"
+      },
+      {
+        "basename": "roswell_UFO_ramey_me_6248d5_image_limits_adf0b3_142cd5_memo_uneven_focus_50b669",
+        "title": "Uneven Focus",
+        "permalink": "/uneven-focus/"
+      },
+      {
+        "basename": "roswell_UFO_ramey_me_6248d5_image_limits_adf0b3_142cd5_ramey_memo_focus_lim_ff9f33",
+        "title": "Focus Limits",
+        "permalink": "/focus-limits/"
+      },
+      {
+        "basename": "roswell_UFO_ramey_me_6248d5_image_limits_adf0b3_142cd5_ramey_photo_sharpnes_bbf932",
+        "title": "Sharpness Myth",
+        "permalink": "/sharpness-myth/"
+      },
+      {
+        "basename": "roswell_UFO_ramey_me_6248d5_jesse_marcel_9f55f8",
+        "title": "Marcel",
+        "permalink": "/marcel/"
+      },
+      {
+        "basename": "roswell_UFO_ramey_me_6248d5_jesse_marcel_9f55f8_higher_headquarters_494935",
+        "title": "Higher HQ",
+        "permalink": "/higher-hq/"
+      },
+      {
+        "basename": "roswell_UFO_ramey_me_6248d5_jesse_marcel_9f55f8_marcel_chain_to_fort_b73e5c",
+        "title": "Chain Link",
+        "permalink": "/chain-link/"
+      },
+      {
+        "basename": "roswell_UFO_ramey_me_6248d5_jesse_marcel_9f55f8_marcel_fort_worth_ph_2f6393",
+        "title": "The Fort Worth Photographs",
+        "permalink": "/the-fort-worth-photographs/"
+      },
+      {
+        "basename": "roswell_UFO_ramey_me_6248d5_jesse_marcel_9f55f8_marcel_roswell_recov_f46637",
+        "title": "Debris Recovery",
+        "permalink": "/debris-recovery/"
+      },
+      {
+        "basename": "roswell_UFO_ramey_me_6248d5_jesse_marcel_9f55f8_roswell_chain_of_cus_45ebca",
+        "title": "Custody Limits",
+        "permalink": "/custody-limits/"
+      },
+      {
+        "basename": "roswell_UFO_ramey_me_6248d5_jesse_marcel_9f55f8_roswell_debris_exami_99203e",
+        "title": "Roswell Exam",
+        "permalink": "/roswell-exam/"
+      }
+    ],
+    "top_inline_internal_targets": [
+      {
+        "basename": "roswell_UFO_ramey_me_6248d5_ramey_explanation_76cd9c",
+        "title": "Ramey",
+        "permalink": "/ramey/",
+        "inline_inbound_count": 173
+      },
+      {
+        "basename": "roswell_UFO_ramey_me_6248d5_records_vs_memories_774edd_ramey_memo_photo_ce717e",
+        "title": "Ramey Memo",
+        "permalink": "/ramey-memo/",
+        "inline_inbound_count": 167
+      },
+      {
+        "basename": "roswell_UFO_ramey_me_6248d5_july_8_reversal_9c01ed_eighth_air_force_nar_264930",
+        "title": "Command Control",
+        "permalink": "/command-control/",
+        "inline_inbound_count": 119
+      },
+      {
+        "basename": "roswell_UFO_ramey_me_6248d5_rudiak_reconstructio_1fcf0f",
+        "title": "Rudiak",
+        "permalink": "/rudiak/",
+        "inline_inbound_count": 94
+      },
+      {
+        "basename": "roswell_UFO_ramey_me_6248d5_houran_randle_study_efb939_story_cross_group_si_bc9193",
+        "title": "Story",
+        "permalink": "/story/",
+        "inline_inbound_count": 93
+      },
+      {
+        "basename": "roswell_UFO_ramey_me_6248d5_july_8_reversal_9c01ed",
+        "title": "July 8",
+        "permalink": "/july-8/",
+        "inline_inbound_count": 75
+      },
+      {
+        "basename": "roswell_UFO_ramey_me_6248d5_original_negative_aac10a",
+        "title": "Negative",
+        "permalink": "/negative/",
+        "inline_inbound_count": 71
+      },
+      {
+        "basename": "roswell_UFO_ramey_me_6248d5_enhancement_risks_cfa68e",
+        "title": "Enhancement",
+        "permalink": "/enhancement/",
+        "inline_inbound_count": 67
+      },
+      {
+        "basename": "roswell_UFO_ramey_me_6248d5_bond_johnson_2307d7_281e84",
+        "title": "Johnson",
+        "permalink": "/johnson/",
+        "inline_inbound_count": 60
+      },
+      {
+        "basename": "roswell_UFO_ramey_me_6248d5_expectation_effects_9e6957",
+        "title": "Expectation",
+        "permalink": "/expectation/",
+        "inline_inbound_count": 54
+      },
+      {
+        "basename": "roswell_UFO_ramey_me_6248d5_transcription_consen_5c6c25_confidence_vs_consen_0bf8c9",
+        "title": "Confidence",
+        "permalink": "/confidence/",
+        "inline_inbound_count": 50
+      },
+      {
+        "basename": "roswell_UFO_ramey_me_6248d5_jesse_marcel_9f55f8",
+        "title": "Marcel",
+        "permalink": "/marcel/",
+        "inline_inbound_count": 49
+      },
+      {
+        "basename": "roswell_UFO_ramey_me_6248d5_no_smoking_gun_e71c7b_competing_transcript_aeab95",
+        "title": "Transcriptions",
+        "permalink": "/transcriptions/",
+        "inline_inbound_count": 49
+      },
+      {
+        "basename": "roswell_UFO_ramey_me_6248d5_greenwood_reading_c04240",
+        "title": "Greenwood",
+        "permalink": "/greenwood/",
+        "inline_inbound_count": 42
+      },
+      {
+        "basename": "roswell_UFO_ramey_me_6248d5_ramey_explanation_76cd9c_project_mogul_vs_ram_5e6441",
+        "title": "Project Mogul",
+        "permalink": "/project-mogul/",
+        "inline_inbound_count": 39
+      },
+      {
+        "basename": "roswell_UFO_ramey_me_6248d5_film_grain_3330d4_8b1116",
+        "title": "Film Grain",
+        "permalink": "/film-grain/",
+        "inline_inbound_count": 38
+      },
+      {
+        "basename": "roswell_UFO_ramey_me_6248d5_no_smoking_gun_e71c7b_ramey_memo_provenanc_72b078",
+        "title": "Provenance",
+        "permalink": "/provenance/",
+        "inline_inbound_count": 36
+      },
+      {
+        "basename": "roswell_UFO_ramey_me_6248d5_ramey_explanation_76cd9c_irving_newton_identi_5eed87",
+        "title": "Newton",
+        "permalink": "/newton/",
+        "inline_inbound_count": 30
+      },
+      {
+        "basename": "roswell_UFO_ramey_me_6248d5_ramey_explanation_76cd9c_radar_target_debris_713b03",
+        "title": "Radar Target",
+        "permalink": "/radar-target/",
+        "inline_inbound_count": 27
+      },
+      {
+        "basename": "roswell_UFO_ramey_me_6248d5_houran_randle_study_efb939_ambiguity_memo_readi_d848c7",
+        "title": "Ambiguity",
+        "permalink": "/ambiguity/",
+        "inline_inbound_count": 25
+      },
+      {
+        "basename": "roswell_UFO_ramey_me_6248d5_transcription_consen_5c6c25",
+        "title": "Consensus",
+        "permalink": "/consensus/",
+        "inline_inbound_count": 24
+      },
+      {
+        "basename": "roswell_UFO_ramey_me_6248d5_fort_worth_wording_ba6760_fort_worth_clue_limi_ce73d4",
+        "title": "Limits",
+        "permalink": "/limits/",
+        "inline_inbound_count": 23
+      },
+      {
+        "basename": "roswell_UFO_ramey_me_6248d5_2015_rescanning_ea8b25_independent_reader_c_a1cbd2",
+        "title": "Reader Convergence",
+        "permalink": "/reader-convergence/",
+        "inline_inbound_count": 22
+      },
+      {
+        "basename": "roswell_UFO_ramey_me_6248d5_2015_rescanning_ea8b25_photographic_grain_c_f6133f",
+        "title": "Grain Ceiling",
+        "permalink": "/grain-ceiling/",
+        "inline_inbound_count": 19
+      },
+      {
+        "basename": "roswell_UFO_ramey_me_6248d5_what_memo_proves_277897_military_communicati_1aa0ba",
+        "title": "Military Communication",
+        "permalink": "/military-communication/",
+        "inline_inbound_count": 16
+      },
+      {
+        "basename": "roswell_UFO_ramey_me_6248d5_jesse_marcel_9f55f8_higher_headquarters_494935",
+        "title": "Higher HQ",
+        "permalink": "/higher-hq/",
+        "inline_inbound_count": 15
+      },
+      {
+        "basename": "roswell_UFO_ramey_me_6248d5_memo_authenticity_805af6",
+        "title": "Authenticity",
+        "permalink": "/authenticity/",
+        "inline_inbound_count": 14
+      },
+      {
+        "basename": "roswell_UFO_ramey_me_6248d5_paper_folds_9eb200_f8ab87",
+        "title": "Folds",
+        "permalink": "/folds/",
+        "inline_inbound_count": 14
+      },
+      {
+        "basename": "roswell_UFO_ramey_me_6248d5_ramey_explanation_76cd9c_wright_field_flight_b093f6",
+        "title": "Wright Field",
+        "permalink": "/wright-field/",
+        "inline_inbound_count": 13
+      },
+      {
+        "basename": "roswell_UFO_ramey_me_6248d5_ramey_explanation_76cd9c_fort_worth_debris_su_678023",
+        "title": "Substitution",
+        "permalink": "/substitution/",
+        "inline_inbound_count": 11
+      },
+      {
+        "basename": "roswell_UFO_ramey_me_6248d5_roswell_familiarity_d5f531",
+        "title": "Familiarity",
+        "permalink": "/familiarity/",
+        "inline_inbound_count": 11
+      },
+      {
+        "basename": "roswell_UFO_ramey_me_6248d5_houran_randle_study_efb939_prior_knowledge_read_c5b228",
+        "title": "Prior Knowledge",
+        "permalink": "/prior-knowledge/",
+        "inline_inbound_count": 10
+      },
+      {
+        "basename": "roswell_UFO_ramey_me_6248d5_records_vs_memories_774edd_air_force_roswell_re_b5f4bb",
+        "title": "Air Force Review",
+        "permalink": "/air-force-review/",
+        "inline_inbound_count": 10
+      },
+      {
+        "basename": "roswell_UFO_ramey_me_6248d5_blind_reading_3d7212_554838_uncertain_letters_co_d0b1d7",
+        "title": "Uncertain Letters",
+        "permalink": "/uncertain-letters/",
+        "inline_inbound_count": 9
+      },
+      {
+        "basename": "roswell_UFO_ramey_me_6248d5_jesse_marcel_9f55f8_marcel_fort_worth_ph_2f6393",
+        "title": "The Fort Worth Photographs",
+        "permalink": "/the-fort-worth-photographs/",
+        "inline_inbound_count": 9
+      },
+      {
+        "basename": "roswell_UFO_ramey_me_6248d5_2015_rescanning_ea8b25",
+        "title": "2015 Scans",
+        "permalink": "/2015-scans/",
+        "inline_inbound_count": 7
+      },
+      {
+        "basename": "roswell_UFO_ramey_me_6248d5_ai_enhancement_9a4d7e",
+        "title": "AI Enhancement",
+        "permalink": "/ai-enhancement/",
+        "inline_inbound_count": 7
+      },
+      {
+        "basename": "roswell_UFO_ramey_me_6248d5_expectation_effects_9e6957_blind_reader_reality_e538cd",
+        "title": "Blind Readers",
+        "permalink": "/blind-readers/",
+        "inline_inbound_count": 7
+      },
+      {
+        "basename": "roswell_UFO_ramey_me_6248d5_greenwood_reading_c04240_warren_haught_clue_fb33ef",
+        "title": "Warren Haught",
+        "permalink": "/warren-haught/",
+        "inline_inbound_count": 7
+      },
+      {
+        "basename": "roswell_UFO_ramey_me_6248d5_records_vs_memories_774edd_later_witness_testim_fc2d08",
+        "title": "Witness Testimony",
+        "permalink": "/witness-testimony/",
+        "inline_inbound_count": 7
+      }
+    ],
+    "top_related_report_targets": [],
+    "unresolved_inline_internal_targets": [],
+    "unresolved_related_report_targets": [],
+    "edge_samples": [
+      {
+        "from": "roswell_UFO_ramey_me_6248d5",
+        "to": "roswell_UFO_ramey_me_6248d5_2015_rescanning_ea8b25",
+        "type": "child"
+      },
+      {
+        "from": "roswell_UFO_ramey_me_6248d5",
+        "to": "roswell_UFO_ramey_me_6248d5_ai_enhancement_9a4d7e",
+        "type": "child"
+      },
+      {
+        "from": "roswell_UFO_ramey_me_6248d5",
+        "to": "roswell_UFO_ramey_me_6248d5_atomic_priming_362a6b",
+        "type": "child"
+      },
+      {
+        "from": "roswell_UFO_ramey_me_6248d5",
+        "to": "roswell_UFO_ramey_me_6248d5_balloon_vs_crash_843d99",
+        "type": "child"
+      },
+      {
+        "from": "roswell_UFO_ramey_me_6248d5",
+        "to": "roswell_UFO_ramey_me_6248d5_blind_reading_3d7212_554838",
+        "type": "child"
+      },
+      {
+        "from": "roswell_UFO_ramey_me_6248d5",
+        "to": "roswell_UFO_ramey_me_6248d5_bond_johnson_2307d7_281e84",
+        "type": "child"
+      },
+      {
+        "from": "roswell_UFO_ramey_me_6248d5",
+        "to": "roswell_UFO_ramey_me_6248d5_disc_reading_917df6_421dc7",
+        "type": "child"
+      },
+      {
+        "from": "roswell_UFO_ramey_me_6248d5",
+        "to": "roswell_UFO_ramey_me_6248d5_enhancement_risks_cfa68e",
+        "type": "child"
+      },
+      {
+        "from": "roswell_UFO_ramey_me_6248d5",
+        "to": "roswell_UFO_ramey_me_6248d5_estes_scan_03a163_e30cb6",
+        "type": "child"
+      },
+      {
+        "from": "roswell_UFO_ramey_me_6248d5",
+        "to": "roswell_UFO_ramey_me_6248d5_expectation_effects_9e6957",
+        "type": "child"
+      },
+      {
+        "from": "roswell_UFO_ramey_me_6248d5",
+        "to": "roswell_UFO_ramey_me_6248d5_film_grain_3330d4_8b1116",
+        "type": "child"
+      },
+      {
+        "from": "roswell_UFO_ramey_me_6248d5",
+        "to": "roswell_UFO_ramey_me_6248d5_fort_worth_photos_24d97f",
+        "type": "child"
+      },
+      {
+        "from": "roswell_UFO_ramey_me_6248d5",
+        "to": "roswell_UFO_ramey_me_6248d5_fort_worth_wording_ba6760",
+        "type": "child"
+      },
+      {
+        "from": "roswell_UFO_ramey_me_6248d5",
+        "to": "roswell_UFO_ramey_me_6248d5_greenwood_reading_c04240",
+        "type": "child"
+      },
+      {
+        "from": "roswell_UFO_ramey_me_6248d5",
+        "to": "roswell_UFO_ramey_me_6248d5_houran_randle_study_efb939",
+        "type": "child"
+      },
+      {
+        "from": "roswell_UFO_ramey_me_6248d5",
+        "to": "roswell_UFO_ramey_me_6248d5_image_limits_adf0b3_142cd5",
+        "type": "child"
+      },
+      {
+        "from": "roswell_UFO_ramey_me_6248d5",
+        "to": "roswell_UFO_ramey_me_6248d5_index",
+        "type": "child"
+      },
+      {
+        "from": "roswell_UFO_ramey_me_6248d5",
+        "to": "roswell_UFO_ramey_me_6248d5_jesse_marcel_9f55f8",
+        "type": "child"
+      },
+      {
+        "from": "roswell_UFO_ramey_me_6248d5",
+        "to": "roswell_UFO_ramey_me_6248d5_july_8_reversal_9c01ed",
+        "type": "child"
+      },
+      {
+        "from": "roswell_UFO_ramey_me_6248d5",
+        "to": "roswell_UFO_ramey_me_6248d5_memo_authenticity_805af6",
+        "type": "child"
+      },
+      {
+        "from": "roswell_UFO_ramey_me_6248d5",
+        "to": "roswell_UFO_ramey_me_6248d5_no_smoking_gun_e71c7b",
+        "type": "child"
+      },
+      {
+        "from": "roswell_UFO_ramey_me_6248d5",
+        "to": "roswell_UFO_ramey_me_6248d5_original_negative_aac10a",
+        "type": "child"
+      },
+      {
+        "from": "roswell_UFO_ramey_me_6248d5",
+        "to": "roswell_UFO_ramey_me_6248d5_paper_folds_9eb200_f8ab87",
+        "type": "child"
+      },
+      {
+        "from": "roswell_UFO_ramey_me_6248d5",
+        "to": "roswell_UFO_ramey_me_6248d5_ramey_explanation_76cd9c",
+        "type": "child"
+      },
+      {
+        "from": "roswell_UFO_ramey_me_6248d5",
+        "to": "roswell_UFO_ramey_me_6248d5_records_vs_memories_774edd",
+        "type": "child"
+      },
+      {
+        "from": "roswell_UFO_ramey_me_6248d5",
+        "to": "roswell_UFO_ramey_me_6248d5_roswell_familiarity_d5f531",
+        "type": "child"
+      },
+      {
+        "from": "roswell_UFO_ramey_me_6248d5",
+        "to": "roswell_UFO_ramey_me_6248d5_rudiak_reconstructio_1fcf0f",
+        "type": "child"
+      },
+      {
+        "from": "roswell_UFO_ramey_me_6248d5",
+        "to": "roswell_UFO_ramey_me_6248d5_transcription_consen_5c6c25",
+        "type": "child"
+      },
+      {
+        "from": "roswell_UFO_ramey_me_6248d5",
+        "to": "roswell_UFO_ramey_me_6248d5_victims_phrase_b3d345",
+        "type": "child"
+      },
+      {
+        "from": "roswell_UFO_ramey_me_6248d5",
+        "to": "roswell_UFO_ramey_me_6248d5_weather_balloon_word_20718b",
+        "type": "child"
+      },
+      {
+        "from": "roswell_UFO_ramey_me_6248d5",
+        "to": "roswell_UFO_ramey_me_6248d5_what_memo_proves_277897",
+        "type": "child"
+      },
+      {
+        "from": "roswell_UFO_ramey_me_6248d5_jesse_marcel_9f55f8",
+        "to": "roswell_UFO_ramey_me_6248d5",
+        "type": "parent"
+      },
+      {
+        "from": "roswell_UFO_ramey_me_6248d5_jesse_marcel_9f55f8",
+        "to": "roswell_UFO_ramey_me_6248d5_2015_rescanning_ea8b25",
+        "type": "sibling"
+      },
+      {
+        "from": "roswell_UFO_ramey_me_6248d5_jesse_marcel_9f55f8",
+        "to": "roswell_UFO_ramey_me_6248d5_ai_enhancement_9a4d7e",
+        "type": "sibling"
+      },
+      {
+        "from": "roswell_UFO_ramey_me_6248d5_jesse_marcel_9f55f8",
+        "to": "roswell_UFO_ramey_me_6248d5_atomic_priming_362a6b",
+        "type": "sibling"
+      },
+      {
+        "from": "roswell_UFO_ramey_me_6248d5_jesse_marcel_9f55f8",
+        "to": "roswell_UFO_ramey_me_6248d5_balloon_vs_crash_843d99",
+        "type": "sibling"
+      },
+      {
+        "from": "roswell_UFO_ramey_me_6248d5_jesse_marcel_9f55f8",
+        "to": "roswell_UFO_ramey_me_6248d5_blind_reading_3d7212_554838",
+        "type": "sibling"
+      },
+      {
+        "from": "roswell_UFO_ramey_me_6248d5_jesse_marcel_9f55f8",
+        "to": "roswell_UFO_ramey_me_6248d5_bond_johnson_2307d7_281e84",
+        "type": "sibling"
+      },
+      {
+        "from": "roswell_UFO_ramey_me_6248d5_jesse_marcel_9f55f8",
+        "to": "roswell_UFO_ramey_me_6248d5_disc_reading_917df6_421dc7",
+        "type": "sibling"
+      },
+      {
+        "from": "roswell_UFO_ramey_me_6248d5_jesse_marcel_9f55f8",
+        "to": "roswell_UFO_ramey_me_6248d5_enhancement_risks_cfa68e",
+        "type": "sibling"
+      },
+      {
+        "from": "roswell_UFO_ramey_me_6248d5_jesse_marcel_9f55f8",
+        "to": "roswell_UFO_ramey_me_6248d5_estes_scan_03a163_e30cb6",
+        "type": "sibling"
+      },
+      {
+        "from": "roswell_UFO_ramey_me_6248d5_jesse_marcel_9f55f8",
+        "to": "roswell_UFO_ramey_me_6248d5_expectation_effects_9e6957",
+        "type": "sibling"
+      },
+      {
+        "from": "roswell_UFO_ramey_me_6248d5_jesse_marcel_9f55f8",
+        "to": "roswell_UFO_ramey_me_6248d5_film_grain_3330d4_8b1116",
+        "type": "sibling"
+      },
+      {
+        "from": "roswell_UFO_ramey_me_6248d5_jesse_marcel_9f55f8",
+        "to": "roswell_UFO_ramey_me_6248d5_fort_worth_photos_24d97f",
+        "type": "sibling"
+      },
+      {
+        "from": "roswell_UFO_ramey_me_6248d5_jesse_marcel_9f55f8",
+        "to": "roswell_UFO_ramey_me_6248d5_fort_worth_wording_ba6760",
+        "type": "sibling"
+      },
+      {
+        "from": "roswell_UFO_ramey_me_6248d5_jesse_marcel_9f55f8",
+        "to": "roswell_UFO_ramey_me_6248d5_greenwood_reading_c04240",
+        "type": "sibling"
+      },
+      {
+        "from": "roswell_UFO_ramey_me_6248d5_jesse_marcel_9f55f8",
+        "to": "roswell_UFO_ramey_me_6248d5_houran_randle_study_efb939",
+        "type": "sibling"
+      },
+      {
+        "from": "roswell_UFO_ramey_me_6248d5_jesse_marcel_9f55f8",
+        "to": "roswell_UFO_ramey_me_6248d5_image_limits_adf0b3_142cd5",
+        "type": "sibling"
+      },
+      {
+        "from": "roswell_UFO_ramey_me_6248d5_jesse_marcel_9f55f8",
+        "to": "roswell_UFO_ramey_me_6248d5_july_8_reversal_9c01ed",
+        "type": "sibling"
+      },
+      {
+        "from": "roswell_UFO_ramey_me_6248d5_jesse_marcel_9f55f8",
+        "to": "roswell_UFO_ramey_me_6248d5_memo_authenticity_805af6",
+        "type": "sibling"
+      },
+      {
+        "from": "roswell_UFO_ramey_me_6248d5_jesse_marcel_9f55f8",
+        "to": "roswell_UFO_ramey_me_6248d5_no_smoking_gun_e71c7b",
+        "type": "sibling"
+      },
+      {
+        "from": "roswell_UFO_ramey_me_6248d5_jesse_marcel_9f55f8",
+        "to": "roswell_UFO_ramey_me_6248d5_original_negative_aac10a",
+        "type": "sibling"
+      },
+      {
+        "from": "roswell_UFO_ramey_me_6248d5_jesse_marcel_9f55f8",
+        "to": "roswell_UFO_ramey_me_6248d5_paper_folds_9eb200_f8ab87",
+        "type": "sibling"
+      },
+      {
+        "from": "roswell_UFO_ramey_me_6248d5_jesse_marcel_9f55f8",
+        "to": "roswell_UFO_ramey_me_6248d5_ramey_explanation_76cd9c",
+        "type": "sibling"
+      },
+      {
+        "from": "roswell_UFO_ramey_me_6248d5_jesse_marcel_9f55f8",
+        "to": "roswell_UFO_ramey_me_6248d5_records_vs_memories_774edd",
+        "type": "sibling"
+      },
+      {
+        "from": "roswell_UFO_ramey_me_6248d5_jesse_marcel_9f55f8",
+        "to": "roswell_UFO_ramey_me_6248d5_roswell_familiarity_d5f531",
+        "type": "sibling"
+      },
+      {
+        "from": "roswell_UFO_ramey_me_6248d5_jesse_marcel_9f55f8",
+        "to": "roswell_UFO_ramey_me_6248d5_rudiak_reconstructio_1fcf0f",
+        "type": "sibling"
+      },
+      {
+        "from": "roswell_UFO_ramey_me_6248d5_jesse_marcel_9f55f8",
+        "to": "roswell_UFO_ramey_me_6248d5_transcription_consen_5c6c25",
+        "type": "sibling"
+      },
+      {
+        "from": "roswell_UFO_ramey_me_6248d5_jesse_marcel_9f55f8",
+        "to": "roswell_UFO_ramey_me_6248d5_victims_phrase_b3d345",
+        "type": "sibling"
+      },
+      {
+        "from": "roswell_UFO_ramey_me_6248d5_jesse_marcel_9f55f8",
+        "to": "roswell_UFO_ramey_me_6248d5_weather_balloon_word_20718b",
+        "type": "sibling"
+      },
+      {
+        "from": "roswell_UFO_ramey_me_6248d5_jesse_marcel_9f55f8",
+        "to": "roswell_UFO_ramey_me_6248d5_what_memo_proves_277897",
+        "type": "sibling"
+      },
+      {
+        "from": "roswell_UFO_ramey_me_6248d5_jesse_marcel_9f55f8",
+        "to": "roswell_UFO_ramey_me_6248d5_jesse_marcel_9f55f8_higher_headquarters_494935",
+        "type": "child"
+      },
+      {
+        "from": "roswell_UFO_ramey_me_6248d5_jesse_marcel_9f55f8",
+        "to": "roswell_UFO_ramey_me_6248d5_jesse_marcel_9f55f8_index",
+        "type": "child"
+      },
+      {
+        "from": "roswell_UFO_ramey_me_6248d5_jesse_marcel_9f55f8",
+        "to": "roswell_UFO_ramey_me_6248d5_jesse_marcel_9f55f8_marcel_chain_to_fort_b73e5c",
+        "type": "child"
+      },
+      {
+        "from": "roswell_UFO_ramey_me_6248d5_jesse_marcel_9f55f8",
+        "to": "roswell_UFO_ramey_me_6248d5_jesse_marcel_9f55f8_marcel_fort_worth_ph_2f6393",
+        "type": "child"
+      },
+      {
+        "from": "roswell_UFO_ramey_me_6248d5_jesse_marcel_9f55f8",
+        "to": "roswell_UFO_ramey_me_6248d5_jesse_marcel_9f55f8_marcel_roswell_recov_f46637",
+        "type": "child"
+      },
+      {
+        "from": "roswell_UFO_ramey_me_6248d5_jesse_marcel_9f55f8",
+        "to": "roswell_UFO_ramey_me_6248d5_jesse_marcel_9f55f8_roswell_chain_of_cus_45ebca",
+        "type": "child"
+      },
+      {
+        "from": "roswell_UFO_ramey_me_6248d5_jesse_marcel_9f55f8",
+        "to": "roswell_UFO_ramey_me_6248d5_jesse_marcel_9f55f8_roswell_debris_exami_99203e",
+        "type": "child"
+      },
+      {
+        "from": "roswell_UFO_ramey_me_6248d5_jesse_marcel_9f55f8",
+        "to": "roswell_UFO_ramey_me_6248d5",
+        "type": "ancestor"
+      },
+      {
+        "from": "roswell_UFO_ramey_me_6248d5_ai_enhancement_9a4d7e",
+        "to": "roswell_UFO_ramey_me_6248d5",
+        "type": "parent"
+      },
+      {
+        "from": "roswell_UFO_ramey_me_6248d5_ai_enhancement_9a4d7e",
+        "to": "roswell_UFO_ramey_me_6248d5_2015_rescanning_ea8b25",
+        "type": "sibling"
+      },
+      {
+        "from": "roswell_UFO_ramey_me_6248d5_ai_enhancement_9a4d7e",
+        "to": "roswell_UFO_ramey_me_6248d5_atomic_priming_362a6b",
+        "type": "sibling"
+      },
+      {
+        "from": "roswell_UFO_ramey_me_6248d5_ai_enhancement_9a4d7e",
+        "to": "roswell_UFO_ramey_me_6248d5_balloon_vs_crash_843d99",
+        "type": "sibling"
+      },
+      {
+        "from": "roswell_UFO_ramey_me_6248d5_ai_enhancement_9a4d7e",
+        "to": "roswell_UFO_ramey_me_6248d5_blind_reading_3d7212_554838",
+        "type": "sibling"
+      },
+      {
+        "from": "roswell_UFO_ramey_me_6248d5_ai_enhancement_9a4d7e",
+        "to": "roswell_UFO_ramey_me_6248d5_bond_johnson_2307d7_281e84",
+        "type": "sibling"
+      },
+      {
+        "from": "roswell_UFO_ramey_me_6248d5_ai_enhancement_9a4d7e",
+        "to": "roswell_UFO_ramey_me_6248d5_disc_reading_917df6_421dc7",
+        "type": "sibling"
+      },
+      {
+        "from": "roswell_UFO_ramey_me_6248d5_ai_enhancement_9a4d7e",
+        "to": "roswell_UFO_ramey_me_6248d5_enhancement_risks_cfa68e",
+        "type": "sibling"
+      },
+      {
+        "from": "roswell_UFO_ramey_me_6248d5_ai_enhancement_9a4d7e",
+        "to": "roswell_UFO_ramey_me_6248d5_estes_scan_03a163_e30cb6",
+        "type": "sibling"
+      },
+      {
+        "from": "roswell_UFO_ramey_me_6248d5_ai_enhancement_9a4d7e",
+        "to": "roswell_UFO_ramey_me_6248d5_expectation_effects_9e6957",
+        "type": "sibling"
+      },
+      {
+        "from": "roswell_UFO_ramey_me_6248d5_ai_enhancement_9a4d7e",
+        "to": "roswell_UFO_ramey_me_6248d5_film_grain_3330d4_8b1116",
+        "type": "sibling"
+      },
+      {
+        "from": "roswell_UFO_ramey_me_6248d5_ai_enhancement_9a4d7e",
+        "to": "roswell_UFO_ramey_me_6248d5_fort_worth_photos_24d97f",
+        "type": "sibling"
+      },
+      {
+        "from": "roswell_UFO_ramey_me_6248d5_ai_enhancement_9a4d7e",
+        "to": "roswell_UFO_ramey_me_6248d5_fort_worth_wording_ba6760",
+        "type": "sibling"
+      },
+      {
+        "from": "roswell_UFO_ramey_me_6248d5_ai_enhancement_9a4d7e",
+        "to": "roswell_UFO_ramey_me_6248d5_greenwood_reading_c04240",
+        "type": "sibling"
+      },
+      {
+        "from": "roswell_UFO_ramey_me_6248d5_ai_enhancement_9a4d7e",
+        "to": "roswell_UFO_ramey_me_6248d5_houran_randle_study_efb939",
+        "type": "sibling"
+      },
+      {
+        "from": "roswell_UFO_ramey_me_6248d5_ai_enhancement_9a4d7e",
+        "to": "roswell_UFO_ramey_me_6248d5_image_limits_adf0b3_142cd5",
+        "type": "sibling"
+      },
+      {
+        "from": "roswell_UFO_ramey_me_6248d5_ai_enhancement_9a4d7e",
+        "to": "roswell_UFO_ramey_me_6248d5_jesse_marcel_9f55f8",
+        "type": "sibling"
+      },
+      {
+        "from": "roswell_UFO_ramey_me_6248d5_ai_enhancement_9a4d7e",
+        "to": "roswell_UFO_ramey_me_6248d5_july_8_reversal_9c01ed",
+        "type": "sibling"
+      },
+      {
+        "from": "roswell_UFO_ramey_me_6248d5_ai_enhancement_9a4d7e",
+        "to": "roswell_UFO_ramey_me_6248d5_memo_authenticity_805af6",
+        "type": "sibling"
+      },
+      {
+        "from": "roswell_UFO_ramey_me_6248d5_ai_enhancement_9a4d7e",
+        "to": "roswell_UFO_ramey_me_6248d5_no_smoking_gun_e71c7b",
+        "type": "sibling"
+      },
+      {
+        "from": "roswell_UFO_ramey_me_6248d5_ai_enhancement_9a4d7e",
+        "to": "roswell_UFO_ramey_me_6248d5_original_negative_aac10a",
+        "type": "sibling"
+      },
+      {
+        "from": "roswell_UFO_ramey_me_6248d5_ai_enhancement_9a4d7e",
+        "to": "roswell_UFO_ramey_me_6248d5_paper_folds_9eb200_f8ab87",
+        "type": "sibling"
+      },
+      {
+        "from": "roswell_UFO_ramey_me_6248d5_ai_enhancement_9a4d7e",
+        "to": "roswell_UFO_ramey_me_6248d5_ramey_explanation_76cd9c",
+        "type": "sibling"
+      },
+      {
+        "from": "roswell_UFO_ramey_me_6248d5_ai_enhancement_9a4d7e",
+        "to": "roswell_UFO_ramey_me_6248d5_records_vs_memories_774edd",
+        "type": "sibling"
+      },
+      {
+        "from": "roswell_UFO_ramey_me_6248d5_ai_enhancement_9a4d7e",
+        "to": "roswell_UFO_ramey_me_6248d5_roswell_familiarity_d5f531",
+        "type": "sibling"
+      },
+      {
+        "from": "roswell_UFO_ramey_me_6248d5_ai_enhancement_9a4d7e",
+        "to": "roswell_UFO_ramey_me_6248d5_rudiak_reconstructio_1fcf0f",
+        "type": "sibling"
+      },
+      {
+        "from": "roswell_UFO_ramey_me_6248d5_ai_enhancement_9a4d7e",
+        "to": "roswell_UFO_ramey_me_6248d5_transcription_consen_5c6c25",
+        "type": "sibling"
+      },
+      {
+        "from": "roswell_UFO_ramey_me_6248d5_ai_enhancement_9a4d7e",
+        "to": "roswell_UFO_ramey_me_6248d5_victims_phrase_b3d345",
+        "type": "sibling"
+      },
+      {
+        "from": "roswell_UFO_ramey_me_6248d5_ai_enhancement_9a4d7e",
+        "to": "roswell_UFO_ramey_me_6248d5_weather_balloon_word_20718b",
+        "type": "sibling"
+      },
+      {
+        "from": "roswell_UFO_ramey_me_6248d5_ai_enhancement_9a4d7e",
+        "to": "roswell_UFO_ramey_me_6248d5_what_memo_proves_277897",
+        "type": "sibling"
+      },
+      {
+        "from": "roswell_UFO_ramey_me_6248d5_ai_enhancement_9a4d7e",
+        "to": "roswell_UFO_ramey_me_6248d5_ai_enhancement_9a4d7e_ai_letter_reconstruc_71ea0a",
+        "type": "child"
+      },
+      {
+        "from": "roswell_UFO_ramey_me_6248d5_ai_enhancement_9a4d7e",
+        "to": "roswell_UFO_ramey_me_6248d5_ai_enhancement_9a4d7e_ai_super_resolution_ea5af1",
+        "type": "child"
+      },
+      {
+        "from": "roswell_UFO_ramey_me_6248d5_ai_enhancement_9a4d7e",
+        "to": "roswell_UFO_ramey_me_6248d5_ai_enhancement_9a4d7e_archival_ai_standard_0232f2",
+        "type": "child"
+      },
+      {
+        "from": "roswell_UFO_ramey_me_6248d5_ai_enhancement_9a4d7e",
+        "to": "roswell_UFO_ramey_me_6248d5_ai_enhancement_9a4d7e_generated_detail_ris_3a1c9a",
+        "type": "child"
+      },
+      {
+        "from": "roswell_UFO_ramey_me_6248d5_ai_enhancement_9a4d7e",
+        "to": "roswell_UFO_ramey_me_6248d5_ai_enhancement_9a4d7e_index",
+        "type": "child"
+      },
+      {
+        "from": "roswell_UFO_ramey_me_6248d5_ai_enhancement_9a4d7e",
+        "to": "roswell_UFO_ramey_me_6248d5_ai_enhancement_9a4d7e_ramey_perception_bia_5670e6",
+        "type": "child"
+      },
+      {
+        "from": "roswell_UFO_ramey_me_6248d5_ai_enhancement_9a4d7e",
+        "to": "roswell_UFO_ramey_me_6248d5_ai_enhancement_9a4d7e_restoration_vs_recon_df0a6b",
+        "type": "child"
+      },
+      {
+        "from": "roswell_UFO_ramey_me_6248d5_ai_enhancement_9a4d7e",
+        "to": "roswell_UFO_ramey_me_6248d5",
+        "type": "ancestor"
+      },
+      {
+        "from": "roswell_UFO_ramey_me_6248d5_atomic_priming_362a6b",
+        "to": "roswell_UFO_ramey_me_6248d5",
+        "type": "parent"
+      },
+      {
+        "from": "roswell_UFO_ramey_me_6248d5_atomic_priming_362a6b",
+        "to": "roswell_UFO_ramey_me_6248d5_2015_rescanning_ea8b25",
+        "type": "sibling"
+      },
+      {
+        "from": "roswell_UFO_ramey_me_6248d5_atomic_priming_362a6b",
+        "to": "roswell_UFO_ramey_me_6248d5_ai_enhancement_9a4d7e",
+        "type": "sibling"
+      },
+      {
+        "from": "roswell_UFO_ramey_me_6248d5_atomic_priming_362a6b",
+        "to": "roswell_UFO_ramey_me_6248d5_balloon_vs_crash_843d99",
+        "type": "sibling"
+      },
+      {
+        "from": "roswell_UFO_ramey_me_6248d5_atomic_priming_362a6b",
+        "to": "roswell_UFO_ramey_me_6248d5_blind_reading_3d7212_554838",
+        "type": "sibling"
+      },
+      {
+        "from": "roswell_UFO_ramey_me_6248d5_atomic_priming_362a6b",
+        "to": "roswell_UFO_ramey_me_6248d5_bond_johnson_2307d7_281e84",
+        "type": "sibling"
+      },
+      {
+        "from": "roswell_UFO_ramey_me_6248d5_atomic_priming_362a6b",
+        "to": "roswell_UFO_ramey_me_6248d5_disc_reading_917df6_421dc7",
+        "type": "sibling"
+      },
+      {
+        "from": "roswell_UFO_ramey_me_6248d5_atomic_priming_362a6b",
+        "to": "roswell_UFO_ramey_me_6248d5_enhancement_risks_cfa68e",
+        "type": "sibling"
+      },
+      {
+        "from": "roswell_UFO_ramey_me_6248d5_atomic_priming_362a6b",
+        "to": "roswell_UFO_ramey_me_6248d5_estes_scan_03a163_e30cb6",
+        "type": "sibling"
+      },
+      {
+        "from": "roswell_UFO_ramey_me_6248d5_atomic_priming_362a6b",
+        "to": "roswell_UFO_ramey_me_6248d5_expectation_effects_9e6957",
+        "type": "sibling"
+      },
+      {
+        "from": "roswell_UFO_ramey_me_6248d5_atomic_priming_362a6b",
+        "to": "roswell_UFO_ramey_me_6248d5_film_grain_3330d4_8b1116",
+        "type": "sibling"
+      },
+      {
+        "from": "roswell_UFO_ramey_me_6248d5_atomic_priming_362a6b",
+        "to": "roswell_UFO_ramey_me_6248d5_fort_worth_photos_24d97f",
+        "type": "sibling"
+      },
+      {
+        "from": "roswell_UFO_ramey_me_6248d5_atomic_priming_362a6b",
+        "to": "roswell_UFO_ramey_me_6248d5_fort_worth_wording_ba6760",
+        "type": "sibling"
+      },
+      {
+        "from": "roswell_UFO_ramey_me_6248d5_atomic_priming_362a6b",
+        "to": "roswell_UFO_ramey_me_6248d5_greenwood_reading_c04240",
+        "type": "sibling"
+      },
+      {
+        "from": "roswell_UFO_ramey_me_6248d5_atomic_priming_362a6b",
+        "to": "roswell_UFO_ramey_me_6248d5_houran_randle_study_efb939",
+        "type": "sibling"
+      },
+      {
+        "from": "roswell_UFO_ramey_me_6248d5_atomic_priming_362a6b",
+        "to": "roswell_UFO_ramey_me_6248d5_image_limits_adf0b3_142cd5",
+        "type": "sibling"
+      },
+      {
+        "from": "roswell_UFO_ramey_me_6248d5_atomic_priming_362a6b",
+        "to": "roswell_UFO_ramey_me_6248d5_jesse_marcel_9f55f8",
+        "type": "sibling"
+      },
+      {
+        "from": "roswell_UFO_ramey_me_6248d5_atomic_priming_362a6b",
+        "to": "roswell_UFO_ramey_me_6248d5_july_8_reversal_9c01ed",
+        "type": "sibling"
+      },
+      {
+        "from": "roswell_UFO_ramey_me_6248d5_atomic_priming_362a6b",
+        "to": "roswell_UFO_ramey_me_6248d5_memo_authenticity_805af6",
+        "type": "sibling"
+      },
+      {
+        "from": "roswell_UFO_ramey_me_6248d5_atomic_priming_362a6b",
+        "to": "roswell_UFO_ramey_me_6248d5_no_smoking_gun_e71c7b",
+        "type": "sibling"
+      },
+      {
+        "from": "roswell_UFO_ramey_me_6248d5_atomic_priming_362a6b",
+        "to": "roswell_UFO_ramey_me_6248d5_original_negative_aac10a",
+        "type": "sibling"
+      },
+      {
+        "from": "roswell_UFO_ramey_me_6248d5_atomic_priming_362a6b",
+        "to": "roswell_UFO_ramey_me_6248d5_paper_folds_9eb200_f8ab87",
+        "type": "sibling"
+      },
+      {
+        "from": "roswell_UFO_ramey_me_6248d5_atomic_priming_362a6b",
+        "to": "roswell_UFO_ramey_me_6248d5_ramey_explanation_76cd9c",
+        "type": "sibling"
+      },
+      {
+        "from": "roswell_UFO_ramey_me_6248d5_atomic_priming_362a6b",
+        "to": "roswell_UFO_ramey_me_6248d5_records_vs_memories_774edd",
+        "type": "sibling"
+      },
+      {
+        "from": "roswell_UFO_ramey_me_6248d5_atomic_priming_362a6b",
+        "to": "roswell_UFO_ramey_me_6248d5_roswell_familiarity_d5f531",
+        "type": "sibling"
+      },
+      {
+        "from": "roswell_UFO_ramey_me_6248d5_atomic_priming_362a6b",
+        "to": "roswell_UFO_ramey_me_6248d5_rudiak_reconstructio_1fcf0f",
+        "type": "sibling"
+      },
+      {
+        "from": "roswell_UFO_ramey_me_6248d5_atomic_priming_362a6b",
+        "to": "roswell_UFO_ramey_me_6248d5_transcription_consen_5c6c25",
+        "type": "sibling"
+      },
+      {
+        "from": "roswell_UFO_ramey_me_6248d5_atomic_priming_362a6b",
+        "to": "roswell_UFO_ramey_me_6248d5_victims_phrase_b3d345",
+        "type": "sibling"
+      },
+      {
+        "from": "roswell_UFO_ramey_me_6248d5_atomic_priming_362a6b",
+        "to": "roswell_UFO_ramey_me_6248d5_weather_balloon_word_20718b",
+        "type": "sibling"
+      },
+      {
+        "from": "roswell_UFO_ramey_me_6248d5_atomic_priming_362a6b",
+        "to": "roswell_UFO_ramey_me_6248d5_what_memo_proves_277897",
+        "type": "sibling"
+      },
+      {
+        "from": "roswell_UFO_ramey_me_6248d5_atomic_priming_362a6b",
+        "to": "roswell_UFO_ramey_me_6248d5_atomic_priming_362a6b_atomic_prime_nuclear_937cff",
+        "type": "child"
+      },
+      {
+        "from": "roswell_UFO_ramey_me_6248d5_atomic_priming_362a6b",
+        "to": "roswell_UFO_ramey_me_6248d5_atomic_priming_362a6b_atomic_vs_blind_word_a8f4b6",
+        "type": "child"
+      },
+      {
+        "from": "roswell_UFO_ramey_me_6248d5_atomic_priming_362a6b",
+        "to": "roswell_UFO_ramey_me_6248d5_atomic_priming_362a6b_cross_prime_survivin_6d78a4",
+        "type": "child"
+      },
+      {
+        "from": "roswell_UFO_ramey_me_6248d5_atomic_priming_362a6b",
+        "to": "roswell_UFO_ramey_me_6248d5_atomic_priming_362a6b_index",
+        "type": "child"
+      },
+      {
+        "from": "roswell_UFO_ramey_me_6248d5_atomic_priming_362a6b",
+        "to": "roswell_UFO_ramey_me_6248d5_atomic_priming_362a6b_missing_score_sheets_72cd13",
+        "type": "child"
+      },
+      {
+        "from": "roswell_UFO_ramey_me_6248d5_atomic_priming_362a6b",
+        "to": "roswell_UFO_ramey_me_6248d5_atomic_priming_362a6b_priming_effort_confo_b5656e",
+        "type": "child"
+      },
+      {
+        "from": "roswell_UFO_ramey_me_6248d5_atomic_priming_362a6b",
+        "to": "roswell_UFO_ramey_me_6248d5_atomic_priming_362a6b_rudiak_atomic_prime_c2b962",
+        "type": "child"
+      },
+      {
+        "from": "roswell_UFO_ramey_me_6248d5_atomic_priming_362a6b",
+        "to": "roswell_UFO_ramey_me_6248d5",
+        "type": "ancestor"
+      },
+      {
+        "from": "roswell_UFO_ramey_me_6248d5_no_smoking_gun_e71c7b",
+        "to": "roswell_UFO_ramey_me_6248d5",
+        "type": "parent"
+      },
+      {
+        "from": "roswell_UFO_ramey_me_6248d5_no_smoking_gun_e71c7b",
+        "to": "roswell_UFO_ramey_me_6248d5_2015_rescanning_ea8b25",
+        "type": "sibling"
+      },
+      {
+        "from": "roswell_UFO_ramey_me_6248d5_no_smoking_gun_e71c7b",
+        "to": "roswell_UFO_ramey_me_6248d5_ai_enhancement_9a4d7e",
+        "type": "sibling"
+      },
+      {
+        "from": "roswell_UFO_ramey_me_6248d5_no_smoking_gun_e71c7b",
+        "to": "roswell_UFO_ramey_me_6248d5_atomic_priming_362a6b",
+        "type": "sibling"
+      },
+      {
+        "from": "roswell_UFO_ramey_me_6248d5_no_smoking_gun_e71c7b",
+        "to": "roswell_UFO_ramey_me_6248d5_balloon_vs_crash_843d99",
+        "type": "sibling"
+      },
+      {
+        "from": "roswell_UFO_ramey_me_6248d5_no_smoking_gun_e71c7b",
+        "to": "roswell_UFO_ramey_me_6248d5_blind_reading_3d7212_554838",
+        "type": "sibling"
+      },
+      {
+        "from": "roswell_UFO_ramey_me_6248d5_no_smoking_gun_e71c7b",
+        "to": "roswell_UFO_ramey_me_6248d5_bond_johnson_2307d7_281e84",
+        "type": "sibling"
+      },
+      {
+        "from": "roswell_UFO_ramey_me_6248d5_no_smoking_gun_e71c7b",
+        "to": "roswell_UFO_ramey_me_6248d5_disc_reading_917df6_421dc7",
+        "type": "sibling"
+      },
+      {
+        "from": "roswell_UFO_ramey_me_6248d5_no_smoking_gun_e71c7b",
+        "to": "roswell_UFO_ramey_me_6248d5_enhancement_risks_cfa68e",
+        "type": "sibling"
+      },
+      {
+        "from": "roswell_UFO_ramey_me_6248d5_no_smoking_gun_e71c7b",
+        "to": "roswell_UFO_ramey_me_6248d5_estes_scan_03a163_e30cb6",
+        "type": "sibling"
+      },
+      {
+        "from": "roswell_UFO_ramey_me_6248d5_no_smoking_gun_e71c7b",
+        "to": "roswell_UFO_ramey_me_6248d5_expectation_effects_9e6957",
+        "type": "sibling"
+      },
+      {
+        "from": "roswell_UFO_ramey_me_6248d5_no_smoking_gun_e71c7b",
+        "to": "roswell_UFO_ramey_me_6248d5_film_grain_3330d4_8b1116",
+        "type": "sibling"
+      },
+      {
+        "from": "roswell_UFO_ramey_me_6248d5_no_smoking_gun_e71c7b",
+        "to": "roswell_UFO_ramey_me_6248d5_fort_worth_photos_24d97f",
+        "type": "sibling"
+      },
+      {
+        "from": "roswell_UFO_ramey_me_6248d5_no_smoking_gun_e71c7b",
+        "to": "roswell_UFO_ramey_me_6248d5_fort_worth_wording_ba6760",
+        "type": "sibling"
+      },
+      {
+        "from": "roswell_UFO_ramey_me_6248d5_no_smoking_gun_e71c7b",
+        "to": "roswell_UFO_ramey_me_6248d5_greenwood_reading_c04240",
+        "type": "sibling"
+      },
+      {
+        "from": "roswell_UFO_ramey_me_6248d5_no_smoking_gun_e71c7b",
+        "to": "roswell_UFO_ramey_me_6248d5_houran_randle_study_efb939",
+        "type": "sibling"
+      },
+      {
+        "from": "roswell_UFO_ramey_me_6248d5_no_smoking_gun_e71c7b",
+        "to": "roswell_UFO_ramey_me_6248d5_image_limits_adf0b3_142cd5",
+        "type": "sibling"
+      },
+      {
+        "from": "roswell_UFO_ramey_me_6248d5_no_smoking_gun_e71c7b",
+        "to": "roswell_UFO_ramey_me_6248d5_jesse_marcel_9f55f8",
+        "type": "sibling"
+      },
+      {
+        "from": "roswell_UFO_ramey_me_6248d5_no_smoking_gun_e71c7b",
+        "to": "roswell_UFO_ramey_me_6248d5_july_8_reversal_9c01ed",
+        "type": "sibling"
+      },
+      {
+        "from": "roswell_UFO_ramey_me_6248d5_no_smoking_gun_e71c7b",
+        "to": "roswell_UFO_ramey_me_6248d5_memo_authenticity_805af6",
+        "type": "sibling"
+      },
+      {
+        "from": "roswell_UFO_ramey_me_6248d5_no_smoking_gun_e71c7b",
+        "to": "roswell_UFO_ramey_me_6248d5_original_negative_aac10a",
+        "type": "sibling"
+      },
+      {
+        "from": "roswell_UFO_ramey_me_6248d5_no_smoking_gun_e71c7b",
+        "to": "roswell_UFO_ramey_me_6248d5_paper_folds_9eb200_f8ab87",
+        "type": "sibling"
+      },
+      {
+        "from": "roswell_UFO_ramey_me_6248d5_no_smoking_gun_e71c7b",
+        "to": "roswell_UFO_ramey_me_6248d5_ramey_explanation_76cd9c",
+        "type": "sibling"
+      },
+      {
+        "from": "roswell_UFO_ramey_me_6248d5_no_smoking_gun_e71c7b",
+        "to": "roswell_UFO_ramey_me_6248d5_records_vs_memories_774edd",
+        "type": "sibling"
+      },
+      {
+        "from": "roswell_UFO_ramey_me_6248d5_no_smoking_gun_e71c7b",
+        "to": "roswell_UFO_ramey_me_6248d5_roswell_familiarity_d5f531",
+        "type": "sibling"
+      },
+      {
+        "from": "roswell_UFO_ramey_me_6248d5_no_smoking_gun_e71c7b",
+        "to": "roswell_UFO_ramey_me_6248d5_rudiak_reconstructio_1fcf0f",
+        "type": "sibling"
+      },
+      {
+        "from": "roswell_UFO_ramey_me_6248d5_no_smoking_gun_e71c7b",
+        "to": "roswell_UFO_ramey_me_6248d5_transcription_consen_5c6c25",
+        "type": "sibling"
+      },
+      {
+        "from": "roswell_UFO_ramey_me_6248d5_no_smoking_gun_e71c7b",
+        "to": "roswell_UFO_ramey_me_6248d5_victims_phrase_b3d345",
+        "type": "sibling"
+      },
+      {
+        "from": "roswell_UFO_ramey_me_6248d5_no_smoking_gun_e71c7b",
+        "to": "roswell_UFO_ramey_me_6248d5_weather_balloon_word_20718b",
+        "type": "sibling"
+      },
+      {
+        "from": "roswell_UFO_ramey_me_6248d5_no_smoking_gun_e71c7b",
+        "to": "roswell_UFO_ramey_me_6248d5_what_memo_proves_277897",
+        "type": "sibling"
+      },
+      {
+        "from": "roswell_UFO_ramey_me_6248d5_no_smoking_gun_e71c7b",
+        "to": "roswell_UFO_ramey_me_6248d5_no_smoking_gun_e71c7b_alien_body_claim_gap_c10ccc",
+        "type": "child"
+      },
+      {
+        "from": "roswell_UFO_ramey_me_6248d5_no_smoking_gun_e71c7b",
+        "to": "roswell_UFO_ramey_me_6248d5_no_smoking_gun_e71c7b_competing_transcript_aeab95",
+        "type": "child"
+      },
+      {
+        "from": "roswell_UFO_ramey_me_6248d5_no_smoking_gun_e71c7b",
+        "to": "roswell_UFO_ramey_me_6248d5_no_smoking_gun_e71c7b_index",
+        "type": "child"
+      },
+      {
+        "from": "roswell_UFO_ramey_me_6248d5_no_smoking_gun_e71c7b",
+        "to": "roswell_UFO_ramey_me_6248d5_no_smoking_gun_e71c7b_missing_ramey_docume_bfc60b",
+        "type": "child"
+      },
+      {
+        "from": "roswell_UFO_ramey_me_6248d5_no_smoking_gun_e71c7b",
+        "to": "roswell_UFO_ramey_me_6248d5_no_smoking_gun_e71c7b_ramey_memo_provenanc_72b078",
+        "type": "child"
+      },
+      {
+        "from": "roswell_UFO_ramey_me_6248d5_no_smoking_gun_e71c7b",
+        "to": "roswell_UFO_ramey_me_6248d5_no_smoking_gun_e71c7b_smoking_gun_standard_8af82f",
+        "type": "child"
+      },
+      {
+        "from": "roswell_UFO_ramey_me_6248d5_no_smoking_gun_e71c7b",
+        "to": "roswell_UFO_ramey_me_6248d5_no_smoking_gun_e71c7b_weather_balloon_cont_d4c82b",
+        "type": "child"
+      },
+      {
+        "from": "roswell_UFO_ramey_me_6248d5_no_smoking_gun_e71c7b",
+        "to": "roswell_UFO_ramey_me_6248d5",
+        "type": "ancestor"
+      },
+      {
+        "from": "roswell_UFO_ramey_me_6248d5_victims_phrase_b3d345",
+        "to": "roswell_UFO_ramey_me_6248d5",
+        "type": "parent"
+      },
+      {
+        "from": "roswell_UFO_ramey_me_6248d5_victims_phrase_b3d345",
+        "to": "roswell_UFO_ramey_me_6248d5_2015_rescanning_ea8b25",
+        "type": "sibling"
+      },
+      {
+        "from": "roswell_UFO_ramey_me_6248d5_victims_phrase_b3d345",
+        "to": "roswell_UFO_ramey_me_6248d5_ai_enhancement_9a4d7e",
+        "type": "sibling"
+      },
+      {
+        "from": "roswell_UFO_ramey_me_6248d5_victims_phrase_b3d345",
+        "to": "roswell_UFO_ramey_me_6248d5_atomic_priming_362a6b",
+        "type": "sibling"
+      },
+      {
+        "from": "roswell_UFO_ramey_me_6248d5_victims_phrase_b3d345",
+        "to": "roswell_UFO_ramey_me_6248d5_balloon_vs_crash_843d99",
+        "type": "sibling"
+      },
+      {
+        "from": "roswell_UFO_ramey_me_6248d5_victims_phrase_b3d345",
+        "to": "roswell_UFO_ramey_me_6248d5_blind_reading_3d7212_554838",
+        "type": "sibling"
+      },
+      {
+        "from": "roswell_UFO_ramey_me_6248d5_victims_phrase_b3d345",
+        "to": "roswell_UFO_ramey_me_6248d5_bond_johnson_2307d7_281e84",
+        "type": "sibling"
+      },
+      {
+        "from": "roswell_UFO_ramey_me_6248d5_victims_phrase_b3d345",
+        "to": "roswell_UFO_ramey_me_6248d5_disc_reading_917df6_421dc7",
+        "type": "sibling"
+      },
+      {
+        "from": "roswell_UFO_ramey_me_6248d5_victims_phrase_b3d345",
+        "to": "roswell_UFO_ramey_me_6248d5_enhancement_risks_cfa68e",
+        "type": "sibling"
+      },
+      {
+        "from": "roswell_UFO_ramey_me_6248d5_victims_phrase_b3d345",
+        "to": "roswell_UFO_ramey_me_6248d5_estes_scan_03a163_e30cb6",
+        "type": "sibling"
+      },
+      {
+        "from": "roswell_UFO_ramey_me_6248d5_victims_phrase_b3d345",
+        "to": "roswell_UFO_ramey_me_6248d5_expectation_effects_9e6957",
+        "type": "sibling"
+      },
+      {
+        "from": "roswell_UFO_ramey_me_6248d5_victims_phrase_b3d345",
+        "to": "roswell_UFO_ramey_me_6248d5_film_grain_3330d4_8b1116",
+        "type": "sibling"
+      },
+      {
+        "from": "roswell_UFO_ramey_me_6248d5_victims_phrase_b3d345",
+        "to": "roswell_UFO_ramey_me_6248d5_fort_worth_photos_24d97f",
+        "type": "sibling"
+      },
+      {
+        "from": "roswell_UFO_ramey_me_6248d5_victims_phrase_b3d345",
+        "to": "roswell_UFO_ramey_me_6248d5_fort_worth_wording_ba6760",
+        "type": "sibling"
+      },
+      {
+        "from": "roswell_UFO_ramey_me_6248d5_victims_phrase_b3d345",
+        "to": "roswell_UFO_ramey_me_6248d5_greenwood_reading_c04240",
+        "type": "sibling"
+      },
+      {
+        "from": "roswell_UFO_ramey_me_6248d5_victims_phrase_b3d345",
+        "to": "roswell_UFO_ramey_me_6248d5_houran_randle_study_efb939",
+        "type": "sibling"
+      },
+      {
+        "from": "roswell_UFO_ramey_me_6248d5_victims_phrase_b3d345",
+        "to": "roswell_UFO_ramey_me_6248d5_image_limits_adf0b3_142cd5",
+        "type": "sibling"
+      }
+    ],
+    "inline_edge_samples": [
+      {
+        "from": "roswell_UFO_ramey_me_6248d5",
+        "to": "roswell_UFO_ramey_me_6248d5_memo_authenticity_805af6",
+        "type": "inline_internal"
+      },
+      {
+        "from": "roswell_UFO_ramey_me_6248d5",
+        "to": "roswell_UFO_ramey_me_6248d5_transcription_consen_5c6c25",
+        "type": "inline_internal"
+      },
+      {
+        "from": "roswell_UFO_ramey_me_6248d5",
+        "to": "roswell_UFO_ramey_me_6248d5_greenwood_reading_c04240",
+        "type": "inline_internal"
+      },
+      {
+        "from": "roswell_UFO_ramey_me_6248d5",
+        "to": "roswell_UFO_ramey_me_6248d5_bond_johnson_2307d7_281e84",
+        "type": "inline_internal"
+      },
+      {
+        "from": "roswell_UFO_ramey_me_6248d5",
+        "to": "roswell_UFO_ramey_me_6248d5_jesse_marcel_9f55f8",
+        "type": "inline_internal"
+      },
+      {
+        "from": "roswell_UFO_ramey_me_6248d5",
+        "to": "roswell_UFO_ramey_me_6248d5_original_negative_aac10a",
+        "type": "inline_internal"
+      },
+      {
+        "from": "roswell_UFO_ramey_me_6248d5",
+        "to": "roswell_UFO_ramey_me_6248d5_ramey_explanation_76cd9c",
+        "type": "inline_internal"
+      },
+      {
+        "from": "roswell_UFO_ramey_me_6248d5",
+        "to": "roswell_UFO_ramey_me_6248d5_rudiak_reconstructio_1fcf0f",
+        "type": "inline_internal"
+      },
+      {
+        "from": "roswell_UFO_ramey_me_6248d5_jesse_marcel_9f55f8",
+        "to": "roswell_UFO_ramey_me_6248d5_july_8_reversal_9c01ed_eighth_air_force_nar_264930",
+        "type": "inline_internal"
+      },
+      {
+        "from": "roswell_UFO_ramey_me_6248d5_jesse_marcel_9f55f8",
+        "to": "roswell_UFO_ramey_me_6248d5_jesse_marcel_9f55f8_higher_headquarters_494935",
+        "type": "inline_internal"
+      },
+      {
+        "from": "roswell_UFO_ramey_me_6248d5_jesse_marcel_9f55f8",
+        "to": "roswell_UFO_ramey_me_6248d5_july_8_reversal_9c01ed",
+        "type": "inline_internal"
+      },
+      {
+        "from": "roswell_UFO_ramey_me_6248d5_jesse_marcel_9f55f8",
+        "to": "roswell_UFO_ramey_me_6248d5_original_negative_aac10a",
+        "type": "inline_internal"
+      },
+      {
+        "from": "roswell_UFO_ramey_me_6248d5_jesse_marcel_9f55f8",
+        "to": "roswell_UFO_ramey_me_6248d5_ramey_explanation_76cd9c_project_mogul_vs_ram_5e6441",
+        "type": "inline_internal"
+      },
+      {
+        "from": "roswell_UFO_ramey_me_6248d5_jesse_marcel_9f55f8",
+        "to": "roswell_UFO_ramey_me_6248d5_records_vs_memories_774edd_ramey_memo_photo_ce717e",
+        "type": "inline_internal"
+      },
+      {
+        "from": "roswell_UFO_ramey_me_6248d5_jesse_marcel_9f55f8",
+        "to": "roswell_UFO_ramey_me_6248d5_ramey_explanation_76cd9c",
+        "type": "inline_internal"
+      },
+      {
+        "from": "roswell_UFO_ramey_me_6248d5_jesse_marcel_9f55f8",
+        "to": "roswell_UFO_ramey_me_6248d5_houran_randle_study_efb939_story_cross_group_si_bc9193",
+        "type": "inline_internal"
+      },
+      {
+        "from": "roswell_UFO_ramey_me_6248d5_ai_enhancement_9a4d7e",
+        "to": "roswell_UFO_ramey_me_6248d5_transcription_consen_5c6c25_enhancement_artifact_3fa35f",
+        "type": "inline_internal"
+      },
+      {
+        "from": "roswell_UFO_ramey_me_6248d5_ai_enhancement_9a4d7e",
+        "to": "roswell_UFO_ramey_me_6248d5_enhancement_risks_cfa68e",
+        "type": "inline_internal"
+      },
+      {
+        "from": "roswell_UFO_ramey_me_6248d5_ai_enhancement_9a4d7e",
+        "to": "roswell_UFO_ramey_me_6248d5_expectation_effects_9e6957",
+        "type": "inline_internal"
+      },
+      {
+        "from": "roswell_UFO_ramey_me_6248d5_ai_enhancement_9a4d7e",
+        "to": "roswell_UFO_ramey_me_6248d5_film_grain_3330d4_8b1116",
+        "type": "inline_internal"
+      },
+      {
+        "from": "roswell_UFO_ramey_me_6248d5_ai_enhancement_9a4d7e",
+        "to": "roswell_UFO_ramey_me_6248d5_ai_enhancement_9a4d7e_generated_detail_ris_3a1c9a",
+        "type": "inline_internal"
+      },
+      {
+        "from": "roswell_UFO_ramey_me_6248d5_ai_enhancement_9a4d7e",
+        "to": "roswell_UFO_ramey_me_6248d5_fort_worth_wording_ba6760_fort_worth_clue_limi_ce73d4",
+        "type": "inline_internal"
+      },
+      {
+        "from": "roswell_UFO_ramey_me_6248d5_ai_enhancement_9a4d7e",
+        "to": "roswell_UFO_ramey_me_6248d5_records_vs_memories_774edd_ramey_memo_photo_ce717e",
+        "type": "inline_internal"
+      },
+      {
+        "from": "roswell_UFO_ramey_me_6248d5_ai_enhancement_9a4d7e",
+        "to": "roswell_UFO_ramey_me_6248d5_ramey_explanation_76cd9c",
+        "type": "inline_internal"
+      },
+      {
+        "from": "roswell_UFO_ramey_me_6248d5_atomic_priming_362a6b",
+        "to": "roswell_UFO_ramey_me_6248d5_enhancement_risks_cfa68e",
+        "type": "inline_internal"
+      },
+      {
+        "from": "roswell_UFO_ramey_me_6248d5_atomic_priming_362a6b",
+        "to": "roswell_UFO_ramey_me_6248d5_expectation_effects_9e6957",
+        "type": "inline_internal"
+      },
+      {
+        "from": "roswell_UFO_ramey_me_6248d5_atomic_priming_362a6b",
+        "to": "roswell_UFO_ramey_me_6248d5_july_8_reversal_9c01ed",
+        "type": "inline_internal"
+      },
+      {
+        "from": "roswell_UFO_ramey_me_6248d5_atomic_priming_362a6b",
+        "to": "roswell_UFO_ramey_me_6248d5_ramey_explanation_76cd9c_project_mogul_vs_ram_5e6441",
+        "type": "inline_internal"
+      },
+      {
+        "from": "roswell_UFO_ramey_me_6248d5_atomic_priming_362a6b",
+        "to": "roswell_UFO_ramey_me_6248d5_records_vs_memories_774edd_ramey_memo_photo_ce717e",
+        "type": "inline_internal"
+      },
+      {
+        "from": "roswell_UFO_ramey_me_6248d5_atomic_priming_362a6b",
+        "to": "roswell_UFO_ramey_me_6248d5_ramey_explanation_76cd9c",
+        "type": "inline_internal"
+      },
+      {
+        "from": "roswell_UFO_ramey_me_6248d5_atomic_priming_362a6b",
+        "to": "roswell_UFO_ramey_me_6248d5_rudiak_reconstructio_1fcf0f",
+        "type": "inline_internal"
+      },
+      {
+        "from": "roswell_UFO_ramey_me_6248d5_atomic_priming_362a6b",
+        "to": "roswell_UFO_ramey_me_6248d5_houran_randle_study_efb939_story_cross_group_si_bc9193",
+        "type": "inline_internal"
+      },
+      {
+        "from": "roswell_UFO_ramey_me_6248d5_no_smoking_gun_e71c7b",
+        "to": "roswell_UFO_ramey_me_6248d5_july_8_reversal_9c01ed_eighth_air_force_nar_264930",
+        "type": "inline_internal"
+      },
+      {
+        "from": "roswell_UFO_ramey_me_6248d5_no_smoking_gun_e71c7b",
+        "to": "roswell_UFO_ramey_me_6248d5_enhancement_risks_cfa68e",
+        "type": "inline_internal"
+      },
+      {
+        "from": "roswell_UFO_ramey_me_6248d5_no_smoking_gun_e71c7b",
+        "to": "roswell_UFO_ramey_me_6248d5_july_8_reversal_9c01ed",
+        "type": "inline_internal"
+      },
+      {
+        "from": "roswell_UFO_ramey_me_6248d5_no_smoking_gun_e71c7b",
+        "to": "roswell_UFO_ramey_me_6248d5_original_negative_aac10a",
+        "type": "inline_internal"
+      },
+      {
+        "from": "roswell_UFO_ramey_me_6248d5_no_smoking_gun_e71c7b",
+        "to": "roswell_UFO_ramey_me_6248d5_no_smoking_gun_e71c7b_ramey_memo_provenanc_72b078",
+        "type": "inline_internal"
+      },
+      {
+        "from": "roswell_UFO_ramey_me_6248d5_no_smoking_gun_e71c7b",
+        "to": "roswell_UFO_ramey_me_6248d5_records_vs_memories_774edd_ramey_memo_photo_ce717e",
+        "type": "inline_internal"
+      },
+      {
+        "from": "roswell_UFO_ramey_me_6248d5_no_smoking_gun_e71c7b",
+        "to": "roswell_UFO_ramey_me_6248d5_ramey_explanation_76cd9c",
+        "type": "inline_internal"
+      },
+      {
+        "from": "roswell_UFO_ramey_me_6248d5_no_smoking_gun_e71c7b",
+        "to": "roswell_UFO_ramey_me_6248d5_2015_rescanning_ea8b25_independent_reader_c_a1cbd2",
+        "type": "inline_internal"
+      },
+      {
+        "from": "roswell_UFO_ramey_me_6248d5_victims_phrase_b3d345",
+        "to": "roswell_UFO_ramey_me_6248d5_july_8_reversal_9c01ed_eighth_air_force_nar_264930",
+        "type": "inline_internal"
+      },
+      {
+        "from": "roswell_UFO_ramey_me_6248d5_victims_phrase_b3d345",
+        "to": "roswell_UFO_ramey_me_6248d5_transcription_consen_5c6c25",
+        "type": "inline_internal"
+      },
+      {
+        "from": "roswell_UFO_ramey_me_6248d5_victims_phrase_b3d345",
+        "to": "roswell_UFO_ramey_me_6248d5_enhancement_risks_cfa68e",
+        "type": "inline_internal"
+      },
+      {
+        "from": "roswell_UFO_ramey_me_6248d5_victims_phrase_b3d345",
+        "to": "roswell_UFO_ramey_me_6248d5_expectation_effects_9e6957",
+        "type": "inline_internal"
+      },
+      {
+        "from": "roswell_UFO_ramey_me_6248d5_victims_phrase_b3d345",
+        "to": "roswell_UFO_ramey_me_6248d5_roswell_familiarity_d5f531",
+        "type": "inline_internal"
+      },
+      {
+        "from": "roswell_UFO_ramey_me_6248d5_victims_phrase_b3d345",
+        "to": "roswell_UFO_ramey_me_6248d5_original_negative_aac10a",
+        "type": "inline_internal"
+      },
+      {
+        "from": "roswell_UFO_ramey_me_6248d5_victims_phrase_b3d345",
+        "to": "roswell_UFO_ramey_me_6248d5_ramey_explanation_76cd9c",
+        "type": "inline_internal"
+      },
+      {
+        "from": "roswell_UFO_ramey_me_6248d5_victims_phrase_b3d345",
+        "to": "roswell_UFO_ramey_me_6248d5_rudiak_reconstructio_1fcf0f",
+        "type": "inline_internal"
+      },
+      {
+        "from": "roswell_UFO_ramey_me_6248d5_2015_rescanning_ea8b25",
+        "to": "roswell_UFO_ramey_me_6248d5_july_8_reversal_9c01ed_eighth_air_force_nar_264930",
+        "type": "inline_internal"
+      },
+      {
+        "from": "roswell_UFO_ramey_me_6248d5_2015_rescanning_ea8b25",
+        "to": "roswell_UFO_ramey_me_6248d5_enhancement_risks_cfa68e",
+        "type": "inline_internal"
+      },
+      {
+        "from": "roswell_UFO_ramey_me_6248d5_2015_rescanning_ea8b25",
+        "to": "roswell_UFO_ramey_me_6248d5_expectation_effects_9e6957",
+        "type": "inline_internal"
+      },
+      {
+        "from": "roswell_UFO_ramey_me_6248d5_2015_rescanning_ea8b25",
+        "to": "roswell_UFO_ramey_me_6248d5_film_grain_3330d4_8b1116",
+        "type": "inline_internal"
+      },
+      {
+        "from": "roswell_UFO_ramey_me_6248d5_2015_rescanning_ea8b25",
+        "to": "roswell_UFO_ramey_me_6248d5_greenwood_reading_c04240",
+        "type": "inline_internal"
+      },
+      {
+        "from": "roswell_UFO_ramey_me_6248d5_2015_rescanning_ea8b25",
+        "to": "roswell_UFO_ramey_me_6248d5_original_negative_aac10a",
+        "type": "inline_internal"
+      },
+      {
+        "from": "roswell_UFO_ramey_me_6248d5_2015_rescanning_ea8b25",
+        "to": "roswell_UFO_ramey_me_6248d5_ramey_explanation_76cd9c",
+        "type": "inline_internal"
+      },
+      {
+        "from": "roswell_UFO_ramey_me_6248d5_2015_rescanning_ea8b25",
+        "to": "roswell_UFO_ramey_me_6248d5_rudiak_reconstructio_1fcf0f",
+        "type": "inline_internal"
+      },
+      {
+        "from": "roswell_UFO_ramey_me_6248d5_july_8_reversal_9c01ed",
+        "to": "roswell_UFO_ramey_me_6248d5_july_8_reversal_9c01ed_eighth_air_force_nar_264930",
+        "type": "inline_internal"
+      },
+      {
+        "from": "roswell_UFO_ramey_me_6248d5_july_8_reversal_9c01ed",
+        "to": "roswell_UFO_ramey_me_6248d5_enhancement_risks_cfa68e",
+        "type": "inline_internal"
+      },
+      {
+        "from": "roswell_UFO_ramey_me_6248d5_july_8_reversal_9c01ed",
+        "to": "roswell_UFO_ramey_me_6248d5_expectation_effects_9e6957",
+        "type": "inline_internal"
+      },
+      {
+        "from": "roswell_UFO_ramey_me_6248d5_july_8_reversal_9c01ed",
+        "to": "roswell_UFO_ramey_me_6248d5_bond_johnson_2307d7_281e84",
+        "type": "inline_internal"
+      },
+      {
+        "from": "roswell_UFO_ramey_me_6248d5_july_8_reversal_9c01ed",
+        "to": "roswell_UFO_ramey_me_6248d5_jesse_marcel_9f55f8",
+        "type": "inline_internal"
+      },
+      {
+        "from": "roswell_UFO_ramey_me_6248d5_july_8_reversal_9c01ed",
+        "to": "roswell_UFO_ramey_me_6248d5_original_negative_aac10a",
+        "type": "inline_internal"
+      },
+      {
+        "from": "roswell_UFO_ramey_me_6248d5_july_8_reversal_9c01ed",
+        "to": "roswell_UFO_ramey_me_6248d5_ramey_explanation_76cd9c",
+        "type": "inline_internal"
+      },
+      {
+        "from": "roswell_UFO_ramey_me_6248d5_july_8_reversal_9c01ed",
+        "to": "roswell_UFO_ramey_me_6248d5_july_8_reversal_9c01ed_roswell_flying_disc_fc1a1e",
+        "type": "inline_internal"
+      },
+      {
+        "from": "roswell_UFO_ramey_me_6248d5_balloon_vs_crash_843d99",
+        "to": "roswell_UFO_ramey_me_6248d5_expectation_effects_9e6957",
+        "type": "inline_internal"
+      },
+      {
+        "from": "roswell_UFO_ramey_me_6248d5_balloon_vs_crash_843d99",
+        "to": "roswell_UFO_ramey_me_6248d5_paper_folds_9eb200_f8ab87",
+        "type": "inline_internal"
+      },
+      {
+        "from": "roswell_UFO_ramey_me_6248d5_balloon_vs_crash_843d99",
+        "to": "roswell_UFO_ramey_me_6248d5_july_8_reversal_9c01ed",
+        "type": "inline_internal"
+      },
+      {
+        "from": "roswell_UFO_ramey_me_6248d5_balloon_vs_crash_843d99",
+        "to": "roswell_UFO_ramey_me_6248d5_jesse_marcel_9f55f8",
+        "type": "inline_internal"
+      },
+      {
+        "from": "roswell_UFO_ramey_me_6248d5_balloon_vs_crash_843d99",
+        "to": "roswell_UFO_ramey_me_6248d5_balloon_vs_crash_843d99_project_mogul_record_348d24",
+        "type": "inline_internal"
+      },
+      {
+        "from": "roswell_UFO_ramey_me_6248d5_balloon_vs_crash_843d99",
+        "to": "roswell_UFO_ramey_me_6248d5_ramey_explanation_76cd9c",
+        "type": "inline_internal"
+      },
+      {
+        "from": "roswell_UFO_ramey_me_6248d5_balloon_vs_crash_843d99",
+        "to": "roswell_UFO_ramey_me_6248d5_rudiak_reconstructio_1fcf0f",
+        "type": "inline_internal"
+      },
+      {
+        "from": "roswell_UFO_ramey_me_6248d5_balloon_vs_crash_843d99",
+        "to": "roswell_UFO_ramey_me_6248d5_houran_randle_study_efb939_story_cross_group_si_bc9193",
+        "type": "inline_internal"
+      },
+      {
+        "from": "roswell_UFO_ramey_me_6248d5_what_memo_proves_277897",
+        "to": "roswell_UFO_ramey_me_6248d5_fort_worth_wording_ba6760_fort_worth_clue_limi_ce73d4",
+        "type": "inline_internal"
+      },
+      {
+        "from": "roswell_UFO_ramey_me_6248d5_what_memo_proves_277897",
+        "to": "roswell_UFO_ramey_me_6248d5_no_smoking_gun_e71c7b_ramey_memo_provenanc_72b078",
+        "type": "inline_internal"
+      },
+      {
+        "from": "roswell_UFO_ramey_me_6248d5_what_memo_proves_277897",
+        "to": "roswell_UFO_ramey_me_6248d5_records_vs_memories_774edd_ramey_memo_photo_ce717e",
+        "type": "inline_internal"
+      },
+      {
+        "from": "roswell_UFO_ramey_me_6248d5_what_memo_proves_277897",
+        "to": "roswell_UFO_ramey_me_6248d5_ramey_explanation_76cd9c",
+        "type": "inline_internal"
+      },
+      {
+        "from": "roswell_UFO_ramey_me_6248d5_what_memo_proves_277897",
+        "to": "roswell_UFO_ramey_me_6248d5_rudiak_reconstructio_1fcf0f",
+        "type": "inline_internal"
+      },
+      {
+        "from": "roswell_UFO_ramey_me_6248d5_what_memo_proves_277897",
+        "to": "roswell_UFO_ramey_me_6248d5_houran_randle_study_efb939_story_cross_group_si_bc9193",
+        "type": "inline_internal"
+      },
+      {
+        "from": "roswell_UFO_ramey_me_6248d5_enhancement_risks_cfa68e",
+        "to": "roswell_UFO_ramey_me_6248d5_july_8_reversal_9c01ed_eighth_air_force_nar_264930",
+        "type": "inline_internal"
+      },
+      {
+        "from": "roswell_UFO_ramey_me_6248d5_enhancement_risks_cfa68e",
+        "to": "roswell_UFO_ramey_me_6248d5_expectation_effects_9e6957",
+        "type": "inline_internal"
+      },
+      {
+        "from": "roswell_UFO_ramey_me_6248d5_enhancement_risks_cfa68e",
+        "to": "roswell_UFO_ramey_me_6248d5_film_grain_3330d4_8b1116",
+        "type": "inline_internal"
+      },
+      {
+        "from": "roswell_UFO_ramey_me_6248d5_enhancement_risks_cfa68e",
+        "to": "roswell_UFO_ramey_me_6248d5_original_negative_aac10a",
+        "type": "inline_internal"
+      },
+      {
+        "from": "roswell_UFO_ramey_me_6248d5_enhancement_risks_cfa68e",
+        "to": "roswell_UFO_ramey_me_6248d5_records_vs_memories_774edd_ramey_memo_photo_ce717e",
+        "type": "inline_internal"
+      },
+      {
+        "from": "roswell_UFO_ramey_me_6248d5_enhancement_risks_cfa68e",
+        "to": "roswell_UFO_ramey_me_6248d5_ramey_explanation_76cd9c",
+        "type": "inline_internal"
+      },
+      {
+        "from": "roswell_UFO_ramey_me_6248d5_enhancement_risks_cfa68e",
+        "to": "roswell_UFO_ramey_me_6248d5_enhancement_risks_cfa68e_ramey_enhancement_re_cdbaf0",
+        "type": "inline_internal"
+      },
+      {
+        "from": "roswell_UFO_ramey_me_6248d5_enhancement_risks_cfa68e",
+        "to": "roswell_UFO_ramey_me_6248d5_rudiak_reconstructio_1fcf0f",
+        "type": "inline_internal"
+      },
+      {
+        "from": "roswell_UFO_ramey_me_6248d5_estes_scan_03a163_e30cb6",
+        "to": "roswell_UFO_ramey_me_6248d5_enhancement_risks_cfa68e",
+        "type": "inline_internal"
+      },
+      {
+        "from": "roswell_UFO_ramey_me_6248d5_estes_scan_03a163_e30cb6",
+        "to": "roswell_UFO_ramey_me_6248d5_expectation_effects_9e6957",
+        "type": "inline_internal"
+      },
+      {
+        "from": "roswell_UFO_ramey_me_6248d5_estes_scan_03a163_e30cb6",
+        "to": "roswell_UFO_ramey_me_6248d5_film_grain_3330d4_8b1116",
+        "type": "inline_internal"
+      },
+      {
+        "from": "roswell_UFO_ramey_me_6248d5_estes_scan_03a163_e30cb6",
+        "to": "roswell_UFO_ramey_me_6248d5_original_negative_aac10a",
+        "type": "inline_internal"
+      },
+      {
+        "from": "roswell_UFO_ramey_me_6248d5_estes_scan_03a163_e30cb6",
+        "to": "roswell_UFO_ramey_me_6248d5_records_vs_memories_774edd_ramey_memo_photo_ce717e",
+        "type": "inline_internal"
+      },
+      {
+        "from": "roswell_UFO_ramey_me_6248d5_estes_scan_03a163_e30cb6",
+        "to": "roswell_UFO_ramey_me_6248d5_ramey_explanation_76cd9c",
+        "type": "inline_internal"
+      },
+      {
+        "from": "roswell_UFO_ramey_me_6248d5_estes_scan_03a163_e30cb6",
+        "to": "roswell_UFO_ramey_me_6248d5_rudiak_reconstructio_1fcf0f",
+        "type": "inline_internal"
+      },
+      {
+        "from": "roswell_UFO_ramey_me_6248d5_estes_scan_03a163_e30cb6",
+        "to": "roswell_UFO_ramey_me_6248d5_no_smoking_gun_e71c7b_competing_transcript_aeab95",
+        "type": "inline_internal"
+      },
+      {
+        "from": "roswell_UFO_ramey_me_6248d5_film_grain_3330d4_8b1116",
+        "to": "roswell_UFO_ramey_me_6248d5_july_8_reversal_9c01ed_eighth_air_force_nar_264930",
+        "type": "inline_internal"
+      },
+      {
+        "from": "roswell_UFO_ramey_me_6248d5_film_grain_3330d4_8b1116",
+        "to": "roswell_UFO_ramey_me_6248d5_balloon_vs_crash_843d99",
+        "type": "inline_internal"
+      },
+      {
+        "from": "roswell_UFO_ramey_me_6248d5_film_grain_3330d4_8b1116",
+        "to": "roswell_UFO_ramey_me_6248d5_enhancement_risks_cfa68e",
+        "type": "inline_internal"
+      },
+      {
+        "from": "roswell_UFO_ramey_me_6248d5_film_grain_3330d4_8b1116",
+        "to": "roswell_UFO_ramey_me_6248d5_expectation_effects_9e6957",
+        "type": "inline_internal"
+      },
+      {
+        "from": "roswell_UFO_ramey_me_6248d5_film_grain_3330d4_8b1116",
+        "to": "roswell_UFO_ramey_me_6248d5_july_8_reversal_9c01ed",
+        "type": "inline_internal"
+      },
+      {
+        "from": "roswell_UFO_ramey_me_6248d5_film_grain_3330d4_8b1116",
+        "to": "roswell_UFO_ramey_me_6248d5_original_negative_aac10a",
+        "type": "inline_internal"
+      },
+      {
+        "from": "roswell_UFO_ramey_me_6248d5_film_grain_3330d4_8b1116",
+        "to": "roswell_UFO_ramey_me_6248d5_records_vs_memories_774edd_ramey_memo_photo_ce717e",
+        "type": "inline_internal"
+      },
+      {
+        "from": "roswell_UFO_ramey_me_6248d5_film_grain_3330d4_8b1116",
+        "to": "roswell_UFO_ramey_me_6248d5_ramey_explanation_76cd9c",
+        "type": "inline_internal"
+      },
+      {
+        "from": "roswell_UFO_ramey_me_6248d5_fort_worth_photos_24d97f",
+        "to": "roswell_UFO_ramey_me_6248d5_greenwood_reading_c04240",
+        "type": "inline_internal"
+      },
+      {
+        "from": "roswell_UFO_ramey_me_6248d5_fort_worth_photos_24d97f",
+        "to": "roswell_UFO_ramey_me_6248d5_bond_johnson_2307d7_281e84",
+        "type": "inline_internal"
+      },
+      {
+        "from": "roswell_UFO_ramey_me_6248d5_fort_worth_photos_24d97f",
+        "to": "roswell_UFO_ramey_me_6248d5_july_8_reversal_9c01ed",
+        "type": "inline_internal"
+      },
+      {
+        "from": "roswell_UFO_ramey_me_6248d5_fort_worth_photos_24d97f",
+        "to": "roswell_UFO_ramey_me_6248d5_jesse_marcel_9f55f8",
+        "type": "inline_internal"
+      },
+      {
+        "from": "roswell_UFO_ramey_me_6248d5_fort_worth_photos_24d97f",
+        "to": "roswell_UFO_ramey_me_6248d5_ramey_explanation_76cd9c_radar_target_debris_713b03",
+        "type": "inline_internal"
+      },
+      {
+        "from": "roswell_UFO_ramey_me_6248d5_fort_worth_photos_24d97f",
+        "to": "roswell_UFO_ramey_me_6248d5_ramey_explanation_76cd9c",
+        "type": "inline_internal"
+      },
+      {
+        "from": "roswell_UFO_ramey_me_6248d5_fort_worth_photos_24d97f",
+        "to": "roswell_UFO_ramey_me_6248d5_jesse_marcel_9f55f8_marcel_fort_worth_ph_2f6393",
+        "type": "inline_internal"
+      },
+      {
+        "from": "roswell_UFO_ramey_me_6248d5_fort_worth_photos_24d97f",
+        "to": "roswell_UFO_ramey_me_6248d5_records_vs_memories_774edd_later_witness_testim_fc2d08",
+        "type": "inline_internal"
+      },
+      {
+        "from": "roswell_UFO_ramey_me_6248d5_greenwood_reading_c04240",
+        "to": "roswell_UFO_ramey_me_6248d5_july_8_reversal_9c01ed_eighth_air_force_nar_264930",
+        "type": "inline_internal"
+      },
+      {
+        "from": "roswell_UFO_ramey_me_6248d5_greenwood_reading_c04240",
+        "to": "roswell_UFO_ramey_me_6248d5_expectation_effects_9e6957",
+        "type": "inline_internal"
+      },
+      {
+        "from": "roswell_UFO_ramey_me_6248d5_greenwood_reading_c04240",
+        "to": "roswell_UFO_ramey_me_6248d5_film_grain_3330d4_8b1116",
+        "type": "inline_internal"
+      },
+      {
+        "from": "roswell_UFO_ramey_me_6248d5_greenwood_reading_c04240",
+        "to": "roswell_UFO_ramey_me_6248d5_bond_johnson_2307d7_281e84",
+        "type": "inline_internal"
+      },
+      {
+        "from": "roswell_UFO_ramey_me_6248d5_greenwood_reading_c04240",
+        "to": "roswell_UFO_ramey_me_6248d5_july_8_reversal_9c01ed",
+        "type": "inline_internal"
+      },
+      {
+        "from": "roswell_UFO_ramey_me_6248d5_greenwood_reading_c04240",
+        "to": "roswell_UFO_ramey_me_6248d5_ramey_explanation_76cd9c",
+        "type": "inline_internal"
+      },
+      {
+        "from": "roswell_UFO_ramey_me_6248d5_greenwood_reading_c04240",
+        "to": "roswell_UFO_ramey_me_6248d5_rudiak_reconstructio_1fcf0f",
+        "type": "inline_internal"
+      },
+      {
+        "from": "roswell_UFO_ramey_me_6248d5_greenwood_reading_c04240",
+        "to": "roswell_UFO_ramey_me_6248d5_greenwood_reading_c04240_warren_haught_clue_fb33ef",
+        "type": "inline_internal"
+      },
+      {
+        "from": "roswell_UFO_ramey_me_6248d5_memo_authenticity_805af6",
+        "to": "roswell_UFO_ramey_me_6248d5_july_8_reversal_9c01ed_eighth_air_force_nar_264930",
+        "type": "inline_internal"
+      },
+      {
+        "from": "roswell_UFO_ramey_me_6248d5_memo_authenticity_805af6",
+        "to": "roswell_UFO_ramey_me_6248d5_enhancement_risks_cfa68e",
+        "type": "inline_internal"
+      }
+    ],
+    "related_report_edge_samples": []
+  }
+}

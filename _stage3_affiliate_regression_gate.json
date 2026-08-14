@@ -1,0 +1,2886 @@
+{
+  "generated_at": "2026-08-14T07:02:11",
+  "passed": true,
+  "baseline": {
+    "article_pages": 235,
+    "amazon_specific_pages": 198,
+    "amazon_fallback_pages": 0,
+    "ebay_specific_pages": 0,
+    "ebay_fallback_pages": 0,
+    "pages": {
+      "roswell_UFO_ramey_me_6248d5": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "roswell_UFO_ramey_me_6248d5_2015_rescanning_ea8b25": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "roswell_UFO_ramey_me_6248d5_2015_rescanning_ea8b25_2015_scan_release_c776b7": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "roswell_UFO_ramey_me_6248d5_2015_rescanning_ea8b25_independent_reader_c_a1cbd2": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "roswell_UFO_ramey_me_6248d5_2015_rescanning_ea8b25_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "roswell_UFO_ramey_me_6248d5_2015_rescanning_ea8b25_multiple_imaging_met_1550fa": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "roswell_UFO_ramey_me_6248d5_2015_rescanning_ea8b25_original_negative_re_142081": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "roswell_UFO_ramey_me_6248d5_2015_rescanning_ea8b25_photographic_grain_c_f6133f": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "roswell_UFO_ramey_me_6248d5_2015_rescanning_ea8b25_ramey_negative_condi_a05214": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "roswell_UFO_ramey_me_6248d5_ai_enhancement_9a4d7e": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "roswell_UFO_ramey_me_6248d5_ai_enhancement_9a4d7e_ai_letter_reconstruc_71ea0a": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "roswell_UFO_ramey_me_6248d5_ai_enhancement_9a4d7e_ai_super_resolution_ea5af1": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "roswell_UFO_ramey_me_6248d5_ai_enhancement_9a4d7e_archival_ai_standard_0232f2": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "roswell_UFO_ramey_me_6248d5_ai_enhancement_9a4d7e_generated_detail_ris_3a1c9a": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "roswell_UFO_ramey_me_6248d5_ai_enhancement_9a4d7e_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "roswell_UFO_ramey_me_6248d5_ai_enhancement_9a4d7e_ramey_perception_bia_5670e6": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "roswell_UFO_ramey_me_6248d5_ai_enhancement_9a4d7e_restoration_vs_recon_df0a6b": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "roswell_UFO_ramey_me_6248d5_atomic_priming_362a6b": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "roswell_UFO_ramey_me_6248d5_atomic_priming_362a6b_atomic_prime_nuclear_937cff": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "roswell_UFO_ramey_me_6248d5_atomic_priming_362a6b_atomic_vs_blind_word_a8f4b6": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "roswell_UFO_ramey_me_6248d5_atomic_priming_362a6b_cross_prime_survivin_6d78a4": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "roswell_UFO_ramey_me_6248d5_atomic_priming_362a6b_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "roswell_UFO_ramey_me_6248d5_atomic_priming_362a6b_missing_score_sheets_72cd13": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "roswell_UFO_ramey_me_6248d5_atomic_priming_362a6b_priming_effort_confo_b5656e": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "roswell_UFO_ramey_me_6248d5_atomic_priming_362a6b_rudiak_atomic_prime_c2b962": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "roswell_UFO_ramey_me_6248d5_balloon_vs_crash_843d99": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "roswell_UFO_ramey_me_6248d5_balloon_vs_crash_843d99_fbi_teletype_evidenc_d5f7f8": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "roswell_UFO_ramey_me_6248d5_balloon_vs_crash_843d99_fort_worth_press_eve_6da711": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "roswell_UFO_ramey_me_6248d5_balloon_vs_crash_843d99_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "roswell_UFO_ramey_me_6248d5_balloon_vs_crash_843d99_military_secrecy_exp_224472": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "roswell_UFO_ramey_me_6248d5_balloon_vs_crash_843d99_project_mogul_record_348d24": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "roswell_UFO_ramey_me_6248d5_balloon_vs_crash_843d99_ramey_memo_claims_ba3ea9": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "roswell_UFO_ramey_me_6248d5_balloon_vs_crash_843d99_roswell_debris_evide_865514": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "roswell_UFO_ramey_me_6248d5_blind_reading_3d7212_554838": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "roswell_UFO_ramey_me_6248d5_blind_reading_3d7212_554838_blind_first_readings_ece236": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "roswell_UFO_ramey_me_6248d5_blind_reading_3d7212_554838_controlled_memo_view_1790b7": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "roswell_UFO_ramey_me_6248d5_blind_reading_3d7212_554838_free_vs_forced_trans_468041": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "roswell_UFO_ramey_me_6248d5_blind_reading_3d7212_554838_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "roswell_UFO_ramey_me_6248d5_blind_reading_3d7212_554838_memo_agreement_thres_13d740": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "roswell_UFO_ramey_me_6248d5_blind_reading_3d7212_554838_ramey_calibration_wo_f66837": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "roswell_UFO_ramey_me_6248d5_blind_reading_3d7212_554838_uncertain_letters_co_d0b1d7": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "roswell_UFO_ramey_me_6248d5_bond_johnson_2307d7_281e84": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "roswell_UFO_ramey_me_6248d5_bond_johnson_2307d7_281e84_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "roswell_UFO_ramey_me_6248d5_bond_johnson_2307d7_281e84_johnson_1989_account_9da244": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "roswell_UFO_ramey_me_6248d5_bond_johnson_2307d7_281e84_johnson_marcel_frame_0e584a": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "roswell_UFO_ramey_me_6248d5_bond_johnson_2307d7_281e84_johnson_memory_recon_f37283": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "roswell_UFO_ramey_me_6248d5_bond_johnson_2307d7_281e84_johnson_paper_proven_8e03e1": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "roswell_UFO_ramey_me_6248d5_bond_johnson_2307d7_281e84_johnson_photo_count_da7407": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "roswell_UFO_ramey_me_6248d5_bond_johnson_2307d7_281e84_ramey_statement_shif_0f8164": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "roswell_UFO_ramey_me_6248d5_disc_reading_917df6_421dc7": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "roswell_UFO_ramey_me_6248d5_disc_reading_917df6_421dc7_disc_balloon_explana_c56a6c": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "roswell_UFO_ramey_me_6248d5_disc_reading_917df6_421dc7_disc_disk_else_readi_eb5af6": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "roswell_UFO_ramey_me_6248d5_disc_reading_917df6_421dc7_disc_proof_standard_df63b7": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "roswell_UFO_ramey_me_6248d5_disc_reading_917df6_421dc7_disc_quotation_marks_4cc283": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "roswell_UFO_ramey_me_6248d5_disc_reading_917df6_421dc7_disc_vs_secure_words_7fe7e6": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "roswell_UFO_ramey_me_6248d5_disc_reading_917df6_421dc7_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "roswell_UFO_ramey_me_6248d5_disc_reading_917df6_421dc7_rudiak_disc_sentence_f572e8": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "roswell_UFO_ramey_me_6248d5_enhancement_risks_cfa68e": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "roswell_UFO_ramey_me_6248d5_enhancement_risks_cfa68e_contrast_detail_loss_b2acb0": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "roswell_UFO_ramey_me_6248d5_enhancement_risks_cfa68e_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "roswell_UFO_ramey_me_6248d5_enhancement_risks_cfa68e_ramey_competing_rest_efa156": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "roswell_UFO_ramey_me_6248d5_enhancement_risks_cfa68e_ramey_enhancement_re_cdbaf0": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "roswell_UFO_ramey_me_6248d5_enhancement_risks_cfa68e_ramey_sharpening_hal_1a84e1": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "roswell_UFO_ramey_me_6248d5_enhancement_risks_cfa68e_sharpening_false_str_dc0ee1": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "roswell_UFO_ramey_me_6248d5_enhancement_risks_cfa68e_sharpness_vs_resolut_763664": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "roswell_UFO_ramey_me_6248d5_estes_scan_03a163_e30cb6": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "roswell_UFO_ramey_me_6248d5_estes_scan_03a163_e30cb6_estes_9000_dpi_scan_78eefa": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "roswell_UFO_ramey_me_6248d5_estes_scan_03a163_e30cb6_estes_disputed_words_1b4091": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "roswell_UFO_ramey_me_6248d5_estes_scan_03a163_e30cb6_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "roswell_UFO_ramey_me_6248d5_estes_scan_03a163_e30cb6_negative_vs_print_sc_93fe84": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "roswell_UFO_ramey_me_6248d5_estes_scan_03a163_e30cb6_ramey_image_distorti_9aa39c": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "roswell_UFO_ramey_me_6248d5_estes_scan_03a163_e30cb6_ramey_memo_priming_t_eeb967": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "roswell_UFO_ramey_me_6248d5_estes_scan_03a163_e30cb6_scan_resolution_limi_18bd11": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "roswell_UFO_ramey_me_6248d5_expectation_effects_9e6957": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "roswell_UFO_ramey_me_6248d5_expectation_effects_9e6957_atomic_prompt_word_s_fed8ab": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "roswell_UFO_ramey_me_6248d5_expectation_effects_9e6957_blind_reader_reality_e538cd": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "roswell_UFO_ramey_me_6248d5_expectation_effects_9e6957_cross_group_readabil_cf14fd": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "roswell_UFO_ramey_me_6248d5_expectation_effects_9e6957_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "roswell_UFO_ramey_me_6248d5_expectation_effects_9e6957_roswell_circular_con_de0efb": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "roswell_UFO_ramey_me_6248d5_expectation_effects_9e6957_sentence_coherence_t_f7f199": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "roswell_UFO_ramey_me_6248d5_expectation_effects_9e6957_word_search_context_3b9d8f": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "roswell_UFO_ramey_me_6248d5_film_grain_3330d4_8b1116": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "roswell_UFO_ramey_me_6248d5_film_grain_3330d4_8b1116_ambiguous_letter_con_f8957f": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "roswell_UFO_ramey_me_6248d5_film_grain_3330d4_8b1116_grain_letter_illusio_bed1f2": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "roswell_UFO_ramey_me_6248d5_film_grain_3330d4_8b1116_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "roswell_UFO_ramey_me_6248d5_film_grain_3330d4_8b1116_memo_letter_breakup_505eb3": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "roswell_UFO_ramey_me_6248d5_film_grain_3330d4_8b1116_scan_fidelity_vs_gra_ac18cf": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "roswell_UFO_ramey_me_6248d5_film_grain_3330d4_8b1116_stroke_persistence_t_ee7e0c": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "roswell_UFO_ramey_me_6248d5_film_grain_3330d4_8b1116_typed_letter_geometr_38a536": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "roswell_UFO_ramey_me_6248d5_fort_worth_photos_24d97f": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "roswell_UFO_ramey_me_6248d5_fort_worth_photos_24d97f_balloon_debris_switc_d224db": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "roswell_UFO_ramey_me_6248d5_fort_worth_photos_24d97f_dubose_substitution_4a0ad4": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "roswell_UFO_ramey_me_6248d5_fort_worth_photos_24d97f_fort_worth_photo_seq_f0470a": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "roswell_UFO_ramey_me_6248d5_fort_worth_photos_24d97f_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "roswell_UFO_ramey_me_6248d5_fort_worth_photos_24d97f_marcel_photo_account_ebb45a": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "roswell_UFO_ramey_me_6248d5_fort_worth_photos_24d97f_mogul_photo_comparis_ebb99e": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "roswell_UFO_ramey_me_6248d5_fort_worth_photos_24d97f_newton_debris_identi_38a85e": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "roswell_UFO_ramey_me_6248d5_fort_worth_wording_ba6760": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "roswell_UFO_ramey_me_6248d5_fort_worth_wording_ba6760_fort_worth_clue_limi_ce73d4": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "roswell_UFO_ramey_me_6248d5_fort_worth_wording_ba6760_fort_worth_early_rea_116aaa": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "roswell_UFO_ramey_me_6248d5_fort_worth_wording_ba6760_fort_worth_enhanceme_0c3ce3": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "roswell_UFO_ramey_me_6248d5_fort_worth_wording_ba6760_fort_worth_location_1c3fcc": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "roswell_UFO_ramey_me_6248d5_fort_worth_wording_ba6760_fort_worth_paper_ori_51c5f1": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "roswell_UFO_ramey_me_6248d5_fort_worth_wording_ba6760_fort_worth_reader_ag_a566e0": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "roswell_UFO_ramey_me_6248d5_fort_worth_wording_ba6760_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "roswell_UFO_ramey_me_6248d5_greenwood_reading_c04240": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "roswell_UFO_ramey_me_6248d5_greenwood_reading_c04240_greenwood_confidence_42189c": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "roswell_UFO_ramey_me_6248d5_greenwood_reading_c04240_greenwood_rudiak_rea_fda9a1": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "roswell_UFO_ramey_me_6248d5_greenwood_reading_c04240_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "roswell_UFO_ramey_me_6248d5_greenwood_reading_c04240_military_punctuation_203798": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "roswell_UFO_ramey_me_6248d5_greenwood_reading_c04240_news_copy_validation_ca59c9": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "roswell_UFO_ramey_me_6248d5_greenwood_reading_c04240_warren_haught_clue_fb33ef": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "roswell_UFO_ramey_me_6248d5_houran_randle_study_efb939": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "roswell_UFO_ramey_me_6248d5_houran_randle_study_efb939_ambiguity_memo_readi_d848c7": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "roswell_UFO_ramey_me_6248d5_houran_randle_study_efb939_blind_group_baseline_876de7": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "roswell_UFO_ramey_me_6248d5_houran_randle_study_efb939_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "roswell_UFO_ramey_me_6248d5_houran_randle_study_efb939_prior_knowledge_read_c5b228": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "roswell_UFO_ramey_me_6248d5_houran_randle_study_efb939_same_image_experimen_ea94a3": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "roswell_UFO_ramey_me_6248d5_houran_randle_study_efb939_story_cross_group_si_bc9193": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "roswell_UFO_ramey_me_6248d5_houran_randle_study_efb939_viewing_time_roswell_b2e59d": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "roswell_UFO_ramey_me_6248d5_image_limits_adf0b3_142cd5": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "roswell_UFO_ramey_me_6248d5_image_limits_adf0b3_142cd5_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "roswell_UFO_ramey_me_6248d5_image_limits_adf0b3_142cd5_memo_crease_shadows_e5ecf1": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "roswell_UFO_ramey_me_6248d5_image_limits_adf0b3_142cd5_memo_false_edges_531d83": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "roswell_UFO_ramey_me_6248d5_image_limits_adf0b3_142cd5_memo_photo_artifacts_c96554": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "roswell_UFO_ramey_me_6248d5_image_limits_adf0b3_142cd5_memo_uneven_focus_50b669": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "roswell_UFO_ramey_me_6248d5_image_limits_adf0b3_142cd5_ramey_memo_focus_lim_ff9f33": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "roswell_UFO_ramey_me_6248d5_image_limits_adf0b3_142cd5_ramey_photo_sharpnes_bbf932": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "roswell_UFO_ramey_me_6248d5_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "roswell_UFO_ramey_me_6248d5_jesse_marcel_9f55f8": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "roswell_UFO_ramey_me_6248d5_jesse_marcel_9f55f8_higher_headquarters_494935": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "roswell_UFO_ramey_me_6248d5_jesse_marcel_9f55f8_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "roswell_UFO_ramey_me_6248d5_jesse_marcel_9f55f8_marcel_chain_to_fort_b73e5c": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "roswell_UFO_ramey_me_6248d5_jesse_marcel_9f55f8_marcel_fort_worth_ph_2f6393": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "roswell_UFO_ramey_me_6248d5_jesse_marcel_9f55f8_marcel_roswell_recov_f46637": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "roswell_UFO_ramey_me_6248d5_jesse_marcel_9f55f8_roswell_chain_of_cus_45ebca": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "roswell_UFO_ramey_me_6248d5_jesse_marcel_9f55f8_roswell_debris_exami_99203e": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "roswell_UFO_ramey_me_6248d5_july_8_reversal_9c01ed": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "roswell_UFO_ramey_me_6248d5_july_8_reversal_9c01ed_bond_johnson_memo_ac_147aed": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "roswell_UFO_ramey_me_6248d5_july_8_reversal_9c01ed_eighth_air_force_nar_264930": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "roswell_UFO_ramey_me_6248d5_july_8_reversal_9c01ed_fbi_teletype_roswell_fda7fe": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "roswell_UFO_ramey_me_6248d5_july_8_reversal_9c01ed_fort_worth_balloon_r_bf165c": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "roswell_UFO_ramey_me_6248d5_july_8_reversal_9c01ed_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "roswell_UFO_ramey_me_6248d5_july_8_reversal_9c01ed_ramey_memo_photo_lim_a767a6": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "roswell_UFO_ramey_me_6248d5_july_8_reversal_9c01ed_roswell_flying_disc_fc1a1e": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "roswell_UFO_ramey_me_6248d5_memo_authenticity_805af6": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "roswell_UFO_ramey_me_6248d5_memo_authenticity_805af6_air_force_1994_ramey_5aa356": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "roswell_UFO_ramey_me_6248d5_memo_authenticity_805af6_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "roswell_UFO_ramey_me_6248d5_memo_authenticity_805af6_johnson_photo_sequen_c78a4b": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "roswell_UFO_ramey_me_6248d5_memo_authenticity_805af6_photo_authenticity_l_6ae442": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "roswell_UFO_ramey_me_6248d5_memo_authenticity_805af6_ramey_1947_publicati_615c02": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "roswell_UFO_ramey_me_6248d5_memo_authenticity_805af6_ramey_scans_vs_copie_260280": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "roswell_UFO_ramey_me_6248d5_memo_authenticity_805af6_uta_original_negativ_869af1": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "roswell_UFO_ramey_me_6248d5_no_smoking_gun_e71c7b": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "roswell_UFO_ramey_me_6248d5_no_smoking_gun_e71c7b_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "roswell_UFO_ramey_me_6248d5_no_smoking_gun_e71c7b_ramey_memo_provenanc_72b078": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "roswell_UFO_ramey_me_6248d5_original_negative_aac10a": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "roswell_UFO_ramey_me_6248d5_original_negative_aac10a_air_force_1994_image_3a2db6": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "roswell_UFO_ramey_me_6248d5_original_negative_aac10a_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "roswell_UFO_ramey_me_6248d5_original_negative_aac10a_ramey_ai_restoration_956646": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "roswell_UFO_ramey_me_6248d5_original_negative_aac10a_ramey_copy_generatio_e35e69": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "roswell_UFO_ramey_me_6248d5_original_negative_aac10a_ramey_digital_image_914f77": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "roswell_UFO_ramey_me_6248d5_original_negative_aac10a_ramey_enhancement_fa_141ebb": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "roswell_UFO_ramey_me_6248d5_original_negative_aac10a_uta_ramey_negative_s_6f166d": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "roswell_UFO_ramey_me_6248d5_paper_folds_9eb200_f8ab87": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "roswell_UFO_ramey_me_6248d5_paper_folds_9eb200_f8ab87_3d_reconstruction_li_2053fd": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "roswell_UFO_ramey_me_6248d5_paper_folds_9eb200_f8ab87_crease_crossing_stro_21b561": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "roswell_UFO_ramey_me_6248d5_paper_folds_9eb200_f8ab87_foreshortened_capita_e11a92": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "roswell_UFO_ramey_me_6248d5_paper_folds_9eb200_f8ab87_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "roswell_UFO_ramey_me_6248d5_paper_folds_9eb200_f8ab87_least_recoverable_re_10a133": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "roswell_UFO_ramey_me_6248d5_paper_folds_9eb200_f8ab87_rectification_choice_e2bc7e": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "roswell_UFO_ramey_me_6248d5_paper_folds_9eb200_f8ab87_single_deskew_limits_d63694": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "roswell_UFO_ramey_me_6248d5_ramey_explanation_76cd9c": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "roswell_UFO_ramey_me_6248d5_ramey_explanation_76cd9c_fort_worth_debris_su_678023": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "roswell_UFO_ramey_me_6248d5_ramey_explanation_76cd9c_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "roswell_UFO_ramey_me_6248d5_ramey_explanation_76cd9c_irving_newton_identi_5eed87": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "roswell_UFO_ramey_me_6248d5_ramey_explanation_76cd9c_project_mogul_vs_ram_5e6441": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "roswell_UFO_ramey_me_6248d5_ramey_explanation_76cd9c_radar_target_debris_713b03": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "roswell_UFO_ramey_me_6248d5_ramey_explanation_76cd9c_ramey_us_army_device_85b7ac": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "roswell_UFO_ramey_me_6248d5_ramey_explanation_76cd9c_wright_field_flight_b093f6": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "roswell_UFO_ramey_me_6248d5_records_vs_memories_774edd": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "roswell_UFO_ramey_me_6248d5_records_vs_memories_774edd_air_force_roswell_re_b5f4bb": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "roswell_UFO_ramey_me_6248d5_records_vs_memories_774edd_first_roswell_report_95304c": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "roswell_UFO_ramey_me_6248d5_records_vs_memories_774edd_fort_worth_explanati_2de325": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "roswell_UFO_ramey_me_6248d5_records_vs_memories_774edd_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "roswell_UFO_ramey_me_6248d5_records_vs_memories_774edd_jesse_marcel_memorie_28d3bd": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "roswell_UFO_ramey_me_6248d5_records_vs_memories_774edd_later_witness_testim_fc2d08": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "roswell_UFO_ramey_me_6248d5_records_vs_memories_774edd_ramey_memo_photo_ce717e": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "roswell_UFO_ramey_me_6248d5_roswell_familiarity_d5f531": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "roswell_UFO_ramey_me_6248d5_roswell_familiarity_d5f531_cross_group_shared_w_88047b": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "roswell_UFO_ramey_me_6248d5_roswell_familiarity_d5f531_expertise_vs_expecta_63cad3": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "roswell_UFO_ramey_me_6248d5_roswell_familiarity_d5f531_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "roswell_UFO_ramey_me_6248d5_roswell_familiarity_d5f531_ramey_scrutiny_time_690ff0": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "roswell_UFO_ramey_me_6248d5_roswell_familiarity_d5f531_roswell_familiarity_be375a": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "roswell_UFO_ramey_me_6248d5_roswell_familiarity_d5f531_roswell_knowledge_re_6b574c": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "roswell_UFO_ramey_me_6248d5_roswell_familiarity_d5f531_transcription_confid_8faef2": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "roswell_UFO_ramey_me_6248d5_rudiak_reconstructio_1fcf0f": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "roswell_UFO_ramey_me_6248d5_rudiak_reconstructio_1fcf0f_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "roswell_UFO_ramey_me_6248d5_rudiak_reconstructio_1fcf0f_ramey_press_wire_que_a6da1e": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "roswell_UFO_ramey_me_6248d5_rudiak_reconstructio_1fcf0f_rudiak_confidence_co_12cb8a": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "roswell_UFO_ramey_me_6248d5_rudiak_reconstructio_1fcf0f_rudiak_context_infer_2c5882": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "roswell_UFO_ramey_me_6248d5_rudiak_reconstructio_1fcf0f_rudiak_military_form_4a3601": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "roswell_UFO_ramey_me_6248d5_rudiak_reconstructio_1fcf0f_rudiak_smoking_gun_c_f46739": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "roswell_UFO_ramey_me_6248d5_rudiak_reconstructio_1fcf0f_rudiak_wreck_narrati_2688a2": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "roswell_UFO_ramey_me_6248d5_transcription_consen_5c6c25": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "roswell_UFO_ramey_me_6248d5_transcription_consen_5c6c25_confidence_vs_consen_0bf8c9": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "roswell_UFO_ramey_me_6248d5_transcription_consen_5c6c25_enhancement_artifact_3fa35f": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "roswell_UFO_ramey_me_6248d5_transcription_consen_5c6c25_exact_word_agreement_dbb2a8": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "roswell_UFO_ramey_me_6248d5_transcription_consen_5c6c25_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "roswell_UFO_ramey_me_6248d5_transcription_consen_5c6c25_period_camera_test_8f1681": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "roswell_UFO_ramey_me_6248d5_transcription_consen_5c6c25_unreadable_gaps_72f260": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "roswell_UFO_ramey_me_6248d5_victims_phrase_b3d345": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "roswell_UFO_ramey_me_6248d5_victims_phrase_b3d345_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "roswell_UFO_ramey_me_6248d5_victims_phrase_b3d345_kirby_remains_readin_437ae4": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "roswell_UFO_ramey_me_6248d5_victims_phrase_b3d345_ramey_context_primin_23211a": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "roswell_UFO_ramey_me_6248d5_victims_phrase_b3d345_ramey_image_limits_20547b": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "roswell_UFO_ramey_me_6248d5_victims_phrase_b3d345_ramey_lab_tests_246f64": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "roswell_UFO_ramey_me_6248d5_victims_phrase_b3d345_rudiak_victims_readi_dc153c": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "roswell_UFO_ramey_me_6248d5_victims_phrase_b3d345_victims_vs_remains_751013": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "roswell_UFO_ramey_me_6248d5_weather_balloon_word_20718b": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "roswell_UFO_ramey_me_6248d5_weather_balloon_word_20718b_disc_reading_reliabi_fc8f25": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "roswell_UFO_ramey_me_6248d5_weather_balloon_word_20718b_fort_worth_text_anch_857a69": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "roswell_UFO_ramey_me_6248d5_weather_balloon_word_20718b_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "roswell_UFO_ramey_me_6248d5_weather_balloon_word_20718b_johnson_paper_origin_dafc05": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "roswell_UFO_ramey_me_6248d5_weather_balloon_word_20718b_testing_full_transcr_efbffb": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "roswell_UFO_ramey_me_6248d5_weather_balloon_word_20718b_weather_balloons_mea_1e49e7": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "roswell_UFO_ramey_me_6248d5_weather_balloon_word_20718b_weather_balloons_phr_e1b8de": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "roswell_UFO_ramey_me_6248d5_what_memo_proves_277897": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "roswell_UFO_ramey_me_6248d5_what_memo_proves_277897_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "roswell_UFO_ramey_me_6248d5_what_memo_proves_277897_memo_evidence_limits_cacfda": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "roswell_UFO_ramey_me_6248d5_what_memo_proves_277897_memo_historical_valu_3898b7": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "roswell_UFO_ramey_me_6248d5_what_memo_proves_277897_memo_provenance_5f4508": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "roswell_UFO_ramey_me_6248d5_what_memo_proves_277897_military_communicati_1aa0ba": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "roswell_UFO_ramey_me_6248d5_what_memo_proves_277897_ramey_photo_session_87c471": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "roswell_UFO_ramey_me_6248d5_what_memo_proves_277897_roswell_story_shift_983e5b": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      }
+    }
+  },
+  "current": {
+    "article_pages": 242,
+    "amazon_specific_pages": 211,
+    "amazon_fallback_pages": 0,
+    "ebay_specific_pages": 0,
+    "ebay_fallback_pages": 0,
+    "pages": {
+      "roswell_UFO_ramey_me_6248d5": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "roswell_UFO_ramey_me_6248d5_2015_rescanning_ea8b25": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "roswell_UFO_ramey_me_6248d5_2015_rescanning_ea8b25_2015_scan_release_c776b7": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "roswell_UFO_ramey_me_6248d5_2015_rescanning_ea8b25_independent_reader_c_a1cbd2": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "roswell_UFO_ramey_me_6248d5_2015_rescanning_ea8b25_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "roswell_UFO_ramey_me_6248d5_2015_rescanning_ea8b25_multiple_imaging_met_1550fa": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "roswell_UFO_ramey_me_6248d5_2015_rescanning_ea8b25_original_negative_re_142081": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "roswell_UFO_ramey_me_6248d5_2015_rescanning_ea8b25_photographic_grain_c_f6133f": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "roswell_UFO_ramey_me_6248d5_2015_rescanning_ea8b25_ramey_negative_condi_a05214": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "roswell_UFO_ramey_me_6248d5_ai_enhancement_9a4d7e": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "roswell_UFO_ramey_me_6248d5_ai_enhancement_9a4d7e_ai_letter_reconstruc_71ea0a": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "roswell_UFO_ramey_me_6248d5_ai_enhancement_9a4d7e_ai_super_resolution_ea5af1": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "roswell_UFO_ramey_me_6248d5_ai_enhancement_9a4d7e_archival_ai_standard_0232f2": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "roswell_UFO_ramey_me_6248d5_ai_enhancement_9a4d7e_generated_detail_ris_3a1c9a": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "roswell_UFO_ramey_me_6248d5_ai_enhancement_9a4d7e_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "roswell_UFO_ramey_me_6248d5_ai_enhancement_9a4d7e_ramey_perception_bia_5670e6": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "roswell_UFO_ramey_me_6248d5_ai_enhancement_9a4d7e_restoration_vs_recon_df0a6b": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "roswell_UFO_ramey_me_6248d5_atomic_priming_362a6b": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "roswell_UFO_ramey_me_6248d5_atomic_priming_362a6b_atomic_prime_nuclear_937cff": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "roswell_UFO_ramey_me_6248d5_atomic_priming_362a6b_atomic_vs_blind_word_a8f4b6": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "roswell_UFO_ramey_me_6248d5_atomic_priming_362a6b_cross_prime_survivin_6d78a4": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "roswell_UFO_ramey_me_6248d5_atomic_priming_362a6b_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "roswell_UFO_ramey_me_6248d5_atomic_priming_362a6b_missing_score_sheets_72cd13": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "roswell_UFO_ramey_me_6248d5_atomic_priming_362a6b_priming_effort_confo_b5656e": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "roswell_UFO_ramey_me_6248d5_atomic_priming_362a6b_rudiak_atomic_prime_c2b962": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "roswell_UFO_ramey_me_6248d5_balloon_vs_crash_843d99": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "roswell_UFO_ramey_me_6248d5_balloon_vs_crash_843d99_fbi_teletype_evidenc_d5f7f8": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "roswell_UFO_ramey_me_6248d5_balloon_vs_crash_843d99_fort_worth_press_eve_6da711": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "roswell_UFO_ramey_me_6248d5_balloon_vs_crash_843d99_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "roswell_UFO_ramey_me_6248d5_balloon_vs_crash_843d99_military_secrecy_exp_224472": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "roswell_UFO_ramey_me_6248d5_balloon_vs_crash_843d99_project_mogul_record_348d24": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "roswell_UFO_ramey_me_6248d5_balloon_vs_crash_843d99_ramey_memo_claims_ba3ea9": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "roswell_UFO_ramey_me_6248d5_balloon_vs_crash_843d99_roswell_debris_evide_865514": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "roswell_UFO_ramey_me_6248d5_blind_reading_3d7212_554838": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "roswell_UFO_ramey_me_6248d5_blind_reading_3d7212_554838_blind_first_readings_ece236": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "roswell_UFO_ramey_me_6248d5_blind_reading_3d7212_554838_controlled_memo_view_1790b7": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "roswell_UFO_ramey_me_6248d5_blind_reading_3d7212_554838_free_vs_forced_trans_468041": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "roswell_UFO_ramey_me_6248d5_blind_reading_3d7212_554838_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "roswell_UFO_ramey_me_6248d5_blind_reading_3d7212_554838_memo_agreement_thres_13d740": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "roswell_UFO_ramey_me_6248d5_blind_reading_3d7212_554838_ramey_calibration_wo_f66837": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "roswell_UFO_ramey_me_6248d5_blind_reading_3d7212_554838_uncertain_letters_co_d0b1d7": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "roswell_UFO_ramey_me_6248d5_bond_johnson_2307d7_281e84": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "roswell_UFO_ramey_me_6248d5_bond_johnson_2307d7_281e84_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "roswell_UFO_ramey_me_6248d5_bond_johnson_2307d7_281e84_johnson_1989_account_9da244": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "roswell_UFO_ramey_me_6248d5_bond_johnson_2307d7_281e84_johnson_marcel_frame_0e584a": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "roswell_UFO_ramey_me_6248d5_bond_johnson_2307d7_281e84_johnson_memory_recon_f37283": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "roswell_UFO_ramey_me_6248d5_bond_johnson_2307d7_281e84_johnson_paper_proven_8e03e1": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "roswell_UFO_ramey_me_6248d5_bond_johnson_2307d7_281e84_johnson_photo_count_da7407": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "roswell_UFO_ramey_me_6248d5_bond_johnson_2307d7_281e84_ramey_statement_shif_0f8164": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "roswell_UFO_ramey_me_6248d5_disc_reading_917df6_421dc7": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "roswell_UFO_ramey_me_6248d5_disc_reading_917df6_421dc7_disc_balloon_explana_c56a6c": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "roswell_UFO_ramey_me_6248d5_disc_reading_917df6_421dc7_disc_disk_else_readi_eb5af6": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "roswell_UFO_ramey_me_6248d5_disc_reading_917df6_421dc7_disc_proof_standard_df63b7": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "roswell_UFO_ramey_me_6248d5_disc_reading_917df6_421dc7_disc_quotation_marks_4cc283": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "roswell_UFO_ramey_me_6248d5_disc_reading_917df6_421dc7_disc_vs_secure_words_7fe7e6": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "roswell_UFO_ramey_me_6248d5_disc_reading_917df6_421dc7_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "roswell_UFO_ramey_me_6248d5_disc_reading_917df6_421dc7_rudiak_disc_sentence_f572e8": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "roswell_UFO_ramey_me_6248d5_enhancement_risks_cfa68e": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "roswell_UFO_ramey_me_6248d5_enhancement_risks_cfa68e_contrast_detail_loss_b2acb0": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "roswell_UFO_ramey_me_6248d5_enhancement_risks_cfa68e_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "roswell_UFO_ramey_me_6248d5_enhancement_risks_cfa68e_ramey_competing_rest_efa156": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "roswell_UFO_ramey_me_6248d5_enhancement_risks_cfa68e_ramey_enhancement_re_cdbaf0": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "roswell_UFO_ramey_me_6248d5_enhancement_risks_cfa68e_ramey_sharpening_hal_1a84e1": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "roswell_UFO_ramey_me_6248d5_enhancement_risks_cfa68e_sharpening_false_str_dc0ee1": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "roswell_UFO_ramey_me_6248d5_enhancement_risks_cfa68e_sharpness_vs_resolut_763664": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "roswell_UFO_ramey_me_6248d5_estes_scan_03a163_e30cb6": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "roswell_UFO_ramey_me_6248d5_estes_scan_03a163_e30cb6_estes_9000_dpi_scan_78eefa": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "roswell_UFO_ramey_me_6248d5_estes_scan_03a163_e30cb6_estes_disputed_words_1b4091": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "roswell_UFO_ramey_me_6248d5_estes_scan_03a163_e30cb6_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "roswell_UFO_ramey_me_6248d5_estes_scan_03a163_e30cb6_negative_vs_print_sc_93fe84": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "roswell_UFO_ramey_me_6248d5_estes_scan_03a163_e30cb6_ramey_image_distorti_9aa39c": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "roswell_UFO_ramey_me_6248d5_estes_scan_03a163_e30cb6_ramey_memo_priming_t_eeb967": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "roswell_UFO_ramey_me_6248d5_estes_scan_03a163_e30cb6_scan_resolution_limi_18bd11": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "roswell_UFO_ramey_me_6248d5_expectation_effects_9e6957": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "roswell_UFO_ramey_me_6248d5_expectation_effects_9e6957_atomic_prompt_word_s_fed8ab": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "roswell_UFO_ramey_me_6248d5_expectation_effects_9e6957_blind_reader_reality_e538cd": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "roswell_UFO_ramey_me_6248d5_expectation_effects_9e6957_cross_group_readabil_cf14fd": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "roswell_UFO_ramey_me_6248d5_expectation_effects_9e6957_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "roswell_UFO_ramey_me_6248d5_expectation_effects_9e6957_roswell_circular_con_de0efb": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "roswell_UFO_ramey_me_6248d5_expectation_effects_9e6957_sentence_coherence_t_f7f199": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "roswell_UFO_ramey_me_6248d5_expectation_effects_9e6957_word_search_context_3b9d8f": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "roswell_UFO_ramey_me_6248d5_film_grain_3330d4_8b1116": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "roswell_UFO_ramey_me_6248d5_film_grain_3330d4_8b1116_ambiguous_letter_con_f8957f": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "roswell_UFO_ramey_me_6248d5_film_grain_3330d4_8b1116_grain_letter_illusio_bed1f2": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "roswell_UFO_ramey_me_6248d5_film_grain_3330d4_8b1116_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "roswell_UFO_ramey_me_6248d5_film_grain_3330d4_8b1116_memo_letter_breakup_505eb3": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "roswell_UFO_ramey_me_6248d5_film_grain_3330d4_8b1116_scan_fidelity_vs_gra_ac18cf": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "roswell_UFO_ramey_me_6248d5_film_grain_3330d4_8b1116_stroke_persistence_t_ee7e0c": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "roswell_UFO_ramey_me_6248d5_film_grain_3330d4_8b1116_typed_letter_geometr_38a536": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "roswell_UFO_ramey_me_6248d5_fort_worth_photos_24d97f": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "roswell_UFO_ramey_me_6248d5_fort_worth_photos_24d97f_balloon_debris_switc_d224db": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "roswell_UFO_ramey_me_6248d5_fort_worth_photos_24d97f_dubose_substitution_4a0ad4": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "roswell_UFO_ramey_me_6248d5_fort_worth_photos_24d97f_fort_worth_photo_seq_f0470a": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "roswell_UFO_ramey_me_6248d5_fort_worth_photos_24d97f_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "roswell_UFO_ramey_me_6248d5_fort_worth_photos_24d97f_marcel_photo_account_ebb45a": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "roswell_UFO_ramey_me_6248d5_fort_worth_photos_24d97f_mogul_photo_comparis_ebb99e": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "roswell_UFO_ramey_me_6248d5_fort_worth_photos_24d97f_newton_debris_identi_38a85e": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "roswell_UFO_ramey_me_6248d5_fort_worth_wording_ba6760": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "roswell_UFO_ramey_me_6248d5_fort_worth_wording_ba6760_fort_worth_clue_limi_ce73d4": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "roswell_UFO_ramey_me_6248d5_fort_worth_wording_ba6760_fort_worth_early_rea_116aaa": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "roswell_UFO_ramey_me_6248d5_fort_worth_wording_ba6760_fort_worth_enhanceme_0c3ce3": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "roswell_UFO_ramey_me_6248d5_fort_worth_wording_ba6760_fort_worth_location_1c3fcc": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "roswell_UFO_ramey_me_6248d5_fort_worth_wording_ba6760_fort_worth_paper_ori_51c5f1": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "roswell_UFO_ramey_me_6248d5_fort_worth_wording_ba6760_fort_worth_reader_ag_a566e0": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "roswell_UFO_ramey_me_6248d5_fort_worth_wording_ba6760_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "roswell_UFO_ramey_me_6248d5_greenwood_reading_c04240": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "roswell_UFO_ramey_me_6248d5_greenwood_reading_c04240_greenwood_confidence_42189c": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "roswell_UFO_ramey_me_6248d5_greenwood_reading_c04240_greenwood_rudiak_rea_fda9a1": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "roswell_UFO_ramey_me_6248d5_greenwood_reading_c04240_haut_haught_press_er_770c1f": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "roswell_UFO_ramey_me_6248d5_greenwood_reading_c04240_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "roswell_UFO_ramey_me_6248d5_greenwood_reading_c04240_military_punctuation_203798": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "roswell_UFO_ramey_me_6248d5_greenwood_reading_c04240_news_copy_validation_ca59c9": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "roswell_UFO_ramey_me_6248d5_greenwood_reading_c04240_warren_haught_clue_fb33ef": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "roswell_UFO_ramey_me_6248d5_houran_randle_study_efb939": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "roswell_UFO_ramey_me_6248d5_houran_randle_study_efb939_ambiguity_memo_readi_d848c7": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "roswell_UFO_ramey_me_6248d5_houran_randle_study_efb939_blind_group_baseline_876de7": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "roswell_UFO_ramey_me_6248d5_houran_randle_study_efb939_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "roswell_UFO_ramey_me_6248d5_houran_randle_study_efb939_prior_knowledge_read_c5b228": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "roswell_UFO_ramey_me_6248d5_houran_randle_study_efb939_same_image_experimen_ea94a3": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "roswell_UFO_ramey_me_6248d5_houran_randle_study_efb939_story_cross_group_si_bc9193": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "roswell_UFO_ramey_me_6248d5_houran_randle_study_efb939_viewing_time_roswell_b2e59d": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "roswell_UFO_ramey_me_6248d5_image_limits_adf0b3_142cd5": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "roswell_UFO_ramey_me_6248d5_image_limits_adf0b3_142cd5_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "roswell_UFO_ramey_me_6248d5_image_limits_adf0b3_142cd5_memo_crease_shadows_e5ecf1": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "roswell_UFO_ramey_me_6248d5_image_limits_adf0b3_142cd5_memo_false_edges_531d83": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "roswell_UFO_ramey_me_6248d5_image_limits_adf0b3_142cd5_memo_photo_artifacts_c96554": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "roswell_UFO_ramey_me_6248d5_image_limits_adf0b3_142cd5_memo_uneven_focus_50b669": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "roswell_UFO_ramey_me_6248d5_image_limits_adf0b3_142cd5_ramey_memo_focus_lim_ff9f33": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "roswell_UFO_ramey_me_6248d5_image_limits_adf0b3_142cd5_ramey_photo_sharpnes_bbf932": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "roswell_UFO_ramey_me_6248d5_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "roswell_UFO_ramey_me_6248d5_jesse_marcel_9f55f8": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "roswell_UFO_ramey_me_6248d5_jesse_marcel_9f55f8_higher_headquarters_494935": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "roswell_UFO_ramey_me_6248d5_jesse_marcel_9f55f8_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "roswell_UFO_ramey_me_6248d5_jesse_marcel_9f55f8_marcel_chain_to_fort_b73e5c": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "roswell_UFO_ramey_me_6248d5_jesse_marcel_9f55f8_marcel_fort_worth_ph_2f6393": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "roswell_UFO_ramey_me_6248d5_jesse_marcel_9f55f8_marcel_roswell_recov_f46637": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "roswell_UFO_ramey_me_6248d5_jesse_marcel_9f55f8_roswell_chain_of_cus_45ebca": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "roswell_UFO_ramey_me_6248d5_jesse_marcel_9f55f8_roswell_debris_exami_99203e": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "roswell_UFO_ramey_me_6248d5_july_8_reversal_9c01ed": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "roswell_UFO_ramey_me_6248d5_july_8_reversal_9c01ed_bond_johnson_memo_ac_147aed": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "roswell_UFO_ramey_me_6248d5_july_8_reversal_9c01ed_eighth_air_force_nar_264930": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "roswell_UFO_ramey_me_6248d5_july_8_reversal_9c01ed_fbi_teletype_roswell_fda7fe": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "roswell_UFO_ramey_me_6248d5_july_8_reversal_9c01ed_fort_worth_balloon_r_bf165c": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "roswell_UFO_ramey_me_6248d5_july_8_reversal_9c01ed_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "roswell_UFO_ramey_me_6248d5_july_8_reversal_9c01ed_ramey_memo_photo_lim_a767a6": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "roswell_UFO_ramey_me_6248d5_july_8_reversal_9c01ed_roswell_flying_disc_fc1a1e": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "roswell_UFO_ramey_me_6248d5_memo_authenticity_805af6": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "roswell_UFO_ramey_me_6248d5_memo_authenticity_805af6_air_force_1994_ramey_5aa356": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "roswell_UFO_ramey_me_6248d5_memo_authenticity_805af6_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "roswell_UFO_ramey_me_6248d5_memo_authenticity_805af6_johnson_photo_sequen_c78a4b": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "roswell_UFO_ramey_me_6248d5_memo_authenticity_805af6_photo_authenticity_l_6ae442": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "roswell_UFO_ramey_me_6248d5_memo_authenticity_805af6_ramey_1947_publicati_615c02": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "roswell_UFO_ramey_me_6248d5_memo_authenticity_805af6_ramey_scans_vs_copie_260280": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "roswell_UFO_ramey_me_6248d5_memo_authenticity_805af6_uta_original_negativ_869af1": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "roswell_UFO_ramey_me_6248d5_no_smoking_gun_e71c7b": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "roswell_UFO_ramey_me_6248d5_no_smoking_gun_e71c7b_alien_body_claim_gap_c10ccc": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "roswell_UFO_ramey_me_6248d5_no_smoking_gun_e71c7b_competing_transcript_aeab95": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "roswell_UFO_ramey_me_6248d5_no_smoking_gun_e71c7b_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "roswell_UFO_ramey_me_6248d5_no_smoking_gun_e71c7b_missing_ramey_docume_bfc60b": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "roswell_UFO_ramey_me_6248d5_no_smoking_gun_e71c7b_ramey_memo_provenanc_72b078": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "roswell_UFO_ramey_me_6248d5_no_smoking_gun_e71c7b_smoking_gun_standard_8af82f": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "roswell_UFO_ramey_me_6248d5_no_smoking_gun_e71c7b_weather_balloon_cont_d4c82b": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "roswell_UFO_ramey_me_6248d5_original_negative_aac10a": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "roswell_UFO_ramey_me_6248d5_original_negative_aac10a_air_force_1994_image_3a2db6": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "roswell_UFO_ramey_me_6248d5_original_negative_aac10a_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "roswell_UFO_ramey_me_6248d5_original_negative_aac10a_ramey_ai_restoration_956646": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "roswell_UFO_ramey_me_6248d5_original_negative_aac10a_ramey_copy_generatio_e35e69": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "roswell_UFO_ramey_me_6248d5_original_negative_aac10a_ramey_digital_image_914f77": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "roswell_UFO_ramey_me_6248d5_original_negative_aac10a_ramey_enhancement_fa_141ebb": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "roswell_UFO_ramey_me_6248d5_original_negative_aac10a_uta_ramey_negative_s_6f166d": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "roswell_UFO_ramey_me_6248d5_paper_folds_9eb200_f8ab87": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "roswell_UFO_ramey_me_6248d5_paper_folds_9eb200_f8ab87_3d_reconstruction_li_2053fd": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "roswell_UFO_ramey_me_6248d5_paper_folds_9eb200_f8ab87_crease_crossing_stro_21b561": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "roswell_UFO_ramey_me_6248d5_paper_folds_9eb200_f8ab87_foreshortened_capita_e11a92": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "roswell_UFO_ramey_me_6248d5_paper_folds_9eb200_f8ab87_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "roswell_UFO_ramey_me_6248d5_paper_folds_9eb200_f8ab87_least_recoverable_re_10a133": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "roswell_UFO_ramey_me_6248d5_paper_folds_9eb200_f8ab87_rectification_choice_e2bc7e": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "roswell_UFO_ramey_me_6248d5_paper_folds_9eb200_f8ab87_single_deskew_limits_d63694": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "roswell_UFO_ramey_me_6248d5_ramey_explanation_76cd9c": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "roswell_UFO_ramey_me_6248d5_ramey_explanation_76cd9c_fort_worth_debris_su_678023": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "roswell_UFO_ramey_me_6248d5_ramey_explanation_76cd9c_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "roswell_UFO_ramey_me_6248d5_ramey_explanation_76cd9c_irving_newton_identi_5eed87": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "roswell_UFO_ramey_me_6248d5_ramey_explanation_76cd9c_project_mogul_vs_ram_5e6441": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "roswell_UFO_ramey_me_6248d5_ramey_explanation_76cd9c_radar_target_debris_713b03": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "roswell_UFO_ramey_me_6248d5_ramey_explanation_76cd9c_ramey_us_army_device_85b7ac": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "roswell_UFO_ramey_me_6248d5_ramey_explanation_76cd9c_wright_field_flight_b093f6": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "roswell_UFO_ramey_me_6248d5_records_vs_memories_774edd": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "roswell_UFO_ramey_me_6248d5_records_vs_memories_774edd_air_force_roswell_re_b5f4bb": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "roswell_UFO_ramey_me_6248d5_records_vs_memories_774edd_first_roswell_report_95304c": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "roswell_UFO_ramey_me_6248d5_records_vs_memories_774edd_fort_worth_explanati_2de325": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "roswell_UFO_ramey_me_6248d5_records_vs_memories_774edd_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "roswell_UFO_ramey_me_6248d5_records_vs_memories_774edd_jesse_marcel_memorie_28d3bd": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "roswell_UFO_ramey_me_6248d5_records_vs_memories_774edd_later_witness_testim_fc2d08": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "roswell_UFO_ramey_me_6248d5_records_vs_memories_774edd_ramey_memo_photo_ce717e": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "roswell_UFO_ramey_me_6248d5_roswell_familiarity_d5f531": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "roswell_UFO_ramey_me_6248d5_roswell_familiarity_d5f531_cross_group_shared_w_88047b": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "roswell_UFO_ramey_me_6248d5_roswell_familiarity_d5f531_expertise_vs_expecta_63cad3": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "roswell_UFO_ramey_me_6248d5_roswell_familiarity_d5f531_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "roswell_UFO_ramey_me_6248d5_roswell_familiarity_d5f531_ramey_scrutiny_time_690ff0": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "roswell_UFO_ramey_me_6248d5_roswell_familiarity_d5f531_roswell_familiarity_be375a": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "roswell_UFO_ramey_me_6248d5_roswell_familiarity_d5f531_roswell_knowledge_re_6b574c": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "roswell_UFO_ramey_me_6248d5_roswell_familiarity_d5f531_transcription_confid_8faef2": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "roswell_UFO_ramey_me_6248d5_rudiak_reconstructio_1fcf0f": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "roswell_UFO_ramey_me_6248d5_rudiak_reconstructio_1fcf0f_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "roswell_UFO_ramey_me_6248d5_rudiak_reconstructio_1fcf0f_ramey_press_wire_que_a6da1e": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "roswell_UFO_ramey_me_6248d5_rudiak_reconstructio_1fcf0f_rudiak_confidence_co_12cb8a": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "roswell_UFO_ramey_me_6248d5_rudiak_reconstructio_1fcf0f_rudiak_context_infer_2c5882": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "roswell_UFO_ramey_me_6248d5_rudiak_reconstructio_1fcf0f_rudiak_military_form_4a3601": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "roswell_UFO_ramey_me_6248d5_rudiak_reconstructio_1fcf0f_rudiak_smoking_gun_c_f46739": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "roswell_UFO_ramey_me_6248d5_rudiak_reconstructio_1fcf0f_rudiak_wreck_narrati_2688a2": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "roswell_UFO_ramey_me_6248d5_transcription_consen_5c6c25": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "roswell_UFO_ramey_me_6248d5_transcription_consen_5c6c25_confidence_vs_consen_0bf8c9": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "roswell_UFO_ramey_me_6248d5_transcription_consen_5c6c25_cross_version_stabil_430709": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "roswell_UFO_ramey_me_6248d5_transcription_consen_5c6c25_enhancement_artifact_3fa35f": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "roswell_UFO_ramey_me_6248d5_transcription_consen_5c6c25_exact_word_agreement_dbb2a8": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "roswell_UFO_ramey_me_6248d5_transcription_consen_5c6c25_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "roswell_UFO_ramey_me_6248d5_transcription_consen_5c6c25_period_camera_test_8f1681": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "roswell_UFO_ramey_me_6248d5_transcription_consen_5c6c25_unreadable_gaps_72f260": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "roswell_UFO_ramey_me_6248d5_victims_phrase_b3d345": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "roswell_UFO_ramey_me_6248d5_victims_phrase_b3d345_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "roswell_UFO_ramey_me_6248d5_victims_phrase_b3d345_kirby_remains_readin_437ae4": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "roswell_UFO_ramey_me_6248d5_victims_phrase_b3d345_ramey_context_primin_23211a": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "roswell_UFO_ramey_me_6248d5_victims_phrase_b3d345_ramey_image_limits_20547b": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "roswell_UFO_ramey_me_6248d5_victims_phrase_b3d345_ramey_lab_tests_246f64": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "roswell_UFO_ramey_me_6248d5_victims_phrase_b3d345_rudiak_victims_readi_dc153c": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "roswell_UFO_ramey_me_6248d5_victims_phrase_b3d345_victims_vs_remains_751013": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "roswell_UFO_ramey_me_6248d5_weather_balloon_word_20718b": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "roswell_UFO_ramey_me_6248d5_weather_balloon_word_20718b_disc_reading_reliabi_fc8f25": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "roswell_UFO_ramey_me_6248d5_weather_balloon_word_20718b_fort_worth_text_anch_857a69": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "roswell_UFO_ramey_me_6248d5_weather_balloon_word_20718b_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "roswell_UFO_ramey_me_6248d5_weather_balloon_word_20718b_johnson_paper_origin_dafc05": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "roswell_UFO_ramey_me_6248d5_weather_balloon_word_20718b_testing_full_transcr_efbffb": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "roswell_UFO_ramey_me_6248d5_weather_balloon_word_20718b_weather_balloons_mea_1e49e7": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "roswell_UFO_ramey_me_6248d5_weather_balloon_word_20718b_weather_balloons_phr_e1b8de": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "roswell_UFO_ramey_me_6248d5_what_memo_proves_277897": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "roswell_UFO_ramey_me_6248d5_what_memo_proves_277897_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "roswell_UFO_ramey_me_6248d5_what_memo_proves_277897_memo_evidence_limits_cacfda": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "roswell_UFO_ramey_me_6248d5_what_memo_proves_277897_memo_historical_valu_3898b7": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "roswell_UFO_ramey_me_6248d5_what_memo_proves_277897_memo_provenance_5f4508": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "roswell_UFO_ramey_me_6248d5_what_memo_proves_277897_military_communicati_1aa0ba": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "roswell_UFO_ramey_me_6248d5_what_memo_proves_277897_ramey_photo_session_87c471": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "roswell_UFO_ramey_me_6248d5_what_memo_proves_277897_roswell_story_shift_983e5b": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      }
+    }
+  },
+  "shared_pages_compared": 235,
+  "regressions": []
+}

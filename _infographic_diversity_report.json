@@ -1,0 +1,5083 @@
+{
+  "generated_at_utc": "2026-08-14T06:02:07.467787Z",
+  "mode": "warn_only",
+  "summary": {
+    "pages_with_stage2_metadata": 211,
+    "pages_review_recommended": 3,
+    "warning_reason_counts": {
+      "single_reader_role": 3
+    }
+  },
+  "pages": [
+    {
+      "basename": "roswell_UFO_ramey_me_6248d5_fort_worth_photos_24d97f_mogul_photo_comparis_ebb99e",
+      "title": "Do the Fort Worth Photos Match Project MOGUL Gear?",
+      "infographic_count": 3,
+      "templates": [
+        "venn",
+        "quadrant",
+        "versus"
+      ],
+      "roles": [
+        "comparison",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "Fort Worth Debris Components",
+        "MOGUL Hardware Evidence Analysis",
+        "Radar Target Construction Details"
+      ],
+      "role_diversity_count": 1,
+      "max_title_similarity": 0.0,
+      "review_recommended": true,
+      "warning_reasons": [
+        "single_reader_role"
+      ]
+    },
+    {
+      "basename": "roswell_UFO_ramey_me_6248d5_no_smoking_gun_e71c7b_missing_ramey_docume_bfc60b",
+      "title": "The missing Ramey memo still matters",
+      "infographic_count": 3,
+      "templates": [
+        "quadrant",
+        "versus",
+        "venn"
+      ],
+      "roles": [
+        "comparison",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "Visible Evidence vs. Missing Context",
+        "Archival Checks for the Ramey Memo",
+        "Interpretation Gaps in Roswell Evidence"
+      ],
+      "role_diversity_count": 1,
+      "max_title_similarity": 0.125,
+      "review_recommended": true,
+      "warning_reasons": [
+        "single_reader_role"
+      ]
+    },
+    {
+      "basename": "roswell_UFO_ramey_me_6248d5_weather_balloon_word_20718b",
+      "title": "The Memo Words Readers Agree on More Often",
+      "infographic_count": 3,
+      "templates": [
+        "venn",
+        "quadrant",
+        "versus"
+      ],
+      "roles": [
+        "comparison",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "Ramey Memo Evidence Hierarchy",
+        "Interpretations of Balloon Phrases",
+        "Ramey Memo Physical Constraints"
+      ],
+      "role_diversity_count": 1,
+      "max_title_similarity": 0.333,
+      "review_recommended": true,
+      "warning_reasons": [
+        "single_reader_role"
+      ]
+    },
+    {
+      "basename": "roswell_UFO_ramey_me_6248d5",
+      "title": "roswell UFO ramey",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "fact_box_sidebar",
+        "timeline_genealogy"
+      ],
+      "roles": [
+        "process",
+        "summary",
+        "chronology"
+      ],
+      "titles": [
+        "Roswell Incident Key Stages July 8, 1947",
+        "Ramey Memo Transcription Interpretations",
+        "Roswell Evidence Quality Factors"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.111,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "roswell_UFO_ramey_me_6248d5_2015_rescanning_ea8b25",
+      "title": "Why the 2015 Ramey Memo Scans Did Not Crack It",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "venn",
+        "versus"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "2015 Ramey Memo Imaging Workflow",
+        "Ramey Memo Interpretation Constraints",
+        "2015 Technical Findings at UTA"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.286,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "roswell_UFO_ramey_me_6248d5_2015_rescanning_ea8b25_2015_scan_release_c776b7",
+      "title": "What Did the Huge 2015 Scan Set Deliver?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "quadrant",
+        "list_vertical"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Ramey Memo 2015 Imaging Workflow",
+        "Digital Resolution vs Original Information",
+        "Ramey Memo Technical Bottlenecks"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.286,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "roswell_UFO_ramey_me_6248d5_2015_rescanning_ea8b25_independent_reader_c_a1cbd2",
+      "title": "Why Better Scans Still Failed the Agreement Test",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_horizon",
+        "venn",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Ramey Memo Rescanning Project Time line",
+        "Ramey Memo Interpretation Divergence",
+        "Factors Limiting Memo Readability"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.25,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "roswell_UFO_ramey_me_6248d5_2015_rescanning_ea8b25_multiple_imaging_met_1550fa",
+      "title": "Why Better Imaging Still Did Not Settle the Memo",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "versus",
+        "grid_stats"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "other"
+      ],
+      "titles": [
+        "UTA 2015 Ramey Memo Rescanning Workflow",
+        "Representation vs. Recovery Limits",
+        "Technical Obstacles in Ramey Memo Analysis"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.222,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "roswell_UFO_ramey_me_6248d5_2015_rescanning_ea8b25_original_negative_re_142081",
+      "title": "Did the Original Negative Hold More Detail?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "fact_box_sidebar",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "summary",
+        "taxonomy"
+      ],
+      "titles": [
+        "Ramey Memo Archival Investigation Key Stages",
+        "Ramey Memo Information Ceiling Hypotheses",
+        "Technical Constraints of the Ramey Negative"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.222,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "roswell_UFO_ramey_me_6248d5_2015_rescanning_ea8b25_photographic_grain_c_f6133f",
+      "title": "When More Magnification Stops Revealing New Letters",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "comparison_columns",
+        "fact_box_sidebar"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Ramey Memo Information Bottleneck Stages",
+        "Signal vs. Noise in Ramey Memo",
+        "2015 Rescanning Technical Specifications"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.25,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "roswell_UFO_ramey_me_6248d5_2015_rescanning_ea8b25_ramey_negative_condi_a05214",
+      "title": "Was the Ramey Negative Too Damaged to Read?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "quadrant",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "2015 Ramey Memo Inspection Workflow",
+        "Ramey Memo Readability Constraints",
+        "Negative Condition Findings at UTA"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.286,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "roswell_UFO_ramey_me_6248d5_ai_enhancement_9a4d7e",
+      "title": "Can AI Recover Words the Camera Never Captured?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "quadrant",
+        "versus"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "AI Image Reconstruction Workflow",
+        "Restoration vs Reconstruction Methods",
+        "Standards for Archival AI Analysis"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "roswell_UFO_ramey_me_6248d5_ai_enhancement_9a4d7e_ai_letter_reconstruc_71ea0a",
+      "title": "Why AI Letter Reconstructions Can Disagree",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "tug_of_war",
+        "comparison_columns"
+      ],
+      "roles": [
+        "process",
+        "other",
+        "comparison"
+      ],
+      "titles": [
+        "AI Analysis of Ramey Memo",
+        "Traditional vs AI Enhancement",
+        "Disputed Ramey Memo Readings"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.333,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "roswell_UFO_ramey_me_6248d5_ai_enhancement_9a4d7e_ai_super_resolution_ea5af1",
+      "title": "Can AI Really Recover Missing Ramey Memo Text?",
+      "infographic_count": 3,
+      "templates": [
+        "myth_facts",
+        "venn",
+        "timeline_snake"
+      ],
+      "roles": [
+        "comparison",
+        "comparison",
+        "chronology"
+      ],
+      "titles": [
+        "Traditional Processing vs Super Resolution",
+        "Ramey Memo Evidence Hierarchy",
+        "AI Assisted Research Workflow"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "roswell_UFO_ramey_me_6248d5_ai_enhancement_9a4d7e_archival_ai_standard_0232f2",
+      "title": "How To Use AI On Historical Images Safely",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_horizon",
+        "myth_facts",
+        "timeline_genealogy"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "chronology"
+      ],
+      "titles": [
+        "Archival AI Workflow for Records",
+        "Archival Evidence vs AI Inference",
+        "Audit Trail for AI Records"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.333,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "roswell_UFO_ramey_me_6248d5_ai_enhancement_9a4d7e_generated_detail_ris_3a1c9a",
+      "title": "When Enhanced Images Add Details That Never Existed",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "versus",
+        "list_vertical"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "AI Image Enhancement Workflow",
+        "Restoration vs. Reconstruction Types",
+        "Risks of AI Historical Enhancement"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.333,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "roswell_UFO_ramey_me_6248d5_ai_enhancement_9a4d7e_ramey_perception_bia_5670e6",
+      "title": "How Expectations Shape Ramey Memo Readings",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_horizon",
+        "fact_box_sidebar",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "chronology",
+        "summary",
+        "taxonomy"
+      ],
+      "titles": [
+        "Human Perception of the Ramey Memo",
+        "AI vs Human Image Interpretation",
+        "Factors Influencing Ramey Memo Analysis"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.286,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "roswell_UFO_ramey_me_6248d5_ai_enhancement_9a4d7e_restoration_vs_recon_df0a6b",
+      "title": "Restoration Or Reconstruction Of The Ramey Memo?",
+      "infographic_count": 3,
+      "templates": [
+        "versus",
+        "timeline_snake",
+        "prism"
+      ],
+      "roles": [
+        "comparison",
+        "chronology",
+        "taxonomy"
+      ],
+      "titles": [
+        "Restoration vs Reconstruction of the Ramey Memo",
+        "Workflow for Defensible Image Analysis",
+        "Risks of AI in Ramey Memo Analysis"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.25,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "roswell_UFO_ramey_me_6248d5_atomic_priming_362a6b",
+      "title": "Why the Atomic Test Group Matters to the Memo",
+      "infographic_count": 3,
+      "templates": [
+        "grid_stats",
+        "comparison_columns",
+        "timeline_snake"
+      ],
+      "roles": [
+        "other",
+        "comparison",
+        "chronology"
+      ],
+      "titles": [
+        "Ramey Memo Participant Word Counts",
+        "Contextual Priming vs. Visual Evidence",
+        "Houran and Randle Experimental Protocol"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "roswell_UFO_ramey_me_6248d5_atomic_priming_362a6b_atomic_prime_nuclear_937cff",
+      "title": "Why Did Atomic Test Readers See Nuclear Words?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "versus",
+        "quadrant"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "Cognitive Process of Document Deciphering",
+        "Ramey Memo Interpretive Group Results",
+        "Ramey Memo Signal vs Context"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.25,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "roswell_UFO_ramey_me_6248d5_atomic_priming_362a6b_atomic_vs_blind_word_a8f4b6",
+      "title": "Why Did Primed Readers Find So Many More Words?",
+      "infographic_count": 3,
+      "templates": [
+        "myth_facts",
+        "timeline_horizon",
+        "lightbulb"
+      ],
+      "roles": [
+        "comparison",
+        "chronology",
+        "other"
+      ],
+      "titles": [
+        "Ramey Memo Decipherment Comparison",
+        "Experimental Data from Houran and Randle",
+        "Methodological Lessons of the Ramey Memo"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.333,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "roswell_UFO_ramey_me_6248d5_atomic_priming_362a6b_cross_prime_survivin_6d78a4",
+      "title": "Which Ramey Memo Words Survived Every Prime?",
+      "infographic_count": 3,
+      "templates": [
+        "fact_box_sidebar",
+        "comparison_columns",
+        "grid_stats"
+      ],
+      "roles": [
+        "summary",
+        "comparison",
+        "other"
+      ],
+      "titles": [
+        "Ramey Memo Decipherment Resilience Levels",
+        "Narrative Influence on Ramey Memo Interpretation",
+        "Ramey Memo Participant Response Totals"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.25,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "roswell_UFO_ramey_me_6248d5_atomic_priming_362a6b_missing_score_sheets_72cd13",
+      "title": "How Much Did the Missing Score Sheets Matter?",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "venn",
+        "timeline_snake"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "chronology"
+      ],
+      "titles": [
+        "Ramey Memo Data Lifecycle Loss",
+        "Contextual Priming vs. Visual Evidence",
+        "Houran Randle Experiment Metrics"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "roswell_UFO_ramey_me_6248d5_atomic_priming_362a6b_priming_effort_confo_b5656e",
+      "title": "Did Priming Change What Readers Saw or How Hard They Looked?",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "venn",
+        "tree_map"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Ramey Memo Viewing Time Metrics",
+        "Mechanisms of Priming in Ramey Memo",
+        "Factors Influencing Decipherment Accuracy"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.286,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "roswell_UFO_ramey_me_6248d5_atomic_priming_362a6b_rudiak_atomic_prime_c2b962",
+      "title": "Why Did David Rudiak Reject the Priming Experiment?",
+      "infographic_count": 3,
+      "templates": [
+        "quadrant",
+        "structure_taxonomy",
+        "process_steps"
+      ],
+      "roles": [
+        "comparison",
+        "taxonomy",
+        "process"
+      ],
+      "titles": [
+        "Ramey Memo Decipherment Interpretations",
+        "Rudiak's Technical Objections to Study",
+        "Proposed Rigorous Decipherment Protocol"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "roswell_UFO_ramey_me_6248d5_balloon_vs_crash_843d99",
+      "title": "Balloon Debris or Crash Evidence in the Ramey Memo?",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "fact_box_sidebar",
+        "list_vertical"
+      ],
+      "roles": [
+        "process",
+        "summary",
+        "summary"
+      ],
+      "titles": [
+        "Roswell Official Narrative Time line",
+        "Ramey Memo Interpretation Conflict",
+        "Evidence Types in Roswell Dispute"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "roswell_UFO_ramey_me_6248d5_balloon_vs_crash_843d99_fbi_teletype_evidenc_d5f7f8",
+      "title": "What the FBI Message Revealed in 1947",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "fact_box_sidebar",
+        "masonry"
+      ],
+      "roles": [
+        "process",
+        "summary",
+        "other"
+      ],
+      "titles": [
+        "FBI Teletype Time line of July 8, 1947",
+        "Interpretations of the Roswell Debris",
+        "Components of the FBI Teletype Record"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.25,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "roswell_UFO_ramey_me_6248d5_balloon_vs_crash_843d99_fort_worth_press_eve_6da711",
+      "title": "The Press Conference That Changed Roswell",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "quadrant",
+        "venn"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "Roswell Announcement Time line 1947",
+        "Interpretations of Fort Worth Debris",
+        "Components of the Fort Worth Display"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.333,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "roswell_UFO_ramey_me_6248d5_balloon_vs_crash_843d99_military_secrecy_exp_224472",
+      "title": "Why Roswell Officials Changed Their Story",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "quadrant",
+        "myth_facts"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "Roswell Communication Time line July 8, 1947",
+        "Roswell Narrative Interpretations",
+        "Layers of Roswell Secrecy"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.2,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "roswell_UFO_ramey_me_6248d5_balloon_vs_crash_843d99_project_mogul_record_348d24",
+      "title": "How Project Mogul Changed the Roswell Debate",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "comparison_columns",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Project Mogul Documentation Reconstruction",
+        "Roswell Debris Interpretation Comparison",
+        "Mogul Balloon System Components"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "roswell_UFO_ramey_me_6248d5_balloon_vs_crash_843d99_ramey_memo_claims_ba3ea9",
+      "title": "Why the Ramey Memo Keeps the Mystery Alive",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_horizon",
+        "comparison_columns",
+        "versus"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "Roswell Press Conference Time line",
+        "Ramey Memo Interpretation Conflict",
+        "Evidence Quality in Roswell Debate"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "roswell_UFO_ramey_me_6248d5_balloon_vs_crash_843d99_roswell_debris_evide_865514",
+      "title": "Could Roswell Debris Really Be a Balloon?",
+      "infographic_count": 3,
+      "templates": [
+        "structure_taxonomy",
+        "comparison_columns",
+        "tug_of_war"
+      ],
+      "roles": [
+        "taxonomy",
+        "comparison",
+        "other"
+      ],
+      "titles": [
+        "Project Mogul Debris Components",
+        "Roswell Debris Interpretations",
+        "Project Mogul Design Features"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.333,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "roswell_UFO_ramey_me_6248d5_blind_reading_3d7212_554838",
+      "title": "What Would a Convincing Ramey Memo Test Look Like?",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "versus",
+        "fact_box_sidebar"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Protocol for Blinding Ramey Memo Readers",
+        "Contextual Bias in Ramey Memo Analysis",
+        "High Consensus Ramey Memo Fragments"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.25,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "roswell_UFO_ramey_me_6248d5_blind_reading_3d7212_554838_blind_first_readings_ece236",
+      "title": "What Happens When Readers See No Roswell Clues?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_genealogy",
+        "quadrant",
+        "venn"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "Ramey Memo Blind First Protocol",
+        "Contextual Influence on Deciphering",
+        "Hierarchy of Evidential Strength"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "roswell_UFO_ramey_me_6248d5_blind_reading_3d7212_554838_controlled_memo_view_1790b7",
+      "title": "Can Extra Viewing Time Change a Memo Reading?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "comparison_columns",
+        "timeline_genealogy"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "chronology"
+      ],
+      "titles": [
+        "Ramey Memo Reader Group Statistics",
+        "Mechanisms of Perception in Ramey Memo Tests",
+        "Standardizing Independent Reader Experiments"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.25,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "roswell_UFO_ramey_me_6248d5_blind_reading_3d7212_554838_free_vs_forced_trans_468041",
+      "title": "Should Readers Transcribe Freely or Pick a Phrase?",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "quadrant",
+        "tree_map"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Fair Transcription Methodology for Ramey Memo",
+        "Hierarchy of Prompt Influence on Transcription",
+        "Houran Randle Experiment Contextual Findings"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "roswell_UFO_ramey_me_6248d5_blind_reading_3d7212_554838_memo_agreement_thres_13d740",
+      "title": "How Much Agreement Should a Memo Word Require?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "fact_box_sidebar",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "chronology",
+        "summary",
+        "taxonomy"
+      ],
+      "titles": [
+        "Ramey Memo Transcription Governance Protocol",
+        "Ramey Memo Reading Classifications",
+        "Strict Agreement Requirements for Ramey Memo"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.286,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "roswell_UFO_ramey_me_6248d5_blind_reading_3d7212_554838_ramey_calibration_wo_f66837",
+      "title": "Which Ramey Memo Words Survive Changing Expectations?",
+      "infographic_count": 3,
+      "templates": [
+        "grid_stats",
+        "comparison_columns",
+        "list_vertical"
+      ],
+      "roles": [
+        "other",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Ramey Memo Reader Convergence Data",
+        "Word Recognition vs Sentence Recovery",
+        "Ramey Memo Calibration Hierarchy"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.286,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "roswell_UFO_ramey_me_6248d5_blind_reading_3d7212_554838_uncertain_letters_co_d0b1d7",
+      "title": "When Does a Partial Reading Become a Claimed Word?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "venn",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Ramey Memo Transcription Methodology",
+        "Ramey Memo Word Interpretations",
+        "Character Confidence Scale"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.333,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "roswell_UFO_ramey_me_6248d5_bond_johnson_2307d7_281e84",
+      "title": "How Much Weight Should J. Bond Johnson's Memories Carry?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "comparison_columns",
+        "list_vertical"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "J. Bond Johnson's 1947 Assignment",
+        "Ramey Memo Provenance Theories",
+        "Evidence Hierarchy for Roswell"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "roswell_UFO_ramey_me_6248d5_bond_johnson_2307d7_281e84_johnson_1989_account_9da244",
+      "title": "What Johnson Remembered Before the Story Grew",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "comparison_columns",
+        "fact_box_sidebar"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "J. Bond Johnson's 1947 Assignment Flow",
+        "Johnson's Evolving Roswell Recollections",
+        "Evidence Corroborating Johnson's 1989 Statement"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "roswell_UFO_ramey_me_6248d5_bond_johnson_2307d7_281e84_johnson_marcel_frame_0e584a",
+      "title": "Did Johnson Take the Disputed Marcel Photographs?",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "quadrant",
+        "fact_box_sidebar"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Fort Worth Photographic Session Key Stages",
+        "Marcel Photo Authorship Theories",
+        "Evidence for Johnson's Authorship"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.167,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "roswell_UFO_ramey_me_6248d5_bond_johnson_2307d7_281e84_johnson_memory_recon_f37283",
+      "title": "How Decades of Roswell Debate Could Reshape Memory",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "comparison_columns",
+        "timeline_horizon"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "chronology"
+      ],
+      "titles": [
+        "Key Stages in the Roswell Record",
+        "Memory Mechanisms in Roswell Testimony",
+        "Evidence Hierarchy for Roswell Records"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "roswell_UFO_ramey_me_6248d5_bond_johnson_2307d7_281e84_johnson_paper_proven_8e03e1",
+      "title": "Could Johnson Have Brought the Ramey Memo?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "venn",
+        "list_vertical"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "J. Bond Johnson's Testimony Evolution",
+        "Ramey Memo Provenance Hypotheses",
+        "Photographic Evidence Limitations"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "roswell_UFO_ramey_me_6248d5_bond_johnson_2307d7_281e84_johnson_photo_count_da7407",
+      "title": "How Many Roswell Photos Did Johnson Actually Take?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_horizon",
+        "comparison_columns",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Evolution of J. Bond Johnson's Recollections",
+        "Disputed Authorship of Fort Worth Images",
+        "Hierarchy of Photographic Evidence Quality"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "roswell_UFO_ramey_me_6248d5_bond_johnson_2307d7_281e84_ramey_statement_shif_0f8164",
+      "title": "Did Ramey Sound Certain or Baffled to Johnson?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "quadrant",
+        "timeline_horizon"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "chronology"
+      ],
+      "titles": [
+        "J. Bond Johnson's Recollection Time line",
+        "Johnson's Conflicting Recollections",
+        "Evidence Hierarchy for Ramey's Position"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "roswell_UFO_ramey_me_6248d5_disc_reading_917df6_421dc7",
+      "title": "Can the Word 'Disc' Be Read in the Memo?",
+      "infographic_count": 3,
+      "templates": [
+        "quadrant",
+        "timeline_snake",
+        "tree_map"
+      ],
+      "roles": [
+        "comparison",
+        "chronology",
+        "taxonomy"
+      ],
+      "titles": [
+        "Ramey Memo 'Disc' Reading Interpretations",
+        "Standardizing Ramey Memo Deciphering",
+        "Hierarchy of Ramey Memo Evidence"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.333,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "roswell_UFO_ramey_me_6248d5_disc_reading_917df6_421dc7_disc_balloon_explana_c56a6c",
+      "title": "Would DISC Undercut Ramey's Balloon Explanation?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "comparison_columns",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "July 8, 1947 Roswell Narrative Shift",
+        "Ramey Memo Interpretation Models",
+        "Evidence Components of the Ramey Memo"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.333,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "roswell_UFO_ramey_me_6248d5_disc_reading_917df6_421dc7_disc_disk_else_readi_eb5af6",
+      "title": "Does the Memo Say DISC, DISK or ELSE?",
+      "infographic_count": 3,
+      "templates": [
+        "venn",
+        "versus",
+        "process_steps"
+      ],
+      "roles": [
+        "comparison",
+        "comparison",
+        "process"
+      ],
+      "titles": [
+        "Ramey Memo Transcription Variations",
+        "Roswell Memo Consensus Benchmarks",
+        "Ramey Memo Image Analysis History"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.286,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "roswell_UFO_ramey_me_6248d5_disc_reading_917df6_421dc7_disc_proof_standard_df63b7",
+      "title": "What Would It Take to Prove DISC?",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "fact_box_sidebar",
+        "list_vertical"
+      ],
+      "roles": [
+        "process",
+        "summary",
+        "summary"
+      ],
+      "titles": [
+        "Verification Protocol for Ramey Memo",
+        "Evidence Levels for DISC Transcription",
+        "Ramey Memo Image Analysis Constraints"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.286,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "roswell_UFO_ramey_me_6248d5_disc_reading_917df6_421dc7_disc_quotation_marks_4cc283",
+      "title": "Are Those Really Quotation Marks Around DISC?",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "fact_box_sidebar",
+        "quadrant"
+      ],
+      "roles": [
+        "process",
+        "summary",
+        "comparison"
+      ],
+      "titles": [
+        "Ramey Memo Image Degradation Chain",
+        "Ramey Memo Interpretation Fork",
+        "Deciphering Uncertainty Hierarchy"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.286,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "roswell_UFO_ramey_me_6248d5_disc_reading_917df6_421dc7_disc_vs_secure_words_7fe7e6",
+      "title": "Why DISC Falls Short of the Memo's Clearest Words",
+      "infographic_count": 3,
+      "templates": [
+        "rank_podium",
+        "quadrant",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "data",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Ramey Memo Participant Reading Counts",
+        "Evidence Quality of Ramey Memo Readings",
+        "Factors Limiting Ramey Memo Deciphering"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.25,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "roswell_UFO_ramey_me_6248d5_disc_reading_917df6_421dc7_rudiak_disc_sentence_f572e8",
+      "title": "How Much of the DISC Sentence Is Inferred?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "venn",
+        "list_vertical"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Rudiak's Interpretation Evidence Chain",
+        "Ramey Memo Transcription Variations",
+        "Controlled Study Evidence Markers"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "roswell_UFO_ramey_me_6248d5_enhancement_risks_cfa68e",
+      "title": "When Image Enhancement Makes the Memo Look Too Clear",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "tug_of_war",
+        "list_vertical"
+      ],
+      "roles": [
+        "chronology",
+        "other",
+        "summary"
+      ],
+      "titles": [
+        "Safe Forensic Image Analysis Workflow",
+        "Contrast vs. Sharpening Risks",
+        "Ramey Memo Interpretation Factors"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "roswell_UFO_ramey_me_6248d5_enhancement_risks_cfa68e_contrast_detail_loss_b2acb0",
+      "title": "When More Contrast Means Less Memo Information",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "comparison_columns",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Ramey Memo Contrast Processing Workflow",
+        "Contrast Strength Trade offs in Forensics",
+        "Risks of Tonal Data Loss"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.111,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "roswell_UFO_ramey_me_6248d5_enhancement_risks_cfa68e_ramey_competing_rest_efa156",
+      "title": "What If Two Ramey Memo Enhancements Both Look Right?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "fact_box_sidebar",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "summary",
+        "taxonomy"
+      ],
+      "titles": [
+        "Ramey Memo Image Processing Workflow",
+        "Ramey Memo Restoration Ambiguities",
+        "Standards for Valid Transcription"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.286,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "roswell_UFO_ramey_me_6248d5_enhancement_risks_cfa68e_ramey_enhancement_re_cdbaf0",
+      "title": "Which Enhanced Ramey Memo Features Actually Survive Testing?",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "comparison_columns",
+        "list_vertical"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "SWGDE Digital Image Processing Workflow",
+        "Ramey Memo Interpretation Challenges",
+        "Reproducible Character Stability Criteria"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "roswell_UFO_ramey_me_6248d5_enhancement_risks_cfa68e_ramey_sharpening_hal_1a84e1",
+      "title": "Could Sharpening Halos Reshape Ramey Memo Letters?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_horizon",
+        "fact_box_sidebar",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "summary",
+        "taxonomy"
+      ],
+      "titles": [
+        "Unsharp Masking Image Processing Flow",
+        "Ramey Memo Character Interpretation Risks",
+        "FADGI and SWGDE Forensic Standards"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "roswell_UFO_ramey_me_6248d5_enhancement_risks_cfa68e_sharpening_false_str_dc0ee1",
+      "title": "Can Sharpening Create Letters That Were Never Clear?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "venn",
+        "versus"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "SWGDE Image Processing Workflow",
+        "Ramey Memo Interpretation Risks",
+        "Forensic Stability Check Methods"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "roswell_UFO_ramey_me_6248d5_enhancement_risks_cfa68e_sharpness_vs_resolut_763664",
+      "title": "Does a Sharper Ramey Memo Really Reveal More?",
+      "infographic_count": 3,
+      "templates": [
+        "quadrant",
+        "process_steps",
+        "comparison_columns"
+      ],
+      "roles": [
+        "comparison",
+        "process",
+        "comparison"
+      ],
+      "titles": [
+        "Visual Clarity vs Evidential Clarity",
+        "Ramey Memo Image Processing Chain",
+        "Ramey Memo Interpretation Risks"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.286,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "roswell_UFO_ramey_me_6248d5_estes_scan_03a163_e30cb6",
+      "title": "Why an Ultra High Resolution Scan Still Fell Short",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_horizon",
+        "quadrant",
+        "earth_core"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "other"
+      ],
+      "titles": [
+        "Russ Estes Ramey Memo Examination",
+        "Ramey Memo Interpretive Ambiguities",
+        "Limits of Photographic Resolution"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.286,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "roswell_UFO_ramey_me_6248d5_estes_scan_03a163_e30cb6_estes_9000_dpi_scan_78eefa",
+      "title": "What Did Estes's 9,000 dpi Scan Really Reveal?",
+      "infographic_count": 3,
+      "templates": [
+        "process_pipeline",
+        "venn",
+        "prism"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Estes 9,000 dpi Imaging Workflow",
+        "Ramey Memo Interpretation Limits",
+        "Factors Limiting Memo Deciphering"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "roswell_UFO_ramey_me_6248d5_estes_scan_03a163_e30cb6_estes_disputed_words_1b4091",
+      "title": "Why the Memo's Most Famous Words Stayed Uncertain",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "comparison_columns",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Estes Document Examination Process",
+        "Ramey Memo Transcription Interpretations",
+        "Estes Confidence Hierarchy Levels"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "roswell_UFO_ramey_me_6248d5_estes_scan_03a163_e30cb6_negative_vs_print_sc_93fe84",
+      "title": "Would the Original Negative Offer More Than the Print?",
+      "infographic_count": 3,
+      "templates": [
+        "versus",
+        "process_steps",
+        "fact_box_sidebar"
+      ],
+      "roles": [
+        "comparison",
+        "process",
+        "summary"
+      ],
+      "titles": [
+        "Ramey Memo Source Generation Comparison",
+        "Archival Digitization Quality Chain",
+        "Potential Improvements from Negative Scans"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "roswell_UFO_ramey_me_6248d5_estes_scan_03a163_e30cb6_ramey_image_distorti_9aa39c",
+      "title": "How the Photograph Itself Warped the Memo's Letters",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "fact_box_sidebar",
+        "tug_of_war"
+      ],
+      "roles": [
+        "process",
+        "summary",
+        "other"
+      ],
+      "titles": [
+        "Ramey Memo Imaging Chain",
+        "Limits of Ramey Memo Enhancement",
+        "Factors Obscuring Ramey Memo Text"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.333,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "roswell_UFO_ramey_me_6248d5_estes_scan_03a163_e30cb6_ramey_memo_priming_t_eeb967",
+      "title": "Did Expectations Change What People Saw in the Memo?",
+      "infographic_count": 3,
+      "templates": [
+        "rank_podium",
+        "quadrant",
+        "timeline_snake"
+      ],
+      "roles": [
+        "data",
+        "comparison",
+        "chronology"
+      ],
+      "titles": [
+        "Ramey Memo Participant Statistics",
+        "Transcription Interpretation Categories",
+        "Standardized Transcription Protocol"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.2,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "roswell_UFO_ramey_me_6248d5_estes_scan_03a163_e30cb6_scan_resolution_limi_18bd11",
+      "title": "Why More Pixels Could Not Recover the Memo",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "myth_facts",
+        "tree_map"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Ramey Memo Information Degradation Chain",
+        "Oversampling vs Source Limitations",
+        "Factors Constraining Ramey Memo Clarity"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.25,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "roswell_UFO_ramey_me_6248d5_expectation_effects_9e6957",
+      "title": "Why Expectations Change What People See in the Memo",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "versus",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Ramey Memo Analysis Workflow",
+        "Contextual Bias in Roswell Deciphering",
+        "Criteria for Persuasive Agreement"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "roswell_UFO_ramey_me_6248d5_expectation_effects_9e6957_atomic_prompt_word_s_fed8ab",
+      "title": "Why the Same Memo Produced Atomic Test Words",
+      "infographic_count": 3,
+      "templates": [
+        "myth_facts",
+        "venn",
+        "process_steps"
+      ],
+      "roles": [
+        "comparison",
+        "comparison",
+        "process"
+      ],
+      "titles": [
+        "Ramey Memo Reading Variations",
+        "Ramey Memo Experimental Variables",
+        "Ramey Memo Deciphering Statistics"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.333,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "roswell_UFO_ramey_me_6248d5_expectation_effects_9e6957_blind_reader_reality_e538cd",
+      "title": "What Do Blind Readers Actually See in Ramey's Memo?",
+      "infographic_count": 3,
+      "templates": [
+        "rank_podium",
+        "fact_box_sidebar",
+        "list_vertical"
+      ],
+      "roles": [
+        "data",
+        "summary",
+        "summary"
+      ],
+      "titles": [
+        "Ramey Memo Deciphering Statistics",
+        "Contextual Influence on Perception",
+        "Ramey Memo Verification Standards"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.333,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "roswell_UFO_ramey_me_6248d5_expectation_effects_9e6957_cross_group_readabil_cf14fd",
+      "title": "Which Memo Words Survive Different Reader Expectations?",
+      "infographic_count": 3,
+      "templates": [
+        "structure_taxonomy",
+        "quadrant",
+        "rank_podium"
+      ],
+      "roles": [
+        "taxonomy",
+        "comparison",
+        "data"
+      ],
+      "titles": [
+        "Ramey Memo Evidence Hierarchy",
+        "Ramey Memo Deciphering Outcomes",
+        "Ramey Memo Participant Statistics"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.333,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "roswell_UFO_ramey_me_6248d5_expectation_effects_9e6957_roswell_circular_con_de0efb",
+      "title": "When a Familiar Roswell Phrase Starts Proving Itself",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_genealogy",
+        "comparison_columns",
+        "fact_box_sidebar"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Circular Confirmation in Ramey Memo",
+        "Ramey Memo Interpretation Variables",
+        "Standards for Document Reliability"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.333,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "roswell_UFO_ramey_me_6248d5_expectation_effects_9e6957_sentence_coherence_t_f7f199",
+      "title": "Why a Coherent Memo Sentence May Still Be Wrong",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "fact_box_sidebar",
+        "list_vertical"
+      ],
+      "roles": [
+        "process",
+        "summary",
+        "summary"
+      ],
+      "titles": [
+        "Transcription Stages of the Ramey Memo",
+        "Contextual Influence on Memo Interpretation",
+        "Evidence Hierarchy for Document Analysis"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "roswell_UFO_ramey_me_6248d5_expectation_effects_9e6957_word_search_context_3b9d8f",
+      "title": "Can Word Searches Bias a Ramey Memo Reconstruction?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "comparison_columns",
+        "venn"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "Ramey Memo Word Search Methodology",
+        "Grammar vs. Historical Context Constraints",
+        "Ramey Memo Evidence Hierarchy"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.286,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "roswell_UFO_ramey_me_6248d5_film_grain_3330d4_8b1116",
+      "title": "When Film Grain Starts Looking Like Letters",
+      "infographic_count": 3,
+      "templates": [
+        "process_pipeline",
+        "quadrant",
+        "list_vertical"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Ramey Memo Forensic Analysis Workflow",
+        "Signal vs. Noise in Ramey Memo",
+        "Criteria for Credible Document Strokes"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.25,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "roswell_UFO_ramey_me_6248d5_film_grain_3330d4_8b1116_ambiguous_letter_con_f8957f",
+      "title": "Which Ramey Memo Letters Are Easiest to Misread?",
+      "infographic_count": 3,
+      "templates": [
+        "quadrant",
+        "process_pipeline",
+        "tug_of_war"
+      ],
+      "roles": [
+        "comparison",
+        "process",
+        "other"
+      ],
+      "titles": [
+        "Ramey Memo Character Ambiguity Risks",
+        "Degradation Effects on OCR Accuracy",
+        "Ramey Memo Evidence Quality Hierarchy"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.25,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "roswell_UFO_ramey_me_6248d5_film_grain_3330d4_8b1116_grain_letter_illusio_bed1f2",
+      "title": "When Film Grain Starts Looking Like Letters",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "comparison_columns",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Mechanism of Grain Induced Letter Illusions",
+        "Ramey Memo Character Interpretation Risks",
+        "False Character Features in Ramey Memo"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.429,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "roswell_UFO_ramey_me_6248d5_film_grain_3330d4_8b1116_memo_letter_breakup_505eb3",
+      "title": "Why Tiny Memo Letters Merge, Split and Mislead",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "venn",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Degradation of the Ramey Memo Image",
+        "Visual Failures in Document Recognition",
+        "Evidence Quality for Ramey Memo"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.333,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "roswell_UFO_ramey_me_6248d5_film_grain_3330d4_8b1116_scan_fidelity_vs_gra_ac18cf",
+      "title": "When a Better Scan Reveals More Grain, Not Text",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "comparison_columns",
+        "list_vertical"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Chain of Reproduction for Ramey Memo",
+        "Scanning Resolution vs. Subject Detail",
+        "Non Textual Information in High Res Scans"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "roswell_UFO_ramey_me_6248d5_film_grain_3330d4_8b1116_stroke_persistence_t_ee7e0c",
+      "title": "Which Memo Strokes Survive Different Image Treatments?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "venn",
+        "myth_facts"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "Ramey Memo Stroke Survival Protocol",
+        "Ramey Memo Interpretation Stability",
+        "Image Processing Technical Risks"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.286,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "roswell_UFO_ramey_me_6248d5_film_grain_3330d4_8b1116_typed_letter_geometr_38a536",
+      "title": "Does the Shape Behave Like a Real Typed Letter?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_genealogy",
+        "quadrant",
+        "fact_box_sidebar"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Ramey Memo Geometric Analysis Workflow",
+        "Damaged vs. Invented Geometry",
+        "Forensic Typewriter Examination Criteria"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "roswell_UFO_ramey_me_6248d5_fort_worth_photos_24d97f",
+      "title": "What the Fort Worth Debris Photos Actually Preserve",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_horizon",
+        "venn",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Fort Worth Debris Display Key Stages",
+        "Interpretations of Fort Worth Debris",
+        "Key Figures in Fort Worth Photographs"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.429,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "roswell_UFO_ramey_me_6248d5_fort_worth_photos_24d97f_balloon_debris_switc_d224db",
+      "title": "Does Balloon Debris Actually Refute the Switch Claim?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "comparison_columns",
+        "list_vertical"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Roswell Debris Chain of Custody",
+        "Roswell Debris Interpretation Models",
+        "Evidence Types for Roswell Debris"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.333,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "roswell_UFO_ramey_me_6248d5_fort_worth_photos_24d97f_dubose_substitution_4a0ad4",
+      "title": "Did Du Bose Say the Fort Worth Debris Was Switched?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "comparison_columns",
+        "fact_box_sidebar"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Roswell Debris Handling Chain",
+        "Du Bose Testimony Interpretations",
+        "Evidence from Thomas J. Du Bose"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.333,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "roswell_UFO_ramey_me_6248d5_fort_worth_photos_24d97f_fort_worth_photo_seq_f0470a",
+      "title": "What Does the Full Fort Worth Photo Sequence Show?",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "fact_box_sidebar",
+        "timeline_snake"
+      ],
+      "roles": [
+        "process",
+        "summary",
+        "chronology"
+      ],
+      "titles": [
+        "Fort Worth Photographic Key Stages Time line",
+        "Interpretations of Fort Worth Evidence",
+        "Key Figures in Fort Worth Key Stages"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.5,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "roswell_UFO_ramey_me_6248d5_fort_worth_photos_24d97f_marcel_photo_account_ebb45a",
+      "title": "Why Did Marcel's Story About the Photos Change?",
+      "infographic_count": 3,
+      "templates": [
+        "fact_box_sidebar",
+        "structure_taxonomy",
+        "myth_facts"
+      ],
+      "roles": [
+        "summary",
+        "taxonomy",
+        "comparison"
+      ],
+      "titles": [
+        "Marcel's Contradictory Debris Accounts",
+        "Fort Worth Debris Components",
+        "Evidence Analysis of Substitution"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "roswell_UFO_ramey_me_6248d5_fort_worth_photos_24d97f_newton_debris_identi_38a85e",
+      "title": "Could Irving Newton Identify the Debris on Sight?",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "comparison_columns",
+        "list_vertical"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Irving Newton's Identification Process",
+        "Evidence Limits of Newton's Testimony",
+        "Components of the Fort Worth Debris"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "roswell_UFO_ramey_me_6248d5_fort_worth_wording_ba6760",
+      "title": "Why 'Fort Worth' Is One of the Safer Readings",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "comparison_columns",
+        "venn"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "Ramey Memo Deciphering Methodology",
+        "Ramey Memo Interpretation Variables",
+        "Evidence for Fort Worth Reading"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.333,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "roswell_UFO_ramey_me_6248d5_fort_worth_wording_ba6760_fort_worth_clue_limi_ce73d4",
+      "title": "What Does the Fort Worth Clue Actually Prove?",
+      "infographic_count": 3,
+      "templates": [
+        "fact_box_sidebar",
+        "comparison_columns",
+        "venn"
+      ],
+      "roles": [
+        "summary",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "Ramey Memo Evidential Hierarchy",
+        "Ramey Document Interpretation Conflicts",
+        "Fort Worth TX Perception Data"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "roswell_UFO_ramey_me_6248d5_fort_worth_wording_ba6760_fort_worth_early_rea_116aaa",
+      "title": "Why Fort Worth Survived Conflicting Memo Readings",
+      "infographic_count": 3,
+      "templates": [
+        "comparison_columns",
+        "tree_map",
+        "quadrant"
+      ],
+      "roles": [
+        "comparison",
+        "taxonomy",
+        "comparison"
+      ],
+      "titles": [
+        "Ramey Memo Transcription Variations",
+        "Evidence for Fort Worth Location",
+        "Ramey Memo Linguistic Discrepancies"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.333,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "roswell_UFO_ramey_me_6248d5_fort_worth_wording_ba6760_fort_worth_enhanceme_0c3ce3",
+      "title": "Can Fort Worth Expose Misleading Memo Enhancements?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "myth_facts",
+        "list_vertical"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Ramey Memo Image Verification Workflow",
+        "Impact of Contextual Suggestion on Reading",
+        "Hierarchy of Image Enhancement Validity"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "roswell_UFO_ramey_me_6248d5_fort_worth_wording_ba6760_fort_worth_location_1c3fcc",
+      "title": "Does Fort Worth Match Where the Photo Was Taken?",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "venn",
+        "timeline_genealogy"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "chronology"
+      ],
+      "titles": [
+        "Roswell Material Logistics Key Stages",
+        "Ramey Memo Interpretation Analysis",
+        "Fort Worth Military Infrastructure"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "roswell_UFO_ramey_me_6248d5_fort_worth_wording_ba6760_fort_worth_paper_ori_51c5f1",
+      "title": "Can Fort Worth Identify Who Wrote Ramey's Paper?",
+      "infographic_count": 3,
+      "templates": [
+        "comparison_columns",
+        "structure_taxonomy",
+        "quadrant"
+      ],
+      "roles": [
+        "comparison",
+        "taxonomy",
+        "comparison"
+      ],
+      "titles": [
+        "Ramey Memo Authorship Hypotheses",
+        "Contextual Clues in Fort Worth",
+        "Evidence Limitations of the Photograph"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "roswell_UFO_ramey_me_6248d5_fort_worth_wording_ba6760_fort_worth_reader_ag_a566e0",
+      "title": "Why Did So Many Readers See Fort Worth?",
+      "infographic_count": 3,
+      "templates": [
+        "grid_stats",
+        "fact_box_sidebar",
+        "list_vertical"
+      ],
+      "roles": [
+        "other",
+        "summary",
+        "summary"
+      ],
+      "titles": [
+        "Ramey Memo Participant Recognition Stats",
+        "Deciphering the Ramey Memo Evidence",
+        "Limitations of the Fort Worth Reading"
+      ],
+      "role_diversity_count": 1,
+      "max_title_similarity": 0.286,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "roswell_UFO_ramey_me_6248d5_greenwood_reading_c04240",
+      "title": "What Competing Ramey Memo Readings Reveal",
+      "infographic_count": 3,
+      "templates": [
+        "quadrant",
+        "fact_box_sidebar",
+        "process_steps"
+      ],
+      "roles": [
+        "comparison",
+        "summary",
+        "process"
+      ],
+      "titles": [
+        "Ramey Memo Interpretation Models",
+        "Greenwood's Newswire Evidence Markers",
+        "Methodology of Textual Reconstruction"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "roswell_UFO_ramey_me_6248d5_greenwood_reading_c04240_greenwood_confidence_42189c",
+      "title": "How Certain Was Greenwood About His Memo Reading?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "comparison_columns",
+        "venn"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "Evolution of Greenwood's Ramey Interpretation",
+        "Ramey Document Interpretation Models",
+        "Evidence for Newswire Hypothesis"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.333,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "roswell_UFO_ramey_me_6248d5_greenwood_reading_c04240_greenwood_rudiak_rea_fda9a1",
+      "title": "How One Memo Passage Produced Two Different Stories",
+      "infographic_count": 3,
+      "templates": [
+        "quadrant",
+        "process_steps",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "comparison",
+        "process",
+        "taxonomy"
+      ],
+      "titles": [
+        "Ramey Memo Interpretation Conflict",
+        "Deciphering the Ramey Memo Process",
+        "Ramey Memo Evidence Categories"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.333,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "roswell_UFO_ramey_me_6248d5_greenwood_reading_c04240_haut_haught_press_er_770c1f",
+      "title": "How Walter Haut Became Warren Haught in Print",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "quadrant",
+        "myth_facts"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "Walter Haut's Role in Roswell Records",
+        "Ramey Memo Interpretation Models",
+        "The Warren Haught Typo Details"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "roswell_UFO_ramey_me_6248d5_greenwood_reading_c04240_military_punctuation_203798",
+      "title": "Does Military Punctuation Undercut Greenwood's Teletype Case?",
+      "infographic_count": 3,
+      "templates": [
+        "quadrant",
+        "tree_map",
+        "process_pipeline"
+      ],
+      "roles": [
+        "comparison",
+        "taxonomy",
+        "process"
+      ],
+      "titles": [
+        "Ramey Memo Document Interpretation",
+        "Military Teletype Communication Standards",
+        "Evidence Evaluation of Ramey Memo"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.333,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "roswell_UFO_ramey_me_6248d5_greenwood_reading_c04240_news_copy_validation_ca59c9",
+      "title": "Does Matching News Copy Really Validate Greenwood's Reading?",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "fact_box_sidebar",
+        "list_vertical"
+      ],
+      "roles": [
+        "process",
+        "summary",
+        "summary"
+      ],
+      "titles": [
+        "Greenwood's Ramey Memo Reconstruction Process",
+        "Evidence Types in Ramey Memo Analysis",
+        "Historical Facts of the 'Warren Haught' Error"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.25,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "roswell_UFO_ramey_me_6248d5_greenwood_reading_c04240_warren_haught_clue_fb33ef",
+      "title": "Why Warren Haught Became Greenwood's Key Clue",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "venn",
+        "tree_roots"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "July 1947 Roswell Press Time line",
+        "Ramey Memo Textual Interpretations",
+        "Evidence Constraints of the Haught Clue"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "roswell_UFO_ramey_me_6248d5_houran_randle_study_efb939",
+      "title": "The Experiment That Changed the Ramey Memo Debate",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "quadrant",
+        "rank_podium"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "data"
+      ],
+      "titles": [
+        "Houran–Randle Experimental Methodology",
+        "Priming Effects on Ramey Memo Interpretation",
+        "Ramey Memo Shared Word Statistics"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.25,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "roswell_UFO_ramey_me_6248d5_houran_randle_study_efb939_ambiguity_memo_readi_d848c7",
+      "title": "Who Sees More Words in an Unclear Memo?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "quadrant",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Ramey Memo Decipherment Methodology",
+        "Decipherment Interpretation Models",
+        "Ramey Memo Evidence Categories"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.333,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "roswell_UFO_ramey_me_6248d5_houran_randle_study_efb939_blind_group_baseline_876de7",
+      "title": "What Did Readers See Without a Roswell Story?",
+      "infographic_count": 3,
+      "templates": [
+        "versus",
+        "prism",
+        "fact_box_sidebar"
+      ],
+      "roles": [
+        "comparison",
+        "taxonomy",
+        "summary"
+      ],
+      "titles": [
+        "Ramey Memo Deciphering Results",
+        "Cross Condition Textual Residue",
+        "Confidence Hierarchy in Transcription"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "roswell_UFO_ramey_me_6248d5_houran_randle_study_efb939_prior_knowledge_read_c5b228",
+      "title": "Did Roswell Knowledge Change What Readers Could See?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "myth_facts",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Ramey Memo Deciphering Methodology",
+        "Knowledge as Interpretive Bias",
+        "Evidence Hierarchy for Ramey Memo"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.333,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "roswell_UFO_ramey_me_6248d5_houran_randle_study_efb939_same_image_experimen_ea94a3",
+      "title": "Why the Same Photograph Makes the Test Stronger",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "fact_box_sidebar",
+        "list_vertical"
+      ],
+      "roles": [
+        "process",
+        "summary",
+        "summary"
+      ],
+      "titles": [
+        "Houran–Randle Experimental Procedure",
+        "Ramey Memo Interpretation Frames",
+        "Evidence Quality Standards for Ramey Memo"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.286,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "roswell_UFO_ramey_me_6248d5_houran_randle_study_efb939_story_cross_group_si_bc9193",
+      "title": "Why Did So Many Readers See 'Story'?",
+      "infographic_count": 3,
+      "templates": [
+        "grid_stats",
+        "venn",
+        "list_vertical"
+      ],
+      "roles": [
+        "other",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Ramey Memo Participant Word Recognition",
+        "Evidence for Ramey Memo Legibility",
+        "Consensus Words in Ramey Memo"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.333,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "roswell_UFO_ramey_me_6248d5_houran_randle_study_efb939_viewing_time_roswell_b2e59d",
+      "title": "Did Longer Viewing Produce More Roswell Words?",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "timeline_horizon",
+        "comparison_columns"
+      ],
+      "roles": [
+        "process",
+        "chronology",
+        "comparison"
+      ],
+      "titles": [
+        "The Feedback Loop of Suggestion",
+        "Ramey Memo Inspection Metrics",
+        "Decipherment Interpretation Limits"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "roswell_UFO_ramey_me_6248d5_image_limits_adf0b3_142cd5",
+      "title": "Why Enlarging the Ramey Memo Does Not Solve It",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "venn",
+        "prism"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Ramey Memo Image Degradation Path",
+        "Ramey Memo Signal vs Noise",
+        "Factors Limiting Ramey Memo Deciphering"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.25,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "roswell_UFO_ramey_me_6248d5_image_limits_adf0b3_142cd5_memo_crease_shadows_e5ecf1",
+      "title": "When Fold Shadows Become Stronger Than the Typing",
+      "infographic_count": 3,
+      "templates": [
+        "versus",
+        "list_vertical",
+        "process_steps"
+      ],
+      "roles": [
+        "comparison",
+        "summary",
+        "process"
+      ],
+      "titles": [
+        "Ramey Memo Signal Interference Factors",
+        "Document Degradation Severity Levels",
+        "Ramey Memo Enhancement Workflow"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.286,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "roswell_UFO_ramey_me_6248d5_image_limits_adf0b3_142cd5_memo_false_edges_531d83",
+      "title": "Can Image Enhancement Make Fake Letters Look Real?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "comparison_columns",
+        "venn"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "Ramey Memo Image Enhancement Process",
+        "Sharpening vs. Information Recovery",
+        "Validation Criteria for Ramey Memo"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.286,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "roswell_UFO_ramey_me_6248d5_image_limits_adf0b3_142cd5_memo_photo_artifacts_c96554",
+      "title": "Which Marks Are Letters and Which Are Photo Artifacts?",
+      "infographic_count": 3,
+      "templates": [
+        "process_pipeline",
+        "fact_box_sidebar",
+        "tree_map"
+      ],
+      "roles": [
+        "process",
+        "summary",
+        "taxonomy"
+      ],
+      "titles": [
+        "Ramey Memo Image Degradation Chain",
+        "Ramey Memo Interpretation Challenges",
+        "Evidence Quality Standards for Ramey Memo"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.286,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "roswell_UFO_ramey_me_6248d5_image_limits_adf0b3_142cd5_memo_uneven_focus_50b669",
+      "title": "Why Some Memo Lines May Be Sharper Than Others",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "myth_facts",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Optical Degradation of the Ramey Memo",
+        "Focus Standards in Document Analysis",
+        "Factors Limiting Ramey Memo Decipherment"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.286,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "roswell_UFO_ramey_me_6248d5_image_limits_adf0b3_142cd5_ramey_memo_focus_lim_ff9f33",
+      "title": "Why a Sharp Photo Can Still Hide Letters",
+      "infographic_count": 3,
+      "templates": [
+        "process_pipeline",
+        "versus",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Ramey Memo Image Degradation Chain",
+        "Coarse vs. Fine Detail Resolution",
+        "Ramey Memo Decipherment Obstacles"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.286,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "roswell_UFO_ramey_me_6248d5_image_limits_adf0b3_142cd5_ramey_photo_sharpnes_bbf932",
+      "title": "Why a Clear Photograph Does Not Guarantee Clear Text",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "comparison_columns",
+        "list_vertical"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Ramey Memo Analysis Time line",
+        "Visual Resolution Scale Comparison",
+        "Ramey Photograph Evidence Limits"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "roswell_UFO_ramey_me_6248d5_jesse_marcel_9f55f8",
+      "title": "Jesse Marcel's Place in the Ramey Memo Story",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "fact_box_sidebar",
+        "list_vertical"
+      ],
+      "roles": [
+        "process",
+        "summary",
+        "summary"
+      ],
+      "titles": [
+        "Roswell Debris Chain of Custody",
+        "Interpretations of Roswell Material",
+        "Evidence Anchors in Fort Worth"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.167,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "roswell_UFO_ramey_me_6248d5_jesse_marcel_9f55f8_higher_headquarters_494935",
+      "title": "What Did 'Higher Headquarters' Mean in 1947?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_genealogy",
+        "quadrant",
+        "lighthouse"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "other"
+      ],
+      "titles": [
+        "Roswell Material Chain of Custody",
+        "Interpretations of 'Loaned' Wording",
+        "Evidence from the 1947 Record"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "roswell_UFO_ramey_me_6248d5_jesse_marcel_9f55f8_marcel_chain_to_fort_b73e5c",
+      "title": "Why Jesse Marcel Is the Key Link to Fort Worth",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "quadrant",
+        "list_vertical"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Roswell Material Custody Chain 1947",
+        "Interpretations of Fort Worth Debris",
+        "Evidence Anchoring Jesse Marcel"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "roswell_UFO_ramey_me_6248d5_jesse_marcel_9f55f8_marcel_fort_worth_ph_2f6393",
+      "title": "Why Marcel's Fort Worth Photos Matter",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "comparison_columns",
+        "fact_box_sidebar"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Jesse Marcel's Fort Worth Time line",
+        "Substitution Dispute Evidence Limits",
+        "Evidence Limits of Fort Worth Photos"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.286,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "roswell_UFO_ramey_me_6248d5_jesse_marcel_9f55f8_marcel_roswell_recov_f46637",
+      "title": "What Did Jesse Marcel Actually Do at Roswell?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "comparison_columns",
+        "venn"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "Jesse Marcel's 1947 Recovery Chain",
+        "Interpretations of Roswell Material",
+        "Documented Facts of Jesse Marcel's Role"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.25,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "roswell_UFO_ramey_me_6248d5_jesse_marcel_9f55f8_roswell_chain_of_cus_45ebca",
+      "title": "Where Does the Roswell Debris Trail Become Uncertain?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "versus",
+        "timeline_genealogy"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "chronology"
+      ],
+      "titles": [
+        "Roswell Debris Custody Chain 1947",
+        "Wright Field Shipment Evidence Analysis",
+        "Roswell Record Confidence Levels"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "roswell_UFO_ramey_me_6248d5_jesse_marcel_9f55f8_roswell_debris_exami_99203e",
+      "title": "What Happened to the Debris Before Fort Worth?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "fact_box_sidebar",
+        "timeline_horizon"
+      ],
+      "roles": [
+        "chronology",
+        "summary",
+        "chronology"
+      ],
+      "titles": [
+        "Roswell Debris Handling Key Stages",
+        "Roswell vs. Fort Worth Records",
+        "Evidence Sources for 1947 Records"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "roswell_UFO_ramey_me_6248d5_july_8_reversal_9c01ed",
+      "title": "The Hours When Roswell's Flying Disc Became a Balloon",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "fact_box_sidebar",
+        "list_vertical"
+      ],
+      "roles": [
+        "process",
+        "summary",
+        "summary"
+      ],
+      "titles": [
+        "July 8, 1947 Roswell Narrative Shift",
+        "Interpretations of the Roswell Reversal",
+        "Evidence from the Fort Worth Photographs"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "roswell_UFO_ramey_me_6248d5_july_8_reversal_9c01ed_bond_johnson_memo_ac_147aed",
+      "title": "Why Bond Johnson's Memo Story Remains Uncertain",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "quadrant",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "J. Bond Johnson's Photographic Time line",
+        "Ramey Memo Provenance Scenarios",
+        "Evidence Limitations of the Photograph"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "roswell_UFO_ramey_me_6248d5_july_8_reversal_9c01ed_eighth_air_force_nar_264930",
+      "title": "Who Took Control of the Roswell Story",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "fact_box_sidebar",
+        "list_vertical"
+      ],
+      "roles": [
+        "process",
+        "summary",
+        "summary"
+      ],
+      "titles": [
+        "Roswell Narrative Command Transfer",
+        "Roswell Narrative Authority Shift",
+        "Fort Worth Information Infrastructure"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.333,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "roswell_UFO_ramey_me_6248d5_july_8_reversal_9c01ed_fbi_teletype_roswell_fda7fe",
+      "title": "What the FBI Teletype Reveals About Roswell",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "versus",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "July 8, 1947 Roswell Communication Key Stages",
+        "Internal vs. Public Roswell Narratives",
+        "Components of the FBI Teletype Description"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.1,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "roswell_UFO_ramey_me_6248d5_july_8_reversal_9c01ed_fort_worth_balloon_r_bf165c",
+      "title": "How Fort Worth Reversed the Roswell Story",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "fact_box_sidebar",
+        "list_vertical"
+      ],
+      "roles": [
+        "process",
+        "summary",
+        "summary"
+      ],
+      "titles": [
+        "Roswell Debris Transfer Key Stages",
+        "Roswell Narrative Reversal Comparison",
+        "Fort Worth Technical Evidence Components"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "roswell_UFO_ramey_me_6248d5_july_8_reversal_9c01ed_ramey_memo_photo_lim_a767a6",
+      "title": "What the Ramey Memo Photograph Really Proves",
+      "infographic_count": 3,
+      "templates": [
+        "venn",
+        "comparison_columns",
+        "logic_equation"
+      ],
+      "roles": [
+        "comparison",
+        "comparison",
+        "other"
+      ],
+      "titles": [
+        "Ramey Memo Evidence Hierarchy",
+        "Interpretations of the Ramey Memo",
+        "Limitations of Photographic Evidence"
+      ],
+      "role_diversity_count": 1,
+      "max_title_similarity": 0.4,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "roswell_UFO_ramey_me_6248d5_july_8_reversal_9c01ed_roswell_flying_disc_fc1a1e",
+      "title": "What Roswell Actually Announced on July 8",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_genealogy",
+        "versus",
+        "venn"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "Roswell Army Air Field News Flow",
+        "Roswell Claim vs. Physical Evidence",
+        "Roswell Press Record Elements"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "roswell_UFO_ramey_me_6248d5_memo_authenticity_805af6",
+      "title": "Why the Ramey Memo's Authenticity Is Not the Mystery",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "comparison_columns",
+        "list_vertical"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Ramey Memo Photographic Provenance Chain",
+        "Ramey Memo Evidence Limits",
+        "Components of the Ramey Archive"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.286,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "roswell_UFO_ramey_me_6248d5_memo_authenticity_805af6_air_force_1994_ramey_5aa356",
+      "title": "What the Air Force Found in the Ramey Photo",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "quadrant",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "1994 Air Force Photographic Workflow",
+        "Ramey Memo Evidence Interpretations",
+        "Roswell Photographic Evidence Categories"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "roswell_UFO_ramey_me_6248d5_memo_authenticity_805af6_johnson_photo_sequen_c78a4b",
+      "title": "Why Johnson's Photo Sequence Matters for Authenticity",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_horizon",
+        "venn",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "J. Bond Johnson's 1947 Assignment Path",
+        "Ramey Memo Authenticity vs. Content",
+        "Hierarchy of Evidence Confidence"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "roswell_UFO_ramey_me_6248d5_memo_authenticity_805af6_photo_authenticity_l_6ae442",
+      "title": "Photo Authenticity",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "fact_box_sidebar",
+        "tug_of_war"
+      ],
+      "roles": [
+        "process",
+        "summary",
+        "other"
+      ],
+      "titles": [
+        "Ramey Memo Image Processing Workflow",
+        "Provenance vs. Legibility Distinction",
+        "Forensic Image Processing Risks"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.286,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "roswell_UFO_ramey_me_6248d5_memo_authenticity_805af6_ramey_1947_publicati_615c02",
+      "title": "Did the Ramey Photo Exist in 1947?",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "comparison_columns",
+        "list_vertical"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Ramey Photograph Provenance Time line",
+        "Ramey Memo Authenticity Boundaries",
+        "Fort Worth Star Telegram Archive Contents"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "roswell_UFO_ramey_me_6248d5_memo_authenticity_805af6_ramey_scans_vs_copie_260280",
+      "title": "Ramey Scans Vs Copie",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "quadrant",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Ramey Memo Archival Analysis Workflow",
+        "Archival Scans vs. Web JPEGs",
+        "Ramey Memo Evidence Hierarchy"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.286,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "roswell_UFO_ramey_me_6248d5_memo_authenticity_805af6_uta_original_negativ_869af1",
+      "title": "Where the Original Ramey Negatives Came From",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "venn",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Fort Worth Star Telegram Archive Transfer",
+        "Archival Negative vs. Digital JPG",
+        "Ramey Memo Provenance Markers"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "roswell_UFO_ramey_me_6248d5_no_smoking_gun_e71c7b",
+      "title": "Why the Ramey Memo Is Not an Alien Body Smoking Gun",
+      "infographic_count": 3,
+      "templates": [
+        "process_pipeline",
+        "venn",
+        "tree_map"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Ramey Memo Evidence Evaluation Path",
+        "Ramey Memo Interpretation Conflict",
+        "Ramey Memo Evidence Limitations"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.5,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "roswell_UFO_ramey_me_6248d5_no_smoking_gun_e71c7b_alien_body_claim_gap_c10ccc",
+      "title": "What would prove bodies were recovered?",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "fact_box_sidebar",
+        "list_vertical"
+      ],
+      "roles": [
+        "process",
+        "summary",
+        "summary"
+      ],
+      "titles": [
+        "Ramey Memo Interpretation Chain",
+        "Evidence Gaps in Roswell Claims",
+        "Ramey Memo Evidence Hierarchy"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.333,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "roswell_UFO_ramey_me_6248d5_no_smoking_gun_e71c7b_competing_transcript_aeab95",
+      "title": "Why readers disagree on the memo",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "comparison_columns",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Ramey Memo Deciphering Process",
+        "Competing Ramey Memo Interpretations",
+        "Factors Limiting Memo Evidence"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.333,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "roswell_UFO_ramey_me_6248d5_no_smoking_gun_e71c7b_ramey_memo_provenanc_72b078",
+      "title": "Why the Ramey memo's history matters",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "comparison_columns",
+        "process_steps"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "process"
+      ],
+      "titles": [
+        "Ramey Memo Historical Time line",
+        "Ramey Memo Interpretation Conflict",
+        "Provenance of the Ramey Photograph"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.286,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "roswell_UFO_ramey_me_6248d5_no_smoking_gun_e71c7b_smoking_gun_standard_8af82f",
+      "title": "Why the memo is not proof",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "comparison_columns",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Steps to Decisive Smoking Gun Evidence",
+        "Ramey Memo Interpretation Challenges",
+        "Evidence Hierarchy for Roswell Claims"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "roswell_UFO_ramey_me_6248d5_no_smoking_gun_e71c7b_weather_balloon_cont_d4c82b",
+      "title": "The weather balloon explanation examined",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "fact_box_sidebar",
+        "gem"
+      ],
+      "roles": [
+        "process",
+        "summary",
+        "other"
+      ],
+      "titles": [
+        "Roswell Military Response Time line",
+        "Ramey Memo Interpretations",
+        "Evidence for Weather Balloon Theory"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "roswell_UFO_ramey_me_6248d5_original_negative_aac10a",
+      "title": "Why the Original Negative Still Has a Hard Limit",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "comparison_columns",
+        "myth_facts"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "Ramey Memo Source Generation Chain",
+        "Signal vs Interpretation in Ramey Memo",
+        "Technical Limits of the 1947 Exposure"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.25,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "roswell_UFO_ramey_me_6248d5_original_negative_aac10a_air_force_1994_image_3a2db6",
+      "title": "Why the 1994 Ramey Images Still Fell Short",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "fact_box_sidebar",
+        "list_vertical"
+      ],
+      "roles": [
+        "process",
+        "summary",
+        "summary"
+      ],
+      "titles": [
+        "Air Force 1994 Ramey Investigation",
+        "Ramey Memo Interpretability Factors",
+        "Levels of Photographic Information"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "roswell_UFO_ramey_me_6248d5_original_negative_aac10a_ramey_ai_restoration_956646",
+      "title": "Why AI Cannot Recover Missing Ramey Memo Letters",
+      "infographic_count": 3,
+      "templates": [
+        "myth_facts",
+        "quadrant",
+        "process_steps"
+      ],
+      "roles": [
+        "comparison",
+        "comparison",
+        "process"
+      ],
+      "titles": [
+        "Source Scan vs AI Restoration",
+        "Perception vs Fidelity Trade offs",
+        "Ramey Memo Research Workflow"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.111,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "roswell_UFO_ramey_me_6248d5_original_negative_aac10a_ramey_copy_generatio_e35e69",
+      "title": "How Each Copy Can Lose Ramey Memo Detail",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_genealogy",
+        "versus",
+        "orbital_rings"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "other"
+      ],
+      "titles": [
+        "Ramey Memo Photographic Reproduction Chain",
+        "Source Resolution vs. Scanner Sampling",
+        "Mechanisms of Photographic Information Loss"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "roswell_UFO_ramey_me_6248d5_original_negative_aac10a_ramey_digital_image_914f77",
+      "title": "Can You Trust a Crisp Ramey Memo Scan?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "fact_box_sidebar",
+        "prism"
+      ],
+      "roles": [
+        "chronology",
+        "summary",
+        "taxonomy"
+      ],
+      "titles": [
+        "Ramey Memo Digital Provenance Chain",
+        "Source Material Comparison Table",
+        "Digital Processing Risk Spectrum"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "roswell_UFO_ramey_me_6248d5_original_negative_aac10a_ramey_enhancement_fa_141ebb",
+      "title": "When Ramey Image Enhancement Creates False Clarity",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "versus",
+        "comparison_columns"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "Ramey Memo Image Processing Workflow",
+        "Visibility vs. Resolution Constraints",
+        "Forensic Standards for Ramey Memo"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.286,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "roswell_UFO_ramey_me_6248d5_original_negative_aac10a_uta_ramey_negative_s_6f166d",
+      "title": "Why the UTA Negatives Matter to the Ramey Memo",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "tug_of_war",
+        "venn"
+      ],
+      "roles": [
+        "chronology",
+        "other",
+        "comparison"
+      ],
+      "titles": [
+        "Ramey Memo Archival Provenance Path",
+        "Source Quality Comparison Table",
+        "Ramey Memo Evidential Hierarchy"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.286,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "roswell_UFO_ramey_me_6248d5_paper_folds_9eb200_f8ab87",
+      "title": "How the Folded Paper Defeats Some Memo Readings",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "fact_box_sidebar",
+        "list_vertical"
+      ],
+      "roles": [
+        "process",
+        "summary",
+        "summary"
+      ],
+      "titles": [
+        "Ramey Memo Digital Rectification Process",
+        "Distortion vs. Information Loss",
+        "Ramey Memo Information Map Zones"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.25,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "roswell_UFO_ramey_me_6248d5_paper_folds_9eb200_f8ab87_3d_reconstruction_li_2053fd",
+      "title": "Why a Perfectly Flat Reconstruction Can Still Be Unreadable",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "venn",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Document Dewarping Technical Workflow",
+        "Geometric vs. Character Uncertainty",
+        "Ramey Memo Reconstruction Limits"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "roswell_UFO_ramey_me_6248d5_paper_folds_9eb200_f8ab87_crease_crossing_stro_21b561",
+      "title": "When a Fold Erases Part of a Letter",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "versus",
+        "venn"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "Mechanisms of Fold Induced Information Loss",
+        "Recoverable Distortion vs. Irrec over able Loss",
+        "Ramey Memo Photographic Vulnerabilities"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.091,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "roswell_UFO_ramey_me_6248d5_paper_folds_9eb200_f8ab87_foreshortened_capita_e11a92",
+      "title": "How Perspective Can Turn One Capital Into Another",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "quadrant",
+        "venn"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "Degradation of Ramey Memo Characters",
+        "Ramey Memo Interpretation Models",
+        "Document Rectification Limitations"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.333,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "roswell_UFO_ramey_me_6248d5_paper_folds_9eb200_f8ab87_least_recoverable_re_10a133",
+      "title": "Where Is the Ramey Memo Least Recoverable?",
+      "infographic_count": 3,
+      "templates": [
+        "fact_box_sidebar",
+        "quadrant",
+        "comparison_columns"
+      ],
+      "roles": [
+        "summary",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "Ramey Memo Distortion Zones",
+        "Rectification vs. Recovery Limits",
+        "Confidence Standards for Readings"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "roswell_UFO_ramey_me_6248d5_paper_folds_9eb200_f8ab87_rectification_choice_e2bc7e",
+      "title": "Can Image Straightening Change What a Letter Looks Like?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_horizon",
+        "comparison_columns",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Ramey Memo Rectification Workflow",
+        "Rectification vs. Evidence Quality",
+        "Ramey Memo Distortion Factors"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.333,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "roswell_UFO_ramey_me_6248d5_paper_folds_9eb200_f8ab87_single_deskew_limits_d63694",
+      "title": "Why One Rotation Cannot Fix the Ramey Memo",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "myth_facts",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Ramey Memo Rectification Workflow",
+        "Planar vs. Deformed Document Correction",
+        "Ramey Memo Image Distortions"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.333,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "roswell_UFO_ramey_me_6248d5_ramey_explanation_76cd9c",
+      "title": "What Roger Ramey Told Reporters About Roswell",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "comparison_columns",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Roswell Debris Handling Time line",
+        "Layers of the Roswell Narrative",
+        "RAWIN System Components"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "roswell_UFO_ramey_me_6248d5_ramey_explanation_76cd9c_fort_worth_debris_su_678023",
+      "title": "Was the Fort Worth Debris Switched?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "comparison_columns",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Roswell Debris Chain of Custody",
+        "Substitution Theory Evidence Analysis",
+        "Fort Worth Photographic Evidence Scope"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "roswell_UFO_ramey_me_6248d5_ramey_explanation_76cd9c_irving_newton_identi_5eed87",
+      "title": "Why Irving Newton Thought the Debris Was Familiar",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "venn",
+        "fact_box_sidebar"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Irving Newton's Roswell Time line",
+        "Interpretations of Coloured Markings",
+        "RAWIN Target Technical Components"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "roswell_UFO_ramey_me_6248d5_ramey_explanation_76cd9c_project_mogul_vs_ram_5e6441",
+      "title": "Did Project Mogul Replace Ramey's Explanation?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_horizon",
+        "quadrant",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Evolution of the Roswell Explanation",
+        "Ramey's 1947 vs. 1994 Narratives",
+        "Project Mogul Hardware Components"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "roswell_UFO_ramey_me_6248d5_ramey_explanation_76cd9c_radar_target_debris_713b03",
+      "title": "Why Did the Roswell Debris Look Like This?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "myth_facts",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "ML 307 Radar Reflector Lifecycle",
+        "Fort Worth Debris Interpretations",
+        "ML 307 Radar Reflector Components"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.667,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "roswell_UFO_ramey_me_6248d5_ramey_explanation_76cd9c_ramey_us_army_device_85b7ac",
+      "title": "What Did Ramey Mean by an Army Device?",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "fact_box_sidebar",
+        "list_vertical"
+      ],
+      "roles": [
+        "process",
+        "summary",
+        "summary"
+      ],
+      "titles": [
+        "Roswell Debris Identification Time line",
+        "Ramey's Claims vs. Public Perception",
+        "Components of the Roswell Apparatus"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "roswell_UFO_ramey_me_6248d5_ramey_explanation_76cd9c_wright_field_flight_b093f6",
+      "title": "Why Was the Wright Field Flight Cancelled?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "versus",
+        "venn"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "Roswell Debris Logistics Time line",
+        "Conflicting Records of Roswell Debris",
+        "Wright Field Technical Hierarchy"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.286,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "roswell_UFO_ramey_me_6248d5_records_vs_memories_774edd",
+      "title": "Why 1947 Records Deserve Different Weight From Later Memories",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "myth_facts",
+        "timeline_horizon"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "chronology"
+      ],
+      "titles": [
+        "July 1947 Roswell Reporting Key Stages",
+        "Evidence Value by Timing Anchor",
+        "Roswell Evidence Hierarchy Categories"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "roswell_UFO_ramey_me_6248d5_records_vs_memories_774edd_air_force_roswell_re_b5f4bb",
+      "title": "How the Air Force Reexamined Roswell",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "comparison_columns",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Air Force Roswell Investigation Time line",
+        "Competing Interpretations of Roswell Evidence",
+        "Key Components of the Roswell Mystery"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "roswell_UFO_ramey_me_6248d5_records_vs_memories_774edd_first_roswell_report_95304c",
+      "title": "What the First Roswell Reports Revealed",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "comparison_columns",
+        "timeline_genealogy"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "chronology"
+      ],
+      "titles": [
+        "Roswell Daily Record News Cycle",
+        "Roswell Narrative Interpretations",
+        "Roswell Record Evidence Limits"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.286,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "roswell_UFO_ramey_me_6248d5_records_vs_memories_774edd_fort_worth_explanati_2de325",
+      "title": "How Fort Worth Changed the Roswell Story",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_horizon",
+        "fact_box_sidebar",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "summary",
+        "taxonomy"
+      ],
+      "titles": [
+        "Roswell Narrative Shift Time line",
+        "Fort Worth Evidence Interpretations",
+        "Physical Debris at Fort Worth"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.333,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "roswell_UFO_ramey_me_6248d5_records_vs_memories_774edd_jesse_marcel_memorie_28d3bd",
+      "title": "Why Jesse Marcel's Memories Changed Roswell",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "venn",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Jesse Marcel's Roswell Time line",
+        "Competing Roswell Narrative Models",
+        "Marcel's Described Debris Categories"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "roswell_UFO_ramey_me_6248d5_records_vs_memories_774edd_later_witness_testim_fc2d08",
+      "title": "How Later Witnesses Expanded Roswell Claims",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "myth_facts",
+        "list_vertical"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Roswell Narrative Evolution Time line",
+        "Roswell Evidence Source Comparison",
+        "Factors Affecting Witness Reliability"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "roswell_UFO_ramey_me_6248d5_records_vs_memories_774edd_ramey_memo_photo_ce717e",
+      "title": "What the Ramey Memo Photo Can Prove",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "quadrant",
+        "fact_box_sidebar"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Fort Worth Press Event Time line",
+        "Ramey Memo Text Interpretations",
+        "Evidence Confidence Hierarchy"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "roswell_UFO_ramey_me_6248d5_roswell_familiarity_d5f531",
+      "title": "Does Knowing Roswell Make the Memo Seem Clearer?",
+      "infographic_count": 3,
+      "templates": [
+        "grid_stats",
+        "fact_box_sidebar",
+        "list_vertical"
+      ],
+      "roles": [
+        "other",
+        "summary",
+        "summary"
+      ],
+      "titles": [
+        "Ramey Memo Decipherment Statistics",
+        "Contextual Bias in Ramey Memo",
+        "UFO Roswell Knowledge Scale Metrics"
+      ],
+      "role_diversity_count": 1,
+      "max_title_similarity": 0.333,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "roswell_UFO_ramey_me_6248d5_roswell_familiarity_d5f531_cross_group_shared_w_88047b",
+      "title": "Which Memo Words Survive Different Reader Expectations?",
+      "infographic_count": 3,
+      "templates": [
+        "structure_taxonomy",
+        "comparison_columns",
+        "rank_podium"
+      ],
+      "roles": [
+        "taxonomy",
+        "comparison",
+        "data"
+      ],
+      "titles": [
+        "Ramey Memo Experimental Consensus Nucleus",
+        "Roswell Memo Decipherment Expectations vs Reality",
+        "Ramey Memo Participant Data Metrics"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.25,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "roswell_UFO_ramey_me_6248d5_roswell_familiarity_d5f531_expertise_vs_expecta_63cad3",
+      "title": "When Does Roswell Expertise Help or Mislead?",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "venn",
+        "timeline_snake"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "chronology"
+      ],
+      "titles": [
+        "Ramey Memo Decipherment Protocol",
+        "Expertise Roles in Decipherment",
+        "Ramey Memo Evidence Hierarchy"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.333,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "roswell_UFO_ramey_me_6248d5_roswell_familiarity_d5f531_ramey_scrutiny_time_690ff0",
+      "title": "Does More Time Make the Ramey Memo Clearer?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "quadrant",
+        "fact_box_sidebar"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Ramey Memo Examination Time Metrics",
+        "Interpretive Mechanisms of the Ramey Memo",
+        "Ramey Memo Transcription Constraints"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.333,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "roswell_UFO_ramey_me_6248d5_roswell_familiarity_d5f531_roswell_familiarity_be375a",
+      "title": "What Did the Roswell Familiarity Score Really Measure?",
+      "infographic_count": 3,
+      "templates": [
+        "prism",
+        "comparison_columns",
+        "versus"
+      ],
+      "roles": [
+        "taxonomy",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "Components of the UFO–Roswell Scale",
+        "Interpretations of the 0.35 Correlation",
+        "Contextual Effects on Decipherment"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "roswell_UFO_ramey_me_6248d5_roswell_familiarity_d5f531_roswell_knowledge_re_6b574c",
+      "title": "Does Knowing Roswell Make the Memo Look Clearer?",
+      "infographic_count": 3,
+      "templates": [
+        "process_pipeline",
+        "quadrant",
+        "tree_map"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Cognitive Process of Memo Decipherment",
+        "Roswell Familiarity vs. Decoding Accuracy",
+        "Variables in the UFO Roswell Scale"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "roswell_UFO_ramey_me_6248d5_roswell_familiarity_d5f531_transcription_confid_8faef2",
+      "title": "Why Confident Ramey Memo Readers Still Disagree",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "venn",
+        "list_vertical"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Ramey Memo Decipherment Protocol",
+        "Ramey Memo Regional Discrepancies",
+        "Hierarchy of Transcription Evidence"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.333,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "roswell_UFO_ramey_me_6248d5_rudiak_reconstructio_1fcf0f",
+      "title": "The Case Behind David Rudiak's Ramey Memo Reading",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "fact_box_sidebar",
+        "tree_map"
+      ],
+      "roles": [
+        "process",
+        "summary",
+        "taxonomy"
+      ],
+      "titles": [
+        "David Rudiak's Memo Reconstruction Process",
+        "Ramey Memo Interpretation Conflict",
+        "Roswell Memo Evidence Categories"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "roswell_UFO_ramey_me_6248d5_rudiak_reconstructio_1fcf0f_ramey_press_wire_que_a6da1e",
+      "title": "Was Ramey Holding a Message or a Press Wire?",
+      "infographic_count": 3,
+      "templates": [
+        "quadrant",
+        "structure_taxonomy",
+        "timeline_snake"
+      ],
+      "roles": [
+        "comparison",
+        "taxonomy",
+        "chronology"
+      ],
+      "titles": [
+        "Ramey Memo Provenance Hypotheses",
+        "Evidence in the Ramey Photograph",
+        "AP Wire Story Development Time line"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.167,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "roswell_UFO_ramey_me_6248d5_rudiak_reconstructio_1fcf0f_rudiak_confidence_co_12cb8a",
+      "title": "Which Parts of Rudiak's Transcription Were Really Secure?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_horizon",
+        "comparison_columns",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Rudiak's Ramey Memo Deciphering Process",
+        "Ramey Memo Interpretation Variations",
+        "Rudiak's Confidence Coding System"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.286,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "roswell_UFO_ramey_me_6248d5_rudiak_reconstructio_1fcf0f_rudiak_context_infer_2c5882",
+      "title": "How Much of Rudiak's Memo Comes From Context?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "versus",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Rudiak's Reconstruction Methodology",
+        "Contextual Influence on Ramey Memo",
+        "Resilient Fragments in Ramey Memo"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.333,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "roswell_UFO_ramey_me_6248d5_rudiak_reconstructio_1fcf0f_rudiak_military_form_4a3601",
+      "title": "Does Rudiak's Memo Look Like a Military Message?",
+      "infographic_count": 3,
+      "templates": [
+        "comparison_columns",
+        "process_steps",
+        "list_vertical"
+      ],
+      "roles": [
+        "comparison",
+        "process",
+        "summary"
+      ],
+      "titles": [
+        "Ramey Memo Document Type Hypotheses",
+        "Structural Weaknesses in Rudiak's Reconstruction",
+        "Evidence for Military Communication Standards"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "roswell_UFO_ramey_me_6248d5_rudiak_reconstructio_1fcf0f_rudiak_smoking_gun_c_f46739",
+      "title": "What Must Be True for Rudiak's Smoking Gun?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "venn",
+        "list_vertical"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Rudiak's Ramey Memo Reconstruction Key Stages",
+        "Ramey Memo Interpretive Vulnerabilities",
+        "Evidence Requirements for Smoking Gun"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.25,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "roswell_UFO_ramey_me_6248d5_rudiak_reconstructio_1fcf0f_rudiak_wreck_narrati_2688a2",
+      "title": "Does Rudiak's Text Really Describe a Crashed Disc?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "fact_box_sidebar",
+        "venn"
+      ],
+      "roles": [
+        "chronology",
+        "summary",
+        "comparison"
+      ],
+      "titles": [
+        "Ramey Memo Evidence Chain",
+        "Ramey Memo Interpretation Models",
+        "Levels of Evidential Certainty"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.333,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "roswell_UFO_ramey_me_6248d5_transcription_consen_5c6c25",
+      "title": "When Should a Ramey Memo Reading Count as Reliable?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "fact_box_sidebar",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "summary",
+        "taxonomy"
+      ],
+      "titles": [
+        "Ramey Memo Verification Protocol",
+        "Transcription Reliability Categories",
+        "Ramey Memo Evidence Hierarchy"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.333,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "roswell_UFO_ramey_me_6248d5_transcription_consen_5c6c25_confidence_vs_consen_0bf8c9",
+      "title": "Why Confidence Does Not Make a Ramey Reading Reliable",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "versus",
+        "satellite_map"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "geography"
+      ],
+      "titles": [
+        "Standardized Ramey Memo Transcription Protocol",
+        "Analyst Confidence vs. Transcription Consensus",
+        "Mechanisms of Shared Certainty"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.111,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "roswell_UFO_ramey_me_6248d5_transcription_consen_5c6c25_cross_version_stabil_430709",
+      "title": "Can the Same Ramey Word Survive Every Good Scan",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "comparison_columns",
+        "list_vertical"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Ramey Memo Version Stability Protocol",
+        "Stable vs. Enhancement Dependent Readings",
+        "Ramey Memo Image Provenance Hierarchy"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.25,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "roswell_UFO_ramey_me_6248d5_transcription_consen_5c6c25_enhancement_artifact_3fa35f",
+      "title": "When Image Enhancement Starts Inventing Ramey Memo Letters",
+      "infographic_count": 3,
+      "templates": [
+        "process_pipeline",
+        "fact_box_sidebar",
+        "myth_facts"
+      ],
+      "roles": [
+        "process",
+        "summary",
+        "comparison"
+      ],
+      "titles": [
+        "Forensic Image Processing Workflow",
+        "Ramey Memo Interpretation Risks",
+        "SWGDE Image Processing Risks"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.333,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "roswell_UFO_ramey_me_6248d5_transcription_consen_5c6c25_exact_word_agreement_dbb2a8",
+      "title": "When Similar Meanings Still Do Not Count as Agreement",
+      "infographic_count": 3,
+      "templates": [
+        "list_vertical",
+        "comparison_columns",
+        "fact_box_sidebar"
+      ],
+      "roles": [
+        "summary",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Ramey Memo Transcription Reliability Hierarchy",
+        "Disputed Ramey Memo Interpretations",
+        "Houran Randle Experiment Results"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.286,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "roswell_UFO_ramey_me_6248d5_transcription_consen_5c6c25_period_camera_test_8f1681",
+      "title": "Could a 1940 s Camera Test Settle Ramey Readability",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "comparison_columns",
+        "tug_of_war"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "other"
+      ],
+      "titles": [
+        "Ramey Memo Reconstruction Workflow",
+        "Optical Resolution vs Text Recognition",
+        "Ramey Memo Recoverability Thresholds"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.333,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "roswell_UFO_ramey_me_6248d5_transcription_consen_5c6c25_unreadable_gaps_72f260",
+      "title": "Why Leaving Ramey Memo Words Unreadable Can Be Stronger",
+      "infographic_count": 3,
+      "templates": [
+        "prism",
+        "quadrant",
+        "venn"
+      ],
+      "roles": [
+        "taxonomy",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "Categories of Ramey Memo Information",
+        "Contextual Effects on Ramey Memo Deciphering",
+        "Transcription Standards for Ramey Memo"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.333,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "roswell_UFO_ramey_me_6248d5_victims_phrase_b3d345",
+      "title": "Does the Ramey Memo Really Say 'Victims'?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "fact_box_sidebar",
+        "tug_of_war"
+      ],
+      "roles": [
+        "chronology",
+        "summary",
+        "other"
+      ],
+      "titles": [
+        "Ramey Memo Image Analysis Pipeline",
+        "Competing Ramey Memo Interpretations",
+        "Factors Influencing Text Perception"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.286,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "roswell_UFO_ramey_me_6248d5_victims_phrase_b3d345_kirby_remains_readin_437ae4",
+      "title": "Could the Ramey Memo Be Describing Debris?",
+      "infographic_count": 3,
+      "templates": [
+        "fact_box_sidebar",
+        "timeline_snake",
+        "venn"
+      ],
+      "roles": [
+        "summary",
+        "chronology",
+        "comparison"
+      ],
+      "titles": [
+        "Ramey Memo Transcription Interpretations",
+        "Technical Analysis of Ramey Memo",
+        "Evidence Limitations in Roswell Research"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.333,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "roswell_UFO_ramey_me_6248d5_victims_phrase_b3d345_ramey_context_primin_23211a",
+      "title": "Can Expectations Change What You See in the Memo?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "venn",
+        "rank_podium"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "data"
+      ],
+      "titles": [
+        "Ramey Memo Context Priming Study",
+        "Contextual Influence on Transcription",
+        "Ramey Memo Transcription Statistics"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.286,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "roswell_UFO_ramey_me_6248d5_victims_phrase_b3d345_ramey_image_limits_20547b",
+      "title": "Can Image Enhancement Actually Recover the Ramey Memo?",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "comparison_columns",
+        "list_vertical"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Ramey Memo Image Analysis Pipeline",
+        "Ramey Memo Interpretation Constraints",
+        "Factors Limiting Memo Readability"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.286,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "roswell_UFO_ramey_me_6248d5_victims_phrase_b3d345_ramey_lab_tests_246f64",
+      "title": "Why Laboratory Tests Could Not Settle 'Victims'",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "fact_box_sidebar",
+        "myth_facts"
+      ],
+      "roles": [
+        "chronology",
+        "summary",
+        "comparison"
+      ],
+      "titles": [
+        "Ramey Memo Laboratory Testing Key Stages",
+        "Interpretation Limits of the Ramey Memo",
+        "Technical Barriers in Ramey Memo Recovery"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.286,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "roswell_UFO_ramey_me_6248d5_victims_phrase_b3d345_rudiak_victims_readi_dc153c",
+      "title": "Why Rudiak Defends 'Victims of the Wreck'",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "comparison_columns",
+        "list_vertical"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Rudiak's Ramey Memo Reconstruction Process",
+        "Competing Interpretations of the Ramey Memo",
+        "Evidence Pillars in Rudiak's Argument"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.286,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "roswell_UFO_ramey_me_6248d5_victims_phrase_b3d345_victims_vs_remains_751013",
+      "title": "Does the Ramey Memo Say Victims or Remains?",
+      "infographic_count": 3,
+      "templates": [
+        "process_pipeline",
+        "quadrant",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Ramey Memo Image Processing Steps",
+        "Competing Ramey Memo Interpretations",
+        "Factors Influencing Transcription Accuracy"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.286,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "roswell_UFO_ramey_me_6248d5_weather_balloon_word_20718b_disc_reading_reliabi_fc8f25",
+      "title": "How Reliable Is the Ramey Memo's 'DISC' Reading?",
+      "infographic_count": 3,
+      "templates": [
+        "list_vertical",
+        "quadrant",
+        "myth_facts"
+      ],
+      "roles": [
+        "summary",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "Ramey Memo Textual Evidence Tiers",
+        "Contextual Framing in Ramey Memo Analysis",
+        "Researcher Agreement on 'DISC' Readings"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.25,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "roswell_UFO_ramey_me_6248d5_weather_balloon_word_20718b_fort_worth_text_anch_857a69",
+      "title": "What 'FORT WORTH, TEX.' Can Actually Tell US",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "comparison_columns",
+        "tug_of_war"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "other"
+      ],
+      "titles": [
+        "Ramey Memo Transcription Methodology",
+        "Ramey Memo Document Origin Theories",
+        "Fort Worth TX Anchor Significance"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.286,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "roswell_UFO_ramey_me_6248d5_weather_balloon_word_20718b_johnson_paper_origin_dafc05",
+      "title": "Where Did the Paper in Ramey's Hand Come From?",
+      "infographic_count": 3,
+      "templates": [
+        "fact_box_sidebar",
+        "process_steps",
+        "tree_map"
+      ],
+      "roles": [
+        "summary",
+        "process",
+        "taxonomy"
+      ],
+      "titles": [
+        "Ramey Memo Provenance Hypotheses",
+        "J. Bond Johnson's Reporting Time line",
+        "Evidence Constraints on Ramey Memo"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.333,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "roswell_UFO_ramey_me_6248d5_weather_balloon_word_20718b_testing_full_transcr_efbffb",
+      "title": "Can Known Words Test Full Ramey Memo Transcriptions?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "tug_of_war",
+        "list_vertical"
+      ],
+      "roles": [
+        "chronology",
+        "other",
+        "summary"
+      ],
+      "titles": [
+        "Ramey Memo Geometric Analysis Workflow",
+        "Roswell Contextual Suggestion Effects",
+        "Ramey Memo Transcription Constraints"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.286,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "roswell_UFO_ramey_me_6248d5_weather_balloon_word_20718b_weather_balloons_mea_1e49e7",
+      "title": "What Did 'WEATHER BALLOONS' Mean in Ramey's Memo?",
+      "infographic_count": 3,
+      "templates": [
+        "venn",
+        "structure_taxonomy",
+        "process_steps"
+      ],
+      "roles": [
+        "comparison",
+        "taxonomy",
+        "process"
+      ],
+      "titles": [
+        "Interpretations of the Ramey Memo",
+        "Evidence Anchors in the Ramey Memo",
+        "The Linguistic Interpretation Process"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.4,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "roswell_UFO_ramey_me_6248d5_weather_balloon_word_20718b_weather_balloons_phr_e1b8de",
+      "title": "Why 'WEATHER BALLOONS' Stands Out in the Ramey Memo",
+      "infographic_count": 3,
+      "templates": [
+        "fact_box_sidebar",
+        "tree_map",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "summary",
+        "taxonomy",
+        "taxonomy"
+      ],
+      "titles": [
+        "Ramey Memo Interpretation Variables",
+        "Houran and Randle Experiment Results",
+        "Hierarchy of Ramey Memo Evidence"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.333,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "roswell_UFO_ramey_me_6248d5_what_memo_proves_277897",
+      "title": "What the Ramey Memo Can Actually Prove",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "venn",
+        "list_vertical"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Roswell Military Response Time line 1947",
+        "Ramey Memo Interpretations and Limits",
+        "Evidence Quality of the Ramey Memo"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.333,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "roswell_UFO_ramey_me_6248d5_what_memo_proves_277897_memo_evidence_limits_cacfda",
+      "title": "What the Ramey Memo Cannot Prove",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "quadrant",
+        "myth_facts"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "Steps to Validate Ramey Memo Claims",
+        "Provenance vs Interpretation of Memo",
+        "Technical Barriers to Deciphering Memo"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "roswell_UFO_ramey_me_6248d5_what_memo_proves_277897_memo_historical_valu_3898b7",
+      "title": "Why the Memo Still Matters Today",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "fact_box_sidebar",
+        "list_vertical"
+      ],
+      "roles": [
+        "process",
+        "summary",
+        "summary"
+      ],
+      "titles": [
+        "Roswell Communication Time line 1947",
+        "Ramey Memo Interpretive Analysis",
+        "Ramey Memo Evidence Hierarchy"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.333,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "roswell_UFO_ramey_me_6248d5_what_memo_proves_277897_memo_provenance_5f4508",
+      "title": "Why the Ramey Memo's Origin Matters",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "venn",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Ramey Memo Archival Chain of Custody",
+        "Provenance vs. Interpretation Analysis",
+        "Ramey Memo Evidence Constraints"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.286,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "roswell_UFO_ramey_me_6248d5_what_memo_proves_277897_military_communicati_1aa0ba",
+      "title": "Inside the Army's Roswell Response Process",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_horizon",
+        "comparison_columns",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Military Communication Chain at Roswell",
+        "Interpretations of the Ramey Memo",
+        "Key Actors in Roswell Communication"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.333,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "roswell_UFO_ramey_me_6248d5_what_memo_proves_277897_ramey_photo_session_87c471",
+      "title": "What Ramey's Roswell Photo Really Shows",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "comparison_columns",
+        "fact_box_sidebar"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Roswell Response Time line July 8 1947",
+        "Ramey Memo Interpretations and Evidence",
+        "Fort Worth Army Air Field Scene Elements"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "roswell_UFO_ramey_me_6248d5_what_memo_proves_277897_roswell_story_shift_983e5b",
+      "title": "How Roswell's Official Story Changed",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "quadrant",
+        "list_vertical"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "July 8, 1947 Roswell Announcement Reversal",
+        "Interpretations of the Roswell Reversal",
+        "Evidence from the Ramey Memo Photograph"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.333,
+      "review_recommended": false,
+      "warning_reasons": []
+    }
+  ]
+}

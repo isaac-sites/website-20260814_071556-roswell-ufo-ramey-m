@@ -877,7 +877,7 @@ For readers assessing Johnson's recollections versus the photograph, that is the
 12.<a id="endnote-12"></a>
    Source: kevinrandle.blogspot.com  
    Title: Kevin Randle's Blog A Different Perspective: The Roswell Time Line  
-   Link:<a href="https://kevinrandle.blogspot.com/2013/01/the-roswell-time-line-[july-8" target="_blank" rel="noopener noreferrer nofollow">https://kevinrandle.blogspot.com/2013/01/the-roswell-time-line-[july-8</a>  
+   Link:<a href="https://kevinrandle.blogspot.com/2013/01/the-https://kevinrandle.blogspot.com/2013/01/the-roswell-time-line-july-8-1947.html" target="_blank" rel="noopener noreferrer nofollow">https://kevinrandle.blogspot.com/2013/01/the-https://kevinrandle.blogspot.com/2013/01/the-roswell-time-line-july-8-1947.html</a>  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>Kevin Randle&#x27;s BlogA Different Perspective: The Roswell Time Line - July 8, 1947January 19, 2013...</p></details>
    Published: July 8, 1947  
 

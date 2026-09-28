@@ -934,7 +934,7 @@ For the Ramey memo controversy, that is an important but deliberately limited fi
 28.<a id="endnote-28"></a>
    Source: kevinrandle.blogspot.com  
    Title: A Different Perspective: The Roswell Time Line  
-   Link:<a href="https://kevinrandle.blogspot.com/2013/01/the-roswell-time-line-[july-8" target="_blank" rel="noopener noreferrer nofollow">https://kevinrandle.blogspot.com/2013/01/the-roswell-time-line-[july-8</a>  
+   Link:<a href="https://kevinrandle.blogspot.com/2013/01/the-https://kevinrandle.blogspot.com/2013/01/the-roswell-time-line-july-8-1947.html" target="_blank" rel="noopener noreferrer nofollow">https://kevinrandle.blogspot.com/2013/01/the-https://kevinrandle.blogspot.com/2013/01/the-roswell-time-line-july-8-1947.html</a>  
 
 29.<a id="endnote-29"></a>
    Source: instagram.com  

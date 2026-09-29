@@ -1056,7 +1056,7 @@ In other words, Marcel's evidence keeps the substitution possibility open while 
 45.<a id="endnote-45"></a>
    Source: kevinrandle.blogspot.com  
    Title: A Different Perspective: The Roswell Time Line  
-   Link:<a href="https://kevinrandle.blogspot.com/2013/01/the-https://kevinrandle.blogspot.com/2013/01/the-roswell-time-line-july-8-1947.html" target="_blank" rel="noopener noreferrer nofollow">https://kevinrandle.blogspot.com/2013/01/the-https://kevinrandle.blogspot.com/2013/01/the-roswell-time-line-july-8-1947.html</a>  
+   Link:<a href="https://kevinrandle.blogspot.com/2013/01/the-roswell-time-line-july-8-1947.html" target="_blank" rel="noopener noreferrer nofollow">https://kevinrandle.blogspot.com/2013/01/the-roswell-time-line-july-8-1947.html</a>  
 
 46.<a id="endnote-46"></a>
    Source: nhinewsnetwork.com  

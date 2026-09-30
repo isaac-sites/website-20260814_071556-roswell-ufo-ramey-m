@@ -9,6 +9,7 @@ nav_short_title: Sub-Topic Index
 permalink: /roswell-ufo-ramey-me-6248d5-balloon-vs/
 description: Focused pages that expand on Competing Claims.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: roswell_UFO_ramey_me_6248d5_balloon_vs_crash_843d99
 parent_title: Competing Claims

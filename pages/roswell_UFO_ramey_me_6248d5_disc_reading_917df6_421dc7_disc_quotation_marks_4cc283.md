@@ -226,6 +226,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-08-10 08:37:19'
+last_modified_at: '2026-08-10 08:37:19'
 parent_title: Can the Word 'Disc' Be Read in the Memo? | Ramey Memo
 parent_permalink: /disc-reading/
 parent_nav_short_title: Disc Reading

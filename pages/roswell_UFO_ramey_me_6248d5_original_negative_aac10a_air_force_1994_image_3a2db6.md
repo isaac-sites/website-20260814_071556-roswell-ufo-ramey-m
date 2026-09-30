@@ -226,6 +226,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-08-11 04:43:22'
+last_modified_at: '2026-08-11 04:43:22'
 parent_title: Why the Original Negative Still Has a Hard Limit | Ramey Memo
 parent_permalink: /negative/
 parent_nav_short_title: Negative

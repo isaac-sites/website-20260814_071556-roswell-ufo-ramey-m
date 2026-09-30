@@ -9,6 +9,7 @@ nav_short_title: Sub-Topic Index
 permalink: /roswell-ufo-ramey-me-6248d5-no-smoking/
 description: Focused pages that expand on No Smoking Gun.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: roswell_UFO_ramey_me_6248d5_no_smoking_gun_e71c7b
 parent_title: No Smoking Gun

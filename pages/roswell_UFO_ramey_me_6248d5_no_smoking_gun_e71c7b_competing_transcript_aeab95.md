@@ -289,6 +289,7 @@ prev_link:
   short_title: Smoking Gun
   heading_title: Why the memo is not proof
 date: '2026-08-14 06:48:49 '
+last_modified_at: '2026-08-14 06:48:49 '
 header:
   og_image: /assets/images/roswell_UFO_ramey_me_6248d5_no_smoking_gun_e71c7b_competing_transcript_aeab95-Illustration-1-social-0cd744a0c2.jpg
   preview_image: /assets/images/roswell_UFO_ramey_me_6248d5_no_smoking_gun_e71c7b_competing_transcript_aeab95-Illustration-1.webp

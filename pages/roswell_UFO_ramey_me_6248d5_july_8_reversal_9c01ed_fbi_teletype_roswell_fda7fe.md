@@ -226,6 +226,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-08-09 17:06:05'
+last_modified_at: '2026-08-09 17:06:05'
 parent_title: The Hours When Roswell's Flying Disc Became a Balloon | Ramey Memo
 parent_permalink: /july-8/
 parent_nav_short_title: July 8

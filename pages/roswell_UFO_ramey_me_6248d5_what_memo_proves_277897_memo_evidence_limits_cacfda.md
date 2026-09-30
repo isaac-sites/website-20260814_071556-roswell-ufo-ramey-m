@@ -226,6 +226,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-08-11 09:16:26'
+last_modified_at: '2026-08-11 09:16:26'
 parent_title: What the Ramey Memo Can Actually Prove
 parent_permalink: /what-it-proves/
 parent_nav_short_title: What It Proves

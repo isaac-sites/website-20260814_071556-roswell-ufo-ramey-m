@@ -9,6 +9,7 @@ nav_short_title: Sub-Topic Index
 permalink: /roswell-ufo-ramey-me-6248d5-july-8/
 description: Focused pages that expand on July 8.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: roswell_UFO_ramey_me_6248d5_july_8_reversal_9c01ed
 parent_title: July 8 | roswell UFO ramey

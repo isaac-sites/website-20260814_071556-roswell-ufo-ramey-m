@@ -226,6 +226,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-08-10 09:19:40'
+last_modified_at: '2026-08-10 09:19:40'
 parent_title: Why Enlarging the Ramey Memo Does Not Solve It
 parent_permalink: /image-limits/
 parent_nav_short_title: Image Limits

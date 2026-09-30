@@ -9,6 +9,7 @@ nav_short_title: Sub-Topic Index
 permalink: /roswell-ufo-ramey-me-6248d5-paper/
 description: Focused pages that expand on Folds.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: roswell_UFO_ramey_me_6248d5_paper_folds_9eb200_f8ab87
 parent_title: Folds | roswell UFO ramey

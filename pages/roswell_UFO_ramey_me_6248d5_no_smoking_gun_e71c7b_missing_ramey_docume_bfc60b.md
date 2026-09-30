@@ -295,6 +295,7 @@ next_link:
   short_title: Provenance
   heading_title: Why the Ramey memo's history matters
 date: '2026-08-14 06:48:53 '
+last_modified_at: '2026-08-14 06:48:53 '
 header:
   og_image: /assets/images/roswell_UFO_ramey_me_6248d5_no_smoking_gun_e71c7b_missing_ramey_docume_bfc60b-Illustration-1-social-28bea43726.jpg
   preview_image: /assets/images/roswell_UFO_ramey_me_6248d5_no_smoking_gun_e71c7b_missing_ramey_docume_bfc60b-Illustration-1.webp

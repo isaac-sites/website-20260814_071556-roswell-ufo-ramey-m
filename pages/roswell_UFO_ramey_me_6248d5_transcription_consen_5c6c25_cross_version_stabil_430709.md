@@ -295,6 +295,7 @@ next_link:
   short_title: Word Agreement
   heading_title: When Similar Meanings Still Do Not Count as Agreement
 date: '2026-08-14 06:59:42 '
+last_modified_at: '2026-08-14 06:59:42 '
 header:
   og_image: /assets/images/roswell_UFO_ramey_me_6248d5_transcription_consen_5c6c25_cross_version_stabil_430709-Illustration-1-social-e312713eb5.jpg
   preview_image: /assets/images/roswell_UFO_ramey_me_6248d5_transcription_consen_5c6c25_cross_version_stabil_430709-Illustration-1.webp

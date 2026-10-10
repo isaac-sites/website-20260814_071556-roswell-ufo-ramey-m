@@ -9,6 +9,7 @@ nav_short_title: Sub-Topic Index
 permalink: /roswell-ufo-ramey-me-6248d5-image/
 description: Focused pages that expand on Image Limits.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: roswell_UFO_ramey_me_6248d5_image_limits_adf0b3_142cd5
 parent_title: Image Limits

@@ -295,6 +295,7 @@ next_link:
   short_title: Transcriptions
   heading_title: Why readers disagree on the memo
 date: '2026-08-14 06:49:02 '
+last_modified_at: '2026-08-14 06:49:02 '
 header:
   og_image: /assets/images/roswell_UFO_ramey_me_6248d5_no_smoking_gun_e71c7b_smoking_gun_standard_8af82f-Illustration-1-social-9a5e2d178c.jpg
   preview_image: /assets/images/roswell_UFO_ramey_me_6248d5_no_smoking_gun_e71c7b_smoking_gun_standard_8af82f-Illustration-1.webp

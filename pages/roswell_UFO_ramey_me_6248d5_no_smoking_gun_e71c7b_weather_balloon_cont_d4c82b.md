@@ -295,6 +295,7 @@ next_link:
   short_title: Missing Memo
   heading_title: The missing Ramey memo still matters
 date: '2026-08-14 06:49:06 '
+last_modified_at: '2026-08-14 06:49:06 '
 header:
   og_image: /assets/images/roswell_UFO_ramey_me_6248d5_no_smoking_gun_e71c7b_weather_balloon_cont_d4c82b-Illustration-1-social-e0a12c919a.jpg
   preview_image: /assets/images/roswell_UFO_ramey_me_6248d5_no_smoking_gun_e71c7b_weather_balloon_cont_d4c82b-Illustration-1.webp

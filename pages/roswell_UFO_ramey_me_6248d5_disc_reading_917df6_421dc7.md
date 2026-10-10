@@ -254,6 +254,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-08-10 08:30:21'
+last_modified_at: '2026-08-10 08:30:21'
 parent_title: Ramey Memo
 parent_permalink: /roswell-ufo-ramey/
 parent_nav_short_title: Ramey Memo

@@ -289,6 +289,7 @@ next_link:
   short_title: Balloon Context
   heading_title: The weather balloon explanation examined
 date: '2026-08-14 06:48:42 '
+last_modified_at: '2026-08-14 06:48:42 '
 header:
   og_image: /assets/images/roswell_UFO_ramey_me_6248d5_no_smoking_gun_e71c7b_alien_body_claim_gap_c10ccc-Illustration-1-social-28c82e2249.jpg
   preview_image: /assets/images/roswell_UFO_ramey_me_6248d5_no_smoking_gun_e71c7b_alien_body_claim_gap_c10ccc-Illustration-1.webp

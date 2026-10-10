@@ -226,6 +226,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-08-11 00:38:52'
+last_modified_at: '2026-08-11 00:38:52'
 parent_title: The Case Behind David Rudiak's Ramey Memo Reading
 parent_permalink: /rudiak/
 parent_nav_short_title: Rudiak

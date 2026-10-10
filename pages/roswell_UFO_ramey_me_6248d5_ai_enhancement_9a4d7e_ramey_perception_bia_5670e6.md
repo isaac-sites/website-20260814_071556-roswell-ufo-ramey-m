@@ -226,6 +226,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-08-11 06:46:12'
+last_modified_at: '2026-08-11 06:46:12'
 parent_title: Can AI Recover Words the Camera Never Captured? | roswell UFO ramey
 parent_permalink: /ai-enhancement/
 parent_nav_short_title: AI Enhancement

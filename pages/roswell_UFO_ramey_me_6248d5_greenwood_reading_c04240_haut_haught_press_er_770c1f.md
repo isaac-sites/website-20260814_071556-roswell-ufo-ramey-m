@@ -295,6 +295,7 @@ next_link:
   short_title: News Copy Test
   heading_title: Does Matching News Copy Really Validate Greenwood's Reading?
 date: '2026-08-14 06:53:42 '
+last_modified_at: '2026-08-14 06:53:42 '
 header:
   og_image: /assets/images/roswell_UFO_ramey_me_6248d5_greenwood_reading_c04240_haut_haught_press_er_770c1f-Illustration-1-social-5647704815.jpg
   preview_image: /assets/images/roswell_UFO_ramey_me_6248d5_greenwood_reading_c04240_haut_haught_press_er_770c1f-Illustration-1.webp

@@ -9,6 +9,7 @@ nav_short_title: Sub-Topic Index
 permalink: /roswell-ufo-ramey-me-6248d5-atomic/
 description: Focused pages that expand on Atomic Prime.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: roswell_UFO_ramey_me_6248d5_atomic_priming_362a6b
 parent_title: Atomic Prime | roswell UFO ramey

@@ -226,6 +226,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-08-10 07:22:53'
+last_modified_at: '2026-08-10 07:22:53'
 parent_title: When Film Grain Starts Looking Like Letters | Ramey Memo
 parent_permalink: /film-grain/
 parent_nav_short_title: Film Grain

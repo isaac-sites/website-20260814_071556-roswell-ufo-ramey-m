@@ -226,6 +226,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-08-11 06:01:35'
+last_modified_at: '2026-08-11 06:01:35'
 parent_title: When Image Enhancement Makes the Memo Look Too Clear | roswell UFO ramey
 parent_permalink: /enhancement/
 parent_nav_short_title: Enhancement

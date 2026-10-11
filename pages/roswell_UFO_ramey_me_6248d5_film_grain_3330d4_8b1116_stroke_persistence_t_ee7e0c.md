@@ -894,7 +894,6 @@ On that standard, the Ramey memo contains **recoverable fragments surrounded by 
 
 9.<a id="endnote-9"></a>
    Source: archives.gov  
-   Link:https://www.archives.gov/records-mgmt/memos/ac  
 
 10.<a id="endnote-10"></a>
    Source: archives.gov  
@@ -1046,7 +1045,6 @@ On that standard, the Ramey memo contains **recoverable fragments surrounded by 
 
 42.<a id="endnote-42"></a>
    Source: citeseerx.ist.psu.edu  
-   Link:https://citeseerx.ist.psu.edu/document?doi=e162b50a3885a28c826cb31c3deca69abaaba9ee&amp;repid=rep1&amp;type=pdf  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>Journal of Scientific Exploration, Vol. 16, No. 1, pp. 45–66, 2002October 19, 2025...</p></details>
    Published: October 19, 2025  
 
@@ -1137,7 +1135,6 @@ On that standard, the Ramey memo contains **recoverable fragments surrounded by 
 60.<a id="endnote-60"></a>
    Source: unexplained-mysteries.com  
    Title: The Ramey Memo  
-   Link:https://www.unexplained-mysteries.com/forum/topic/250481-the-ramey-memo/page/7/  
 
 61.<a id="endnote-61"></a>
    Source: unexplained-mysteries.com  

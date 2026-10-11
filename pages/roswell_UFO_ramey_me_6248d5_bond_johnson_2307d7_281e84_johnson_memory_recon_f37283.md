@@ -1278,7 +1278,6 @@ For the Ramey-memo controversy, this produces a disciplined conclusion. Johnson 
 
 103.<a id="endnote-103"></a>
    Source: nap.nationalacademies.org  
-   Link:https://nap.nationalacademies.org/skim.php?act=nap&amp;chap=1-8&amp;record_id=18891  
 
 104.<a id="endnote-104"></a>
    Source: nap.nationalacademies.org  

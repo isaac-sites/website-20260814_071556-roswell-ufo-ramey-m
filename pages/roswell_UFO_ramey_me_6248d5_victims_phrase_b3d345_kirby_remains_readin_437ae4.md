@@ -978,12 +978,10 @@ The most defensible reading of Kirby’s contribution is therefore neither “Ki
 31.<a id="endnote-31"></a>
    Source: unexplained-mysteries.com  
    Title: The Ramey Memo  
-   Link:https://www.unexplained-mysteries.com/forum/topic/250481-the-ramey-memo/page/4/  
 
 32.<a id="endnote-32"></a>
    Source: unexplained-mysteries.com  
    Title: The Ramey Memo  
-   Link:https://www.unexplained-mysteries.com/forum/topic/250481-the-ramey-memo/page/6/  
 
 33.<a id="endnote-33"></a>
    Source: kevinrandle.blogspot.com  

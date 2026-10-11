@@ -984,7 +984,6 @@ For disputed Ramey memo letters, the most credible result is therefore one that 
 
 33.<a id="endnote-33"></a>
    Source: citeseerx.ist.psu.edu  
-   Link:https://citeseerx.ist.psu.edu/document?doi=e162b50a3885a28c826cb31c3deca69abaaba9ee&amp;repid=rep1&amp;type=pdf  
 
 34.<a id="endnote-34"></a>
    Source: pmc.ncbi.nlm.nih.gov  
@@ -1105,12 +1104,10 @@ For disputed Ramey memo letters, the most credible result is therefore one that 
 60.<a id="endnote-60"></a>
    Source: unexplained-mysteries.com  
    Title: The Ramey Memo  
-   Link:https://www.unexplained-mysteries.com/forum/topic/250481-the-ramey-memo/page/4/  
 
 61.<a id="endnote-61"></a>
    Source: unexplained-mysteries.com  
    Title: The Ramey Memo  
-   Link:https://www.unexplained-mysteries.com/forum/topic/250481-the-ramey-memo/page/7/  
 
 62.<a id="endnote-62"></a>
    Source: kevinrandle.blogspot.com  

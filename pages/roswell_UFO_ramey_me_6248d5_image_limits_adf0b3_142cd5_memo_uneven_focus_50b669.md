@@ -979,12 +979,10 @@ The safest reading principle is consequently a local one. Each proposed characte
 33.<a id="endnote-33"></a>
    Source: unexplained-mysteries.com  
    Title: The Ramey Memo  
-   Link:https://www.unexplained-mysteries.com/forum/topic/250481-the-ramey-memo/page/7/  
 
 34.<a id="endnote-34"></a>
    Source: unexplained-mysteries.com  
    Title: The Ramey Memo  
-   Link:https://www.unexplained-mysteries.com/forum/topic/250481-the-ramey-memo/page/5/  
 
 35.<a id="endnote-35"></a>
    Source: edmundoptics.com  

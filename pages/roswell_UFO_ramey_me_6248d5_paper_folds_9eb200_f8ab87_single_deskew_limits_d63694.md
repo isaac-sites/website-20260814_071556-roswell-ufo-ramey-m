@@ -1098,7 +1098,6 @@ That is why deskewing should be treated as an aid to examining the Ramey memo, n
 
 55.<a id="endnote-55"></a>
    Source: citeseerx.ist.psu.edu  
-   Link:https://citeseerx.ist.psu.edu/document?doi=e162b50a3885a28c826cb31c3deca69abaaba9ee&amp;repid=rep1&amp;type=pdf  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>Journal of Scientific Exploration, Vol. 16, No. 1, pp. 45–66, 2002...</p></details>
 
 56.<a id="endnote-56"></a>

@@ -947,7 +947,6 @@ The experiment therefore leaves a useful dividing line. Words that recur indepen
 29.<a id="endnote-29"></a>
    Source: unexplained-mysteries.com  
    Title: The Ramey Memo  
-   Link:https://www.unexplained-mysteries.com/forum/topic/250481-the-ramey-memo/page/5/  
 
 30.<a id="endnote-30"></a>
    Source: pt.scribd.com  

@@ -853,12 +853,10 @@ For the Ramey memo, the published experiment therefore supports a cautious answe
 9.<a id="endnote-9"></a>
    Source: unexplained-mysteries.com  
    Title: The Ramey Memo  
-   Link:https://www.unexplained-mysteries.com/forum/topic/250481-the-ramey-memo/page/4/  
 
 10.<a id="endnote-10"></a>
    Source: unexplained-mysteries.com  
    Title: The Ramey Memo  
-   Link:https://www.unexplained-mysteries.com/forum/topic/250481-the-ramey-memo/page/5/  
 
 ### Additional References
 

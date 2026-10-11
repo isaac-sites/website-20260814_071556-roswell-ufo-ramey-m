@@ -957,7 +957,6 @@ Equal viewing time is a logical extension of that standard. The original experim
 27.<a id="endnote-27"></a>
    Source: unexplained-mysteries.com  
    Title: The Ramey Memo  
-   Link:https://www.unexplained-mysteries.com/forum/topic/250481-the-ramey-memo/page/7/  
 
 28.<a id="endnote-28"></a>
    Source: pt.scribd.com  

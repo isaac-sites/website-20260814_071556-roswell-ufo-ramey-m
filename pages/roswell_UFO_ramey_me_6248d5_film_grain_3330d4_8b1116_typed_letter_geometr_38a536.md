@@ -1123,7 +1123,6 @@ That is why character geometry is one of the strongest available safeguards in r
 48.<a id="endnote-48"></a>
    Source: unexplained-mysteries.com  
    Title: The Ramey Memo  
-   Link:https://www.unexplained-mysteries.com/forum/topic/250481-the-ramey-memo/page/7/  
 
 49.<a id="endnote-49"></a>
    Source: pt.scribd.com  

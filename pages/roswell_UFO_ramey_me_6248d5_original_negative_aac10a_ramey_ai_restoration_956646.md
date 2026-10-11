@@ -969,7 +969,6 @@ AI does not remove that requirement. It makes the requirement more important. A 
 28.<a id="endnote-28"></a>
    Source: unexplained-mysteries.com  
    Title: The Ramey Memo  
-   Link:https://www.unexplained-mysteries.com/forum/topic/250481-the-ramey-memo/page/7/  
 
 29.<a id="endnote-29"></a>
    Source: unexplained-mysteries.com  
@@ -979,7 +978,6 @@ AI does not remove that requirement. It makes the requirement more important. A 
 30.<a id="endnote-30"></a>
    Source: unexplained-mysteries.com  
    Title: The Ramey Memo  
-   Link:https://www.unexplained-mysteries.com/forum/topic/250481-the-ramey-memo/?comment=4834393&amp;do=findComment  
 
 31.<a id="endnote-31"></a>
    Source: unexplained-mysteries.com  
@@ -989,7 +987,6 @@ AI does not remove that requirement. It makes the requirement more important. A 
 32.<a id="endnote-32"></a>
    Source: unexplained-mysteries.com  
    Title: The Ramey Memo  
-   Link:https://www.unexplained-mysteries.com/forum/topic/250481-the-ramey-memo/?comment=4833055&amp;do=findComment  
 
 33.<a id="endnote-33"></a>
    Source: loc.gov  

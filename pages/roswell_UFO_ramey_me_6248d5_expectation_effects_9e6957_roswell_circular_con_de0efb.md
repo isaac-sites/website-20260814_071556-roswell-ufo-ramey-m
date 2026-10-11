@@ -924,7 +924,6 @@ That standard preserves what is genuinely interesting about the Ramey memo witho
 
 24.<a id="endnote-24"></a>
    Source: citeseerx.ist.psu.edu  
-   Link:https://citeseerx.ist.psu.edu/document?doi=e162b50a3885a28c826cb31c3deca69abaaba9ee&amp;repid=rep1&amp;type=pdf  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>Journal of Scientific Exploration, Vol. 16, No. 1, pp. 45–66, 2002October 19, 2025...</p></details>
    Published: October 19, 2025  
 
@@ -965,7 +964,6 @@ That standard preserves what is genuinely interesting about the Ramey memo witho
 31.<a id="endnote-31"></a>
    Source: unexplained-mysteries.com  
    Title: The Ramey Memo  
-   Link:https://www.unexplained-mysteries.com/forum/topic/250481-the-ramey-memo/page/4/  
 
 32.<a id="endnote-32"></a>
    Source: unexplained-mysteries.com  
@@ -975,7 +973,6 @@ That standard preserves what is genuinely interesting about the Ramey memo witho
 33.<a id="endnote-33"></a>
    Source: unexplained-mysteries.com  
    Title: The Ramey Memo  
-   Link:https://www.unexplained-mysteries.com/forum/topic/250481-the-ramey-memo/page/6/  
 
 34.<a id="endnote-34"></a>
    Source: astronomyufo.com  

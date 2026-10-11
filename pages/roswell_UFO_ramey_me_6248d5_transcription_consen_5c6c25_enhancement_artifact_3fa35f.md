@@ -1086,12 +1086,10 @@ The strongest transcription is therefore not the one produced by the most dramat
 59.<a id="endnote-59"></a>
    Source: unexplained-mysteries.com  
    Title: The Ramey Memo  
-   Link:https://www.unexplained-mysteries.com/forum/topic/250481-the-ramey-memo/page/4/  
 
 60.<a id="endnote-60"></a>
    Source: unexplained-mysteries.com  
    Title: The Ramey Memo  
-   Link:https://www.unexplained-mysteries.com/forum/topic/250481-the-ramey-memo/page/7/  
 
 61.<a id="endnote-61"></a>
    Source: research.polyu.edu.hk  

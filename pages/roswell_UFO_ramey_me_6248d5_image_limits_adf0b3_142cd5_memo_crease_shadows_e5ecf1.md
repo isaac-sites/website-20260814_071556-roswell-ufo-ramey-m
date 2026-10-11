@@ -1317,17 +1317,14 @@ That is why the most striking enhanced version is not necessarily the most trust
 110.<a id="endnote-110"></a>
    Source: unexplained-mysteries.com  
    Title: The Ramey Memo  
-   Link:https://www.unexplained-mysteries.com/forum/topic/250481-the-ramey-memo/page/7/  
 
 111.<a id="endnote-111"></a>
    Source: unexplained-mysteries.com  
    Title: The Ramey Memo  
-   Link:https://www.unexplained-mysteries.com/forum/topic/250481-the-ramey-memo/page/4/  
 
 112.<a id="endnote-112"></a>
    Source: unexplained-mysteries.com  
    Title: The Ramey Memo  
-   Link:https://www.unexplained-mysteries.com/forum/topic/250481-the-ramey-memo/page/6/  
 
 113.<a id="endnote-113"></a>
    Source: unexplained-mysteries.com  

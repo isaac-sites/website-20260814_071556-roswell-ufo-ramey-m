@@ -993,7 +993,6 @@ For disputed Ramey-memo words, an isolated dot, hook or short line should conseq
 35.<a id="endnote-35"></a>
    Source: unexplained-mysteries.com  
    Title: The Ramey Memo  
-   Link:https://www.unexplained-mysteries.com/forum/topic/250481-the-ramey-memo/page/7/  
 
 36.<a id="endnote-36"></a>
    Source: unexplained-mysteries.com  
@@ -1003,7 +1002,6 @@ For disputed Ramey-memo words, an isolated dot, hook or short line should conseq
 37.<a id="endnote-37"></a>
    Source: unexplained-mysteries.com  
    Title: The Ramey Memo  
-   Link:https://www.unexplained-mysteries.com/forum/topic/250481-the-ramey-memo/page/4/  
 
 38.<a id="endnote-38"></a>
    Source: blogs.loc.gov  

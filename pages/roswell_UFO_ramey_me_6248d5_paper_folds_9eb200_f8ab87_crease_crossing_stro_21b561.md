@@ -1047,7 +1047,6 @@ That is the sense in which a fold can erase part of a letter without removing an
 45.<a id="endnote-45"></a>
    Source: unexplained-mysteries.com  
    Title: The Ramey Memo  
-   Link:https://www.unexplained-mysteries.com/forum/topic/250481-the-ramey-memo/page/6/  
 
 46.<a id="endnote-46"></a>
    Source: cs.cmu.edu  

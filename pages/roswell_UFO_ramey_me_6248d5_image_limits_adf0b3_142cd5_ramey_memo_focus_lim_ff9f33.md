@@ -1172,7 +1172,6 @@ That mixed result is more informative than calling the photograph simply sharp o
 75.<a id="endnote-75"></a>
    Source: unexplained-mysteries.com  
    Title: The Ramey Memo  
-   Link:https://www.unexplained-mysteries.com/forum/topic/250481-the-ramey-memo/page/5/  
 
 76.<a id="endnote-76"></a>
    Source: unexplained-mysteries.com  
@@ -1182,17 +1181,14 @@ That mixed result is more informative than calling the photograph simply sharp o
 77.<a id="endnote-77"></a>
    Source: unexplained-mysteries.com  
    Title: The Ramey Memo  
-   Link:https://www.unexplained-mysteries.com/forum/topic/250481-the-ramey-memo/page/7/  
 
 78.<a id="endnote-78"></a>
    Source: unexplained-mysteries.com  
    Title: The Ramey Memo  
-   Link:https://www.unexplained-mysteries.com/forum/topic/250481-the-ramey-memo/page/6/  
 
 79.<a id="endnote-79"></a>
    Source: unexplained-mysteries.com  
    Title: The Ramey Memo  
-   Link:https://www.unexplained-mysteries.com/forum/topic/250481-the-ramey-memo/page/4/  
 
 80.<a id="endnote-80"></a>
    Source: wikidoc.org  

@@ -1010,12 +1010,10 @@ For the Ramey memo debate, that negative result is itself useful evidence. The 2
 39.<a id="endnote-39"></a>
    Source: unexplained-mysteries.com  
    Title: The Ramey Memo  
-   Link:https://www.unexplained-mysteries.com/forum/topic/250481-the-ramey-memo/page/4/  
 
 40.<a id="endnote-40"></a>
    Source: unexplained-mysteries.com  
    Title: The Ramey Memo  
-   Link:https://www.unexplained-mysteries.com/forum/topic/250481-the-ramey-memo/page/6/  
 
 41.<a id="endnote-41"></a>
    Source: kevinrandle.blogspot.com  

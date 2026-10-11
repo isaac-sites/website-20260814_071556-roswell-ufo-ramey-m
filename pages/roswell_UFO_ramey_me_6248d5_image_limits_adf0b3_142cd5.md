@@ -1240,17 +1240,14 @@ The result is less mysterious than the controversy surrounding it. Enlargements 
 51.<a id="endnote-51"></a>
    Source: unexplained-mysteries.com  
    Title: The Ramey Memo  
-   Link:https://www.unexplained-mysteries.com/forum/topic/250481-the-ramey-memo/page/4/  
 
 52.<a id="endnote-52"></a>
    Source: unexplained-mysteries.com  
    Title: The Ramey Memo  
-   Link:https://www.unexplained-mysteries.com/forum/topic/250481-the-ramey-memo/page/6/  
 
 53.<a id="endnote-53"></a>
    Source: unexplained-mysteries.com  
    Title: The Ramey Memo  
-   Link:https://www.unexplained-mysteries.com/forum/topic/250481-the-ramey-memo/page/5/  
 
 54.<a id="endnote-54"></a>
    Source: dafhistory.af.mil  

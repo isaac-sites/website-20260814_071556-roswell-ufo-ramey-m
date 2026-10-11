@@ -1308,12 +1308,10 @@ For that reason, the most informative divide in the Ramey-memo debate is not bet
 60.<a id="endnote-60"></a>
    Source: unexplained-mysteries.com  
    Title: The Ramey Memo  
-   Link:https://www.unexplained-mysteries.com/forum/topic/250481-the-ramey-memo/page/7/  
 
 61.<a id="endnote-61"></a>
    Source: unexplained-mysteries.com  
    Title: The Ramey Memo  
-   Link:https://www.unexplained-mysteries.com/forum/topic/250481-the-ramey-memo/page/4/  
 
 62.<a id="endnote-62"></a>
    Source: pmc.ncbi.nlm.nih.gov  

@@ -1022,7 +1022,6 @@ Until that happens, the most disciplined description remains narrower. **DISC is
 38.<a id="endnote-38"></a>
    Source: unexplained-mysteries.com  
    Title: The Ramey Memo  
-   Link:https://www.unexplained-mysteries.com/forum/topic/250481-the-ramey-memo/page/7/  
 
 39.<a id="endnote-39"></a>
    Source: unexplained-mysteries.com  

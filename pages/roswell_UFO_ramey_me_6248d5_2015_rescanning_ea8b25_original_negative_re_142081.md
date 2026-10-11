@@ -962,7 +962,7 @@ The most defensible lesson from 2015 is therefore narrower but more consequentia
 
 29.<a id="endnote-29"></a>
    Source: citeseerx.ist.psu.edu  
-   Link:<a href="https://citeseerx.ist.psu.edu/document?doi=e162b50a3885a28c826cb31c3deca69abaaba9ee&amp;repid=rep1&amp;type=pdf" target="_blank" rel="noopener noreferrer nofollow">https://citeseerx.ist.psu.edu/document?doi=e162b50a3885a28c826cb31c3deca69abaaba9ee&amp;repid=rep1&amp;type=pdf</a>  
+   Link:https://citeseerx.ist.psu.edu/document?doi=e162b50a3885a28c826cb31c3deca69abaaba9ee&amp;repid=rep1&amp;type=pdf  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>Journal of Scientific Exploration, Vol. 16, No. 1, pp. 45–66, 2002...</p></details>
 
 30.<a id="endnote-30"></a>
@@ -1021,7 +1021,7 @@ The most defensible lesson from 2015 is therefore narrower but more consequentia
 40.<a id="endnote-40"></a>
    Source: unexplained-mysteries.com  
    Title: The Ramey Memo  
-   Link:<a href="https://www.unexplained-mysteries.com/forum/topic/250481-the-ramey-memo/page/7/" target="_blank" rel="noopener noreferrer nofollow">https://www.unexplained-mysteries.com/forum/topic/250481-the-ramey-memo/page/7/</a>  
+   Link:https://www.unexplained-mysteries.com/forum/topic/250481-the-ramey-memo/page/7/  
 
 41.<a id="endnote-41"></a>
    Source: journalofscientificexploration.org  

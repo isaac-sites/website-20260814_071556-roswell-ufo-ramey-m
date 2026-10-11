@@ -400,7 +400,7 @@ The Ramey memo presents a basic evidential problem: an observer can perceive mea
 
 </div>
 
-That is where “Fort Worth TX” becomes significant. James Houran and Kevin Randle tested 176 participants under three different suggestion conditions: 59 were told the photograph might concern a Roswell extraterrestrial crash and cover-up, 58 were told it might concern secret atomic-bomb testing, and 59 were given no proposed subject for the document.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://citeseerx.ist.psu.edu/document?doi=e162b50a3885a28c826cb31c3deca69abaaba9ee&amp;repid=rep1&amp;type=pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: citeseerx.ist.psu.edu">[CiteSeerX]</a><span class="citation-popover" role="note"><span class="citation-popover-source">citeseerx.ist.psu.edu</span><span class="citation-popover-snippet">Open source on psu.edu.</span></span></span>
+That is where “Fort Worth TX” becomes significant. James Houran and Kevin Randle tested 176 participants under three different suggestion conditions: 59 were told the photograph might concern a Roswell extraterrestrial crash and cover-up, 58 were told it might concern secret atomic-bomb testing, and 59 were given no proposed subject for the document.<span class="citation-link-wrap">[CiteSeerX]<span class="citation-popover" role="note"><span class="citation-popover-source">citeseerx.ist.psu.edu</span><span class="citation-popover-snippet">Open source on psu.edu.</span></span></span>
 
 The experiment demonstrated exactly the danger critics of memo decipherment had worried about: suggestion influenced what participants thought they could read. Yet some fragments produced agreement across the different groups. “Fort Worth TX” was reported in the same location by 52 participants overall — 24 in the UFO condition, 17 in the atomic-bomb condition and 11 in the blind condition.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/228706129_A_Message_in_a_Bottle_Confounds_in_Deciphering_the_Ramey_Memo_from_the_Roswell_UFO_Case" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">Open source on researchgate.net.</span></span></span>
 
@@ -956,7 +956,7 @@ For the narrow question — **does Fort Worth match where the Ramey memo photogr
 
 28.<a id="endnote-28"></a>
    Source: citeseerx.ist.psu.edu  
-   Link:<a href="https://citeseerx.ist.psu.edu/document?doi=e162b50a3885a28c826cb31c3deca69abaaba9ee&amp;repid=rep1&amp;type=pdf" target="_blank" rel="noopener noreferrer nofollow">https://citeseerx.ist.psu.edu/document?doi=e162b50a3885a28c826cb31c3deca69abaaba9ee&amp;repid=rep1&amp;type=pdf</a>  
+   Link:https://citeseerx.ist.psu.edu/document?doi=e162b50a3885a28c826cb31c3deca69abaaba9ee&amp;repid=rep1&amp;type=pdf  
 
 29.<a id="endnote-29"></a>
    Source: wikidisc.org  
@@ -975,7 +975,7 @@ For the narrow question — **does Fort Worth match where the Ramey memo photogr
 32.<a id="endnote-32"></a>
    Source: unexplained-mysteries.com  
    Title: The Ramey Memo  
-   Link:<a href="https://www.unexplained-mysteries.com/forum/topic/250481-the-ramey-memo/page/7/" target="_blank" rel="noopener noreferrer nofollow">https://www.unexplained-mysteries.com/forum/topic/250481-the-ramey-memo/page/7/</a>  
+   Link:https://www.unexplained-mysteries.com/forum/topic/250481-the-ramey-memo/page/7/  
 
 33.<a id="endnote-33"></a>
    Source: ufologie.patrickgross.org  

@@ -361,7 +361,7 @@ The disagreement is particularly important because “disk” or “disc” carr
 
 The competing [transcriptions]({{ 'transcriptions/' | relative_url }}) collected by Houran and Randle show how large the divergence could become. Different investigators constructed substantially different sentences from the same lines, including disagreements over such consequential terms as “victims”, “remains”, “disk” and other surrounding words. The dispute was therefore not merely about punctuation or a single damaged character; alternative character assignments could change the apparent subject and meaning of an entire sentence.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/228706129_A_Message_in_a_Bottle_Confounds_in_Deciphering_the_Ramey_Memo_from_the_Roswell_UFO_Case" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">Open source on researchgate.net.</span></span></span>
 
-Estes also resisted claims about the apparent signature block. Houran and Randle report that he could see nothing clearly resembling either of the proposed identifications. At most, he thought there might be an “M” somewhere within the sequence and perhaps “LE” near its end. Although those fragments could be made compatible with one suggested name, Estes compared the broader interpretive process to finding “faces in the clouds”.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://citeseerx.ist.psu.edu/document?doi=e162b50a3885a28c826cb31c3deca69abaaba9ee&amp;repid=rep1&amp;type=pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: citeseerx.ist.psu.edu">[CiteSeerX]</a><span class="citation-popover" role="note"><span class="citation-popover-source">citeseerx.ist.psu.edu</span><span class="citation-popover-snippet">Journal of Scientific Exploration, Vol. 16, No. 1, pp. 45–66, 2002October 19, 2025...</span><span class="citation-popover-meta">Published: October 19, 2025</span></span></span>
+Estes also resisted claims about the apparent signature block. Houran and Randle report that he could see nothing clearly resembling either of the proposed identifications. At most, he thought there might be an “M” somewhere within the sequence and perhaps “LE” near its end. Although those fragments could be made compatible with one suggested name, Estes compared the broader interpretive process to finding “faces in the clouds”.<span class="citation-link-wrap">[CiteSeerX]<span class="citation-popover" role="note"><span class="citation-popover-source">citeseerx.ist.psu.edu</span><span class="citation-popover-snippet">Journal of Scientific Exploration, Vol. 16, No. 1, pp. 45–66, 2002October 19, 2025...</span><span class="citation-popover-meta">Published: October 19, 2025</span></span></span>
 
 The point was not that every proposed character must therefore be imaginary. It was that weak visual fragments can support multiple coherent completions once an observer knows what kinds of words or names are being sought. The disputed “ELA*” group provides an unusually compact example: identical marks were capable of sustaining sharply different reported readings.
 
@@ -900,7 +900,7 @@ The most defensible lesson, then, is not that Estes decoded a different Ramey me
 
 20.<a id="endnote-20"></a>
    Source: citeseerx.ist.psu.edu  
-   Link:<a href="https://citeseerx.ist.psu.edu/document?doi=e162b50a3885a28c826cb31c3deca69abaaba9ee&amp;repid=rep1&amp;type=pdf" target="_blank" rel="noopener noreferrer nofollow">https://citeseerx.ist.psu.edu/document?doi=e162b50a3885a28c826cb31c3deca69abaaba9ee&amp;repid=rep1&amp;type=pdf</a>  
+   Link:https://citeseerx.ist.psu.edu/document?doi=e162b50a3885a28c826cb31c3deca69abaaba9ee&amp;repid=rep1&amp;type=pdf  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>Journal of Scientific Exploration, Vol. 16, No. 1, pp. 45–66, 2002October 19, 2025...</p></details>
    Published: October 19, 2025  
 
@@ -912,12 +912,12 @@ The most defensible lesson, then, is not that Estes decoded a different Ramey me
 22.<a id="endnote-22"></a>
    Source: unexplained-mysteries.com  
    Title: The Ramey Memo  
-   Link:<a href="https://www.unexplained-mysteries.com/forum/topic/250481-the-ramey-memo/page/5/" target="_blank" rel="noopener noreferrer nofollow">https://www.unexplained-mysteries.com/forum/topic/250481-the-ramey-memo/page/5/</a>  
+   Link:https://www.unexplained-mysteries.com/forum/topic/250481-the-ramey-memo/page/5/  
 
 23.<a id="endnote-23"></a>
    Source: unexplained-mysteries.com  
    Title: The Ramey Memo  
-   Link:<a href="https://www.unexplained-mysteries.com/forum/topic/250481-the-ramey-memo/page/4/" target="_blank" rel="noopener noreferrer nofollow">https://www.unexplained-mysteries.com/forum/topic/250481-the-ramey-memo/page/4/</a>  
+   Link:https://www.unexplained-mysteries.com/forum/topic/250481-the-ramey-memo/page/4/  
 
 24.<a id="endnote-24"></a>
    Source: openlibrary.org  

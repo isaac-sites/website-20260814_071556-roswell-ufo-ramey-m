@@ -379,7 +379,7 @@ Those later efforts strengthen the significance of the 1994 failure without maki
 
 Later researchers have nevertheless proposed readings of the Ramey memo, sometimes claiming to identify words with major implications for the Roswell story. Such claims are precisely where the 1994 result becomes an important control: a transcription needs to explain why supposedly clear textual information escaped a specialist examination working from early-generation archival material. That does not make a later reading impossible, but it raises the evidential bar.
 
-An experimental study published by James Houran and Kevin Randle in 2002 illustrates the problem from another direction. Participants were shown the ambiguous memo imagery under different contextual suggestions — Roswell, atomic-bomb testing or no stated context. Many reported seeing words, but their interpretations tended to reflect the suggestions they had received. Some character sequences appeared more consistently across groups, so the authors did not dismiss further analysis as pointless; instead, they argued that future attempts required stronger methodological controls.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://citeseerx.ist.psu.edu/document?doi=e162b50a3885a28c826cb31c3deca69abaaba9ee&amp;repid=rep1&amp;type=pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: citeseerx.ist.psu.edu">[CiteSeerX]</a><span class="citation-popover" role="note"><span class="citation-popover-source">citeseerx.ist.psu.edu</span><span class="citation-popover-snippet">Open source on psu.edu.</span></span></span>
+An experimental study published by James Houran and Kevin Randle in 2002 illustrates the problem from another direction. Participants were shown the ambiguous memo imagery under different contextual suggestions — Roswell, atomic-bomb testing or no stated context. Many reported seeing words, but their interpretations tended to reflect the suggestions they had received. Some character sequences appeared more consistently across groups, so the authors did not dismiss further analysis as pointless; instead, they argued that future attempts required stronger methodological controls.<span class="citation-link-wrap">[CiteSeerX]<span class="citation-popover" role="note"><span class="citation-popover-source">citeseerx.ist.psu.edu</span><span class="citation-popover-snippet">Open source on psu.edu.</span></span></span>
 
 That finding helps distinguish two questions that are easily blurred together. One is whether **some** textual structure survives in the photograph. The other is whether enough survives to choose reliably among competing words and sentences. The 1994 Air Force analysis bears primarily on the second problem. It showed that access to first-generation photographic material plus digitisation did not automatically turn the memo into an ordinary readable document.
 
@@ -960,7 +960,7 @@ The cautious conclusion is therefore neither that the memo contains no recoverab
 
 32.<a id="endnote-32"></a>
    Source: citeseerx.ist.psu.edu  
-   Link:<a href="https://citeseerx.ist.psu.edu/document?doi=e162b50a3885a28c826cb31c3deca69abaaba9ee&amp;repid=rep1&amp;type=pdf" target="_blank" rel="noopener noreferrer nofollow">https://citeseerx.ist.psu.edu/document?doi=e162b50a3885a28c826cb31c3deca69abaaba9ee&amp;repid=rep1&amp;type=pdf</a>  
+   Link:https://citeseerx.ist.psu.edu/document?doi=e162b50a3885a28c826cb31c3deca69abaaba9ee&amp;repid=rep1&amp;type=pdf  
 
 33.<a id="endnote-33"></a>
    Source: digital.library.adelaide.edu.au  
@@ -997,7 +997,7 @@ The cautious conclusion is therefore neither that the memo contains no recoverab
 40.<a id="endnote-40"></a>
    Source: unexplained-mysteries.com  
    Title: The Ramey Memo  
-   Link:<a href="https://www.unexplained-mysteries.com/forum/topic/250481-the-ramey-memo/page/7/" target="_blank" rel="noopener noreferrer nofollow">https://www.unexplained-mysteries.com/forum/topic/250481-the-ramey-memo/page/7/</a>  
+   Link:https://www.unexplained-mysteries.com/forum/topic/250481-the-ramey-memo/page/7/  
 
 41.<a id="endnote-41"></a>
    Source: digital.library.adelaide.edu.au  

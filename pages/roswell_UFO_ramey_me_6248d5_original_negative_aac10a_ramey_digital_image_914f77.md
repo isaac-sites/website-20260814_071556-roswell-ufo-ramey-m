@@ -1107,7 +1107,7 @@ For the Ramey memo, provenance cannot make unresolved lettering readable. What i
 
 54.<a id="endnote-54"></a>
    Source: citeseerx.ist.psu.edu  
-   Link:<a href="https://citeseerx.ist.psu.edu/document?doi=e162b50a3885a28c826cb31c3deca69abaaba9ee&amp;repid=rep1&amp;type=pdf" target="_blank" rel="noopener noreferrer nofollow">https://citeseerx.ist.psu.edu/document?doi=e162b50a3885a28c826cb31c3deca69abaaba9ee&amp;repid=rep1&amp;type=pdf</a>  
+   Link:https://citeseerx.ist.psu.edu/document?doi=e162b50a3885a28c826cb31c3deca69abaaba9ee&amp;repid=rep1&amp;type=pdf  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>Journal of Scientific Exploration, Vol. 16, No. 1, pp. 45–66, 2002...</p></details>
 
 55.<a id="endnote-55"></a>
@@ -1204,7 +1204,7 @@ For the Ramey memo, provenance cannot make unresolved lettering readable. What i
 74.<a id="endnote-74"></a>
    Source: unexplained-mysteries.com  
    Title: The Ramey Memo  
-   Link:<a href="https://www.unexplained-mysteries.com/forum/topic/250481-the-ramey-memo/page/7/" target="_blank" rel="noopener noreferrer nofollow">https://www.unexplained-mysteries.com/forum/topic/250481-the-ramey-memo/page/7/</a>  
+   Link:https://www.unexplained-mysteries.com/forum/topic/250481-the-ramey-memo/page/7/  
 
 75.<a id="endnote-75"></a>
    Source: unexplained-mysteries.com  
@@ -1214,7 +1214,7 @@ For the Ramey memo, provenance cannot make unresolved lettering readable. What i
 76.<a id="endnote-76"></a>
    Source: unexplained-mysteries.com  
    Title: The Ramey Memo  
-   Link:<a href="https://www.unexplained-mysteries.com/forum/topic/250481-the-ramey-memo/page/4/" target="_blank" rel="noopener noreferrer nofollow">https://www.unexplained-mysteries.com/forum/topic/250481-the-ramey-memo/page/4/</a>  
+   Link:https://www.unexplained-mysteries.com/forum/topic/250481-the-ramey-memo/page/4/  
 
 77.<a id="endnote-77"></a>
    Source: digitizationguidelines.gov  

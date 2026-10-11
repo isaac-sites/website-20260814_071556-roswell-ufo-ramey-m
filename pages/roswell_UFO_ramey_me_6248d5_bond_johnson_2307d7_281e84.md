@@ -579,7 +579,7 @@ The original scene was recorded on large-format film in July 1947. UTA describes
 
 That contemporary photographic chain has a major advantage over retrospective testimony: it does not change when researchers discover another frame, propose a new memo reading or ask a differently worded question. The physical limitations of the image are real — particularly the tiny size and poor resolution of the memo text — but those limitations are at least fixed and inspectable.
 
-Researchers have worked from enlargements and scans derived from the archived photograph. In an experimental study of attempts to read the Ramey memo, James Houran and Kevin Randle described participants being shown multiple high-resolution scans and enlargements ultimately derived from the *Star-Telegram* photograph held at UTA. Their work emphasised how difficult it is to obtain an objective transcription from the ambiguous letter shapes.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://citeseerx.ist.psu.edu/document?doi=e162b50a3885a28c826cb31c3deca69abaaba9ee&amp;repid=rep1&amp;type=pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: citeseerx.ist.psu.edu">[CiteSeerX]</a><span class="citation-popover" role="note"><span class="citation-popover-source">citeseerx.ist.psu.edu</span><span class="citation-popover-snippet">Open source on psu.edu.</span></span></span>
+Researchers have worked from enlargements and scans derived from the archived photograph. In an experimental study of attempts to read the Ramey memo, James Houran and Kevin Randle described participants being shown multiple high-resolution scans and enlargements ultimately derived from the *Star-Telegram* photograph held at UTA. Their work emphasised how difficult it is to obtain an objective transcription from the ambiguous letter shapes.<span class="citation-link-wrap">[CiteSeerX]<span class="citation-popover" role="note"><span class="citation-popover-source">citeseerx.ist.psu.edu</span><span class="citation-popover-snippet">Open source on psu.edu.</span></span></span>
 
 That problem is fundamentally different from Johnson’s memory problem. With the photograph, the uncertainty concerns optical information: what detail the film captured and whether blurred marks can be identified. With Johnson, the uncertainty concerns reconstruction across decades: which details genuinely survived from 1947 and which were modified by later information, interpretation or repeated retelling.
 
@@ -1110,7 +1110,7 @@ The irony is that Johnson’s greatest contribution to the Roswell record is pre
 
 22.<a id="endnote-22"></a>
    Source: citeseerx.ist.psu.edu  
-   Link:<a href="https://citeseerx.ist.psu.edu/document?doi=e162b50a3885a28c826cb31c3deca69abaaba9ee&amp;repid=rep1&amp;type=pdf" target="_blank" rel="noopener noreferrer nofollow">https://citeseerx.ist.psu.edu/document?doi=e162b50a3885a28c826cb31c3deca69abaaba9ee&amp;repid=rep1&amp;type=pdf</a>  
+   Link:https://citeseerx.ist.psu.edu/document?doi=e162b50a3885a28c826cb31c3deca69abaaba9ee&amp;repid=rep1&amp;type=pdf  
 
 23.<a id="endnote-23"></a>
    Source: pmc.ncbi.nlm.nih.gov  

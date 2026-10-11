@@ -399,7 +399,7 @@ This distinction also explains why agreement on some words does not automaticall
 
 ## How presumed Roswell context contaminates the result
 
-The strongest warning against historical filtering comes from the experiment conducted specifically on the Ramey memo by James Houran and Kevin Randle. Their study randomly assigned participants to different contextual conditions before asking them to decipher the photographed document. The researchers concluded that interpretations were affected by the contextual information participants had been given.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://citeseerx.ist.psu.edu/document?doi=e162b50a3885a28c826cb31c3deca69abaaba9ee&amp;repid=rep1&amp;type=pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: citeseerx.ist.psu.edu">[CiteSeerX]</a><span class="citation-popover" role="note"><span class="citation-popover-source">citeseerx.ist.psu.edu</span><span class="citation-popover-snippet">Journal of Scientific Exploration, Vol. 16, No. 1, pp. 45–66, 2002October 19, 2025...</span><span class="citation-popover-meta">Published: October 19, 2025</span></span></span>
+The strongest warning against historical filtering comes from the experiment conducted specifically on the Ramey memo by James Houran and Kevin Randle. Their study randomly assigned participants to different contextual conditions before asking them to decipher the photographed document. The researchers concluded that interpretations were affected by the contextual information participants had been given.<span class="citation-link-wrap">[CiteSeerX]<span class="citation-popover" role="note"><span class="citation-popover-source">citeseerx.ist.psu.edu</span><span class="citation-popover-snippet">Journal of Scientific Exploration, Vol. 16, No. 1, pp. 45–66, 2002October 19, 2025...</span><span class="citation-popover-meta">Published: October 19, 2025</span></span></span>
 
 That result bears directly on word-search reconstruction. Houran and Randle explicitly discussed Rudiak's procedure of selecting likely letters, conducting English-language searches for possible fits, and then asking which candidates make grammatical and historical sense. They regarded searching possible fits as reasonable but identified the historical-context step as problematic because their experiment indicated that changing the supplied context changed what readers perceived in the document.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://noufors.com/Documents/Books%2C%20Manuals%20and%20Published%20Papers/Specialty%20UFO%20Publications/Journal%20of%20Scientific%20Exploration/jse_16_1_houran.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: noufors.com">[Noufors]</a><span class="citation-popover" role="note"><span class="citation-popover-source">noufors.com</span><span class="citation-popover-snippet">Noufors&#x27;&#x27;A Message in a Bottle:&quot; Confounds in Deciphering the Ramey Memo from the Roswell UFO CaseMay 23, 2026...</span><span class="citation-popover-meta">Published: May 23, 2026</span></span></span>
 
@@ -887,14 +887,14 @@ That distinction is more important than whether any one disputed term sounds con
 
 10.<a id="endnote-10"></a>
    Source: citeseerx.ist.psu.edu  
-   Link:<a href="https://citeseerx.ist.psu.edu/document?doi=e162b50a3885a28c826cb31c3deca69abaaba9ee&amp;repid=rep1&amp;type=pdf" target="_blank" rel="noopener noreferrer nofollow">https://citeseerx.ist.psu.edu/document?doi=e162b50a3885a28c826cb31c3deca69abaaba9ee&amp;repid=rep1&amp;type=pdf</a>  
+   Link:https://citeseerx.ist.psu.edu/document?doi=e162b50a3885a28c826cb31c3deca69abaaba9ee&amp;repid=rep1&amp;type=pdf  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>Journal of Scientific Exploration, Vol. 16, No. 1, pp. 45–66, 2002October 19, 2025...</p></details>
    Published: October 19, 2025  
 
 11.<a id="endnote-11"></a>
    Source: unexplained-mysteries.com  
    Title: The Ramey Memo  
-   Link:<a href="https://www.unexplained-mysteries.com/forum/topic/250481-the-ramey-memo/page/7/" target="_blank" rel="noopener noreferrer nofollow">https://www.unexplained-mysteries.com/forum/topic/250481-the-ramey-memo/page/7/</a>  
+   Link:https://www.unexplained-mysteries.com/forum/topic/250481-the-ramey-memo/page/7/  
 
 12.<a id="endnote-12"></a>
    Source: unexplained-mysteries.com  

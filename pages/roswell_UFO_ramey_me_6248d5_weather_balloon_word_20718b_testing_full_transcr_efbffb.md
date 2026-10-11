@@ -345,7 +345,7 @@ A useful anchor has two properties: several readers identify substantially the s
 
 James Houran and Kevin Randle's 2002 experiment provides the clearest published demonstration of this distinction. They randomly assigned 176 participants to three conditions. Fifty-nine were told the document concerned Roswell, 58 were told it concerned secret atomic-bomb testing, and 59 were given no suggested subject. The suggested context had a powerful effect: the Roswell group produced such readings as “UFO” and “crash”, while the atomic-bomb group produced such readings as “atomic”, “flash” and “laboratory”.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/228706129_A_Message_in_a_Bottle_Confounds_in_Deciphering_the_Ramey_Memo_from_the_Roswell_UFO_Case" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">Open source on researchgate.net.</span></span></span>
 
-Yet some readings survived the change of context. Across the three conditions, participants identified “Fort Worth TX” at the same location 52 times, “story” 61 times and “weather balloons” 27 times. The study also reported relative agreement on “land” between the two suggestion groups. Houran and Randle regarded the location-specific agreement as evidence that at least parts of the photographed document really were legible, even though the meaning of those fragments remained uncertain.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://citeseerx.ist.psu.edu/document?doi=e162b50a3885a28c826cb31c3deca69abaaba9ee&amp;repid=rep1&amp;type=pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: citeseerx.ist.psu.edu">[CiteSeerX]</a><span class="citation-popover" role="note"><span class="citation-popover-source">citeseerx.ist.psu.edu</span><span class="citation-popover-snippet">Journal of Scientific Exploration, Vol. 16, No. 1, pp. 45–66, 2002October 19, 2025...</span><span class="citation-popover-meta">Published: October 19, 2025</span></span></span>
+Yet some readings survived the change of context. Across the three conditions, participants identified “Fort Worth TX” at the same location 52 times, “story” 61 times and “weather balloons” 27 times. The study also reported relative agreement on “land” between the two suggestion groups. Houran and Randle regarded the location-specific agreement as evidence that at least parts of the photographed document really were legible, even though the meaning of those fragments remained uncertain.<span class="citation-link-wrap">[CiteSeerX]<span class="citation-popover" role="note"><span class="citation-popover-source">citeseerx.ist.psu.edu</span><span class="citation-popover-snippet">Journal of Scientific Exploration, Vol. 16, No. 1, pp. 45–66, 2002October 19, 2025...</span><span class="citation-popover-meta">Published: October 19, 2025</span></span></span>
 
 That makes these readings useful as a kind of coordinate grid. A transcription can be laid over the memo line by line and asked to preserve the places where comparatively recognisable material occurs. The method does not require assuming that every anchor is absolutely certain. It requires only recognising that a repeatedly identified sequence deserves greater weight than a neighbouring sequence whose supposed letters change radically from reader to reader.
 
@@ -966,7 +966,7 @@ For the Ramey memo, then, readable words are most valuable not because they comp
 
 28.<a id="endnote-28"></a>
    Source: citeseerx.ist.psu.edu  
-   Link:<a href="https://citeseerx.ist.psu.edu/document?doi=e162b50a3885a28c826cb31c3deca69abaaba9ee&amp;repid=rep1&amp;type=pdf" target="_blank" rel="noopener noreferrer nofollow">https://citeseerx.ist.psu.edu/document?doi=e162b50a3885a28c826cb31c3deca69abaaba9ee&amp;repid=rep1&amp;type=pdf</a>  
+   Link:https://citeseerx.ist.psu.edu/document?doi=e162b50a3885a28c826cb31c3deca69abaaba9ee&amp;repid=rep1&amp;type=pdf  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>Journal of Scientific Exploration, Vol. 16, No. 1, pp. 45–66, 2002October 19, 2025...</p></details>
    Published: October 19, 2025  
 
@@ -979,17 +979,17 @@ For the Ramey memo, then, readable words are most valuable not because they comp
 30.<a id="endnote-30"></a>
    Source: unexplained-mysteries.com  
    Title: The Ramey Memo  
-   Link:<a href="https://www.unexplained-mysteries.com/forum/topic/250481-the-ramey-memo/page/7/" target="_blank" rel="noopener noreferrer nofollow">https://www.unexplained-mysteries.com/forum/topic/250481-the-ramey-memo/page/7/</a>  
+   Link:https://www.unexplained-mysteries.com/forum/topic/250481-the-ramey-memo/page/7/  
 
 31.<a id="endnote-31"></a>
    Source: unexplained-mysteries.com  
    Title: The Ramey Memo  
-   Link:<a href="https://www.unexplained-mysteries.com/forum/topic/250481-the-ramey-memo/page/4/" target="_blank" rel="noopener noreferrer nofollow">https://www.unexplained-mysteries.com/forum/topic/250481-the-ramey-memo/page/4/</a>  
+   Link:https://www.unexplained-mysteries.com/forum/topic/250481-the-ramey-memo/page/4/  
 
 32.<a id="endnote-32"></a>
    Source: unexplained-mysteries.com  
    Title: The Ramey Memo  
-   Link:<a href="https://www.unexplained-mysteries.com/forum/topic/250481-the-ramey-memo/page/6/" target="_blank" rel="noopener noreferrer nofollow">https://www.unexplained-mysteries.com/forum/topic/250481-the-ramey-memo/page/6/</a>  
+   Link:https://www.unexplained-mysteries.com/forum/topic/250481-the-ramey-memo/page/6/  
 
 33.<a id="endnote-33"></a>
    Source: unexplained-mysteries.com  
@@ -999,7 +999,7 @@ For the Ramey memo, then, readable words are most valuable not because they comp
 34.<a id="endnote-34"></a>
    Source: unexplained-mysteries.com  
    Title: The Ramey Memo  
-   Link:<a href="https://www.unexplained-mysteries.com/forum/topic/250481-the-ramey-memo/?comment=4834994&amp;do=findComment" target="_blank" rel="noopener noreferrer nofollow">https://www.unexplained-mysteries.com/forum/topic/250481-the-ramey-memo/?comment=4834994&amp;do=findComment</a>  
+   Link:https://www.unexplained-mysteries.com/forum/topic/250481-the-ramey-memo/?comment=4834994&amp;do=findComment  
 
 35.<a id="endnote-35"></a>
    Source: unexplained-mysteries.com  
@@ -1009,12 +1009,12 @@ For the Ramey memo, then, readable words are most valuable not because they comp
 36.<a id="endnote-36"></a>
    Source: unexplained-mysteries.com  
    Title: The Ramey Memo  
-   Link:<a href="https://www.unexplained-mysteries.com/forum/topic/250481-the-ramey-memo/?comment=4834393&amp;do=findComment" target="_blank" rel="noopener noreferrer nofollow">https://www.unexplained-mysteries.com/forum/topic/250481-the-ramey-memo/?comment=4834393&amp;do=findComment</a>  
+   Link:https://www.unexplained-mysteries.com/forum/topic/250481-the-ramey-memo/?comment=4834393&amp;do=findComment  
 
 37.<a id="endnote-37"></a>
    Source: unexplained-mysteries.com  
    Title: The Ramey Memo  
-   Link:<a href="https://www.unexplained-mysteries.com/forum/topic/250481-the-ramey-memo/?comment=4833055&amp;do=findComment" target="_blank" rel="noopener noreferrer nofollow">https://www.unexplained-mysteries.com/forum/topic/250481-the-ramey-memo/?comment=4833055&amp;do=findComment</a>  
+   Link:https://www.unexplained-mysteries.com/forum/topic/250481-the-ramey-memo/?comment=4833055&amp;do=findComment  
 
 38.<a id="endnote-38"></a>
    Source: unexplained-mysteries.com  

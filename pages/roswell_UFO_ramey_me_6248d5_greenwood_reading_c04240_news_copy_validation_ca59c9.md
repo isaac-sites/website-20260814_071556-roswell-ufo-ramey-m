@@ -315,7 +315,7 @@ Period news copy gives Barry Greenwood’s reconstruction of the [Ramey memo]({{
 
 <figure class="article-media-figure article-media-figure-illustration"><img src="{{ "/assets/images/roswell_UFO_ramey_me_6248d5_greenwood_reading_c04240_news_copy_validation_ca59c9-Illustration-1-dark.svg" | relative_url }}" alt="News Copy Test illustration 1" data-theme-src-dark="{{ "/assets/images/roswell_UFO_ramey_me_6248d5_greenwood_reading_c04240_news_copy_validation_ca59c9-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/roswell_UFO_ramey_me_6248d5_greenwood_reading_c04240_news_copy_validation_ca59c9-Illustration-1-light.svg" | relative_url }}" width="1920" height="1080" loading="lazy" decoding="async" fetchpriority="low"><figcaption class="article-media-caption"><span class="article-media-caption-label">Explanatory illustration 1</span></figcaption></figure>
 
-That makes [Greenwood]({{ 'greenwood/' | relative_url }})’s reading plausible in a meaningful sense. It does not, however, validate it as a transcription of the photographed sheet. Greenwood used known newspaper language to interpret characters already near the limit of photographic resolution. The same external information that makes a reconstruction coherent can also prime the reader to complete uncertain shapes. Experimental research on the [Ramey]({{ 'ramey/' | relative_url }}) memo found precisely this problem: people given different contextual suggestions produced readings influenced by those suggestions.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://citeseerx.ist.psu.edu/document?doi=e162b50a3885a28c826cb31c3deca69abaaba9ee&amp;repid=rep1&amp;type=pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: citeseerx.ist.psu.edu">[CiteSeerX]</a><span class="citation-popover" role="note"><span class="citation-popover-source">citeseerx.ist.psu.edu</span><span class="citation-popover-snippet">Journal of Scientific Exploration, Vol. 16, No. 1, pp. 45–66, 2002October 19, 2025...</span><span class="citation-popover-meta">Published: October 19, 2025</span></span></span>
+That makes [Greenwood]({{ 'greenwood/' | relative_url }})’s reading plausible in a meaningful sense. It does not, however, validate it as a transcription of the photographed sheet. Greenwood used known newspaper language to interpret characters already near the limit of photographic resolution. The same external information that makes a reconstruction coherent can also prime the reader to complete uncertain shapes. Experimental research on the [Ramey]({{ 'ramey/' | relative_url }}) memo found precisely this problem: people given different contextual suggestions produced readings influenced by those suggestions.<span class="citation-link-wrap">[CiteSeerX]<span class="citation-popover" role="note"><span class="citation-popover-source">citeseerx.ist.psu.edu</span><span class="citation-popover-snippet">Journal of Scientific Exploration, Vol. 16, No. 1, pp. 45–66, 2002October 19, 2025...</span><span class="citation-popover-meta">Published: October 19, 2025</span></span></span>
 
 The news-copy test therefore has two distinct results. It strengthens the case that Greenwood identified a historically possible phrase and a plausible source tradition. It does not establish that those are the characters actually printed on the memo.
 
@@ -396,9 +396,9 @@ Greenwood himself recognised the difficulty. He argued that wire-service materia
 
 ## Context can make uncertain letters look inevitable
 
-The largest methodological warning comes from an experiment conducted specifically on the Ramey memo by James Houran and Kevin Randle. They randomly assigned participants to three conditions: 59 were told that the document concerned the Roswell UFO case, 58 were told that it concerned secret atomic-bomb testing, and 59 received no suggested subject. The purpose was to determine how much expectations could influence attempts to decipher the degraded photograph.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://citeseerx.ist.psu.edu/document?doi=e162b50a3885a28c826cb31c3deca69abaaba9ee&amp;repid=rep1&amp;type=pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: citeseerx.ist.psu.edu">[CiteSeerX]</a><span class="citation-popover" role="note"><span class="citation-popover-source">citeseerx.ist.psu.edu</span><span class="citation-popover-snippet">Journal of Scientific Exploration, Vol. 16, No. 1, pp. 45–66, 2002October 19, 2025...</span><span class="citation-popover-meta">Published: October 19, 2025</span></span></span>
+The largest methodological warning comes from an experiment conducted specifically on the Ramey memo by James Houran and Kevin Randle. They randomly assigned participants to three conditions: 59 were told that the document concerned the Roswell UFO case, 58 were told that it concerned secret atomic-bomb testing, and 59 received no suggested subject. The purpose was to determine how much expectations could influence attempts to decipher the degraded photograph.<span class="citation-link-wrap">[CiteSeerX]<span class="citation-popover" role="note"><span class="citation-popover-source">citeseerx.ist.psu.edu</span><span class="citation-popover-snippet">Journal of Scientific Exploration, Vol. 16, No. 1, pp. 45–66, 2002October 19, 2025...</span><span class="citation-popover-meta">Published: October 19, 2025</span></span></span>
 
-The study found evidence that suggestion affected interpretation and concluded that the available photograph contained insufficient information for the confident reconstructions then being claimed. The result does not show that Greenwood’s particular reading is false — his later “Warren Haught” proposal was not the specific hypothesis being tested — but it identifies exactly the perceptual mechanism that makes the newspaper comparison hazardous.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://citeseerx.ist.psu.edu/document?doi=e162b50a3885a28c826cb31c3deca69abaaba9ee&amp;repid=rep1&amp;type=pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: citeseerx.ist.psu.edu">[CiteSeerX]</a><span class="citation-popover" role="note"><span class="citation-popover-source">citeseerx.ist.psu.edu</span><span class="citation-popover-snippet">Journal of Scientific Exploration, Vol. 16, No. 1, pp. 45–66, 2002October 19, 2025...</span><span class="citation-popover-meta">Published: October 19, 2025</span></span></span>
+The study found evidence that suggestion affected interpretation and concluded that the available photograph contained insufficient information for the confident reconstructions then being claimed. The result does not show that Greenwood’s particular reading is false — his later “Warren Haught” proposal was not the specific hypothesis being tested — but it identifies exactly the perceptual mechanism that makes the newspaper comparison hazardous.<span class="citation-link-wrap">[CiteSeerX]<span class="citation-popover" role="note"><span class="citation-popover-source">citeseerx.ist.psu.edu</span><span class="citation-popover-snippet">Journal of Scientific Exploration, Vol. 16, No. 1, pp. 45–66, 2002October 19, 2025...</span><span class="citation-popover-meta">Published: October 19, 2025</span></span></span>
 
 Once a researcher knows that an authentic Roswell report says “Warren Haught”, a fuzzy sequence resembling “GHT” is no longer being examined without expectations. The researcher now knows what letters ought to precede it, what word ought to come before it, what occupation might follow and what place name would make the sentence grammatical. Each successful-looking completion then makes the next one easier to perceive.
 
@@ -432,7 +432,7 @@ The decisive test would be whether the memo itself contains enough recoverable i
 
 A useful test would give [independent readers]({{ 'reader-convergence/' | relative_url }}) the highest-quality scan available without revealing Greenwood’s reconstruction, ask them to mark only characters or character features they can distinguish, and then compare those observations with competing proposed readings. Particularly diagnostic letters should matter more than generic shapes. If blinded readers repeatedly recovered the unusual sequence corresponding to “HAUGHT”, for example, its independent appearance in July 1947 newspapers would become much more significant.
 
-Conversely, if readers recognise “HAUGHT” mainly after seeing the newspaper wording, the period copy is demonstrating the danger as much as the promise of contextual reconstruction. Houran and Randle’s experiment gives a concrete reason to demand such blinding: suggested subject matter can alter what readers report seeing in this particular degraded document.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://citeseerx.ist.psu.edu/document?doi=e162b50a3885a28c826cb31c3deca69abaaba9ee&amp;repid=rep1&amp;type=pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: citeseerx.ist.psu.edu">[CiteSeerX]</a><span class="citation-popover" role="note"><span class="citation-popover-source">citeseerx.ist.psu.edu</span><span class="citation-popover-snippet">Journal of Scientific Exploration, Vol. 16, No. 1, pp. 45–66, 2002October 19, 2025...</span><span class="citation-popover-meta">Published: October 19, 2025</span></span></span>
+Conversely, if readers recognise “HAUGHT” mainly after seeing the newspaper wording, the period copy is demonstrating the danger as much as the promise of contextual reconstruction. Houran and Randle’s experiment gives a concrete reason to demand such blinding: suggested subject matter can alter what readers report seeing in this particular degraded document.<span class="citation-link-wrap">[CiteSeerX]<span class="citation-popover" role="note"><span class="citation-popover-source">citeseerx.ist.psu.edu</span><span class="citation-popover-snippet">Journal of Scientific Exploration, Vol. 16, No. 1, pp. 45–66, 2002October 19, 2025...</span><span class="citation-popover-meta">Published: October 19, 2025</span></span></span>
 
 The strongest conclusion is therefore narrower than either outright acceptance or dismissal. Greenwood discovered a genuine and unusually relevant historical parallel. “Warren Haught” was real 1947 press language, and the surrounding descriptions of Haut’s role make his proposed sentence a credible candidate for what a Roswell-related news teletype might have said. That materially strengthens the plausibility of his competing interpretation.
 
@@ -862,7 +862,7 @@ But period news copy cannot by itself validate the reconstruction. Once the news
 
 6.<a id="endnote-6"></a>
    Source: citeseerx.ist.psu.edu  
-   Link:<a href="https://citeseerx.ist.psu.edu/document?doi=e162b50a3885a28c826cb31c3deca69abaaba9ee&amp;repid=rep1&amp;type=pdf" target="_blank" rel="noopener noreferrer nofollow">https://citeseerx.ist.psu.edu/document?doi=e162b50a3885a28c826cb31c3deca69abaaba9ee&amp;repid=rep1&amp;type=pdf</a>  
+   Link:https://citeseerx.ist.psu.edu/document?doi=e162b50a3885a28c826cb31c3deca69abaaba9ee&amp;repid=rep1&amp;type=pdf  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>Journal of Scientific Exploration, Vol. 16, No. 1, pp. 45–66, 2002October 19, 2025...</p></details>
    Published: October 19, 2025  
 
@@ -948,12 +948,12 @@ But period news copy cannot by itself validate the reconstruction. Once the news
 23.<a id="endnote-23"></a>
    Source: unexplained-mysteries.com  
    Title: The Ramey Memo  
-   Link:<a href="https://www.unexplained-mysteries.com/forum/topic/250481-the-ramey-memo/?comment=4834994&amp;do=findComment" target="_blank" rel="noopener noreferrer nofollow">https://www.unexplained-mysteries.com/forum/topic/250481-the-ramey-memo/?comment=4834994&amp;do=findComment</a>  
+   Link:https://www.unexplained-mysteries.com/forum/topic/250481-the-ramey-memo/?comment=4834994&amp;do=findComment  
 
 24.<a id="endnote-24"></a>
    Source: unexplained-mysteries.com  
    Title: The Ramey Memo  
-   Link:<a href="https://www.unexplained-mysteries.com/forum/topic/250481-the-ramey-memo/?comment=4834393&amp;do=findComment" target="_blank" rel="noopener noreferrer nofollow">https://www.unexplained-mysteries.com/forum/topic/250481-the-ramey-memo/?comment=4834393&amp;do=findComment</a>  
+   Link:https://www.unexplained-mysteries.com/forum/topic/250481-the-ramey-memo/?comment=4834393&amp;do=findComment  
 
 25.<a id="endnote-25"></a>
    Source: unexplained-mysteries.com  
@@ -963,12 +963,12 @@ But period news copy cannot by itself validate the reconstruction. Once the news
 26.<a id="endnote-26"></a>
    Source: unexplained-mysteries.com  
    Title: The Ramey Memo  
-   Link:<a href="https://www.unexplained-mysteries.com/forum/topic/250481-the-ramey-memo/page/7/" target="_blank" rel="noopener noreferrer nofollow">https://www.unexplained-mysteries.com/forum/topic/250481-the-ramey-memo/page/7/</a>  
+   Link:https://www.unexplained-mysteries.com/forum/topic/250481-the-ramey-memo/page/7/  
 
 27.<a id="endnote-27"></a>
    Source: unexplained-mysteries.com  
    Title: The Ramey Memo  
-   Link:<a href="https://www.unexplained-mysteries.com/forum/topic/250481-the-ramey-memo/page/5/" target="_blank" rel="noopener noreferrer nofollow">https://www.unexplained-mysteries.com/forum/topic/250481-the-ramey-memo/page/5/</a>  
+   Link:https://www.unexplained-mysteries.com/forum/topic/250481-the-ramey-memo/page/5/  
 
 28.<a id="endnote-28"></a>
    Source: unexplained-mysteries.com  

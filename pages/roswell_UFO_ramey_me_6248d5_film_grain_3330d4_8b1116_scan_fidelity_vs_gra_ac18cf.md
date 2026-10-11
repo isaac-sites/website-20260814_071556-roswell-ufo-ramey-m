@@ -1247,7 +1247,7 @@ For the Ramey memo, then, the strongest claim that can be made for a finer scan 
 86.<a id="endnote-86"></a>
    Source: unexplained-mysteries.com  
    Title: The Ramey Memo  
-   Link:<a href="https://www.unexplained-mysteries.com/forum/topic/250481-the-ramey-memo/page/7/" target="_blank" rel="noopener noreferrer nofollow">https://www.unexplained-mysteries.com/forum/topic/250481-the-ramey-memo/page/7/</a>  
+   Link:https://www.unexplained-mysteries.com/forum/topic/250481-the-ramey-memo/page/7/  
 
 87.<a id="endnote-87"></a>
    Source: blogs.loc.gov  

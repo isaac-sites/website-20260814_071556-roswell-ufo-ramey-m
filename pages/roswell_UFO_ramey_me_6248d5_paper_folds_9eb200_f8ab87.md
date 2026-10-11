@@ -526,7 +526,7 @@ That acknowledgement is important because it separates two different operations.
 
 ## Perspective can change a letter before blur is considered
 
-The memo’s orientation introduces another problem that is easy to underestimate. The sheet is not photographed straight on. Houran and Randle’s 2002 study described the page as tilted rather than front-facing, while regarding the angle as modest enough that at least some wording might conceivably be extracted.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://citeseerx.ist.psu.edu/document?doi=e162b50a3885a28c826cb31c3deca69abaaba9ee&amp;repid=rep1&amp;type=pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: citeseerx.ist.psu.edu">[CiteSeerX]</a><span class="citation-popover" role="note"><span class="citation-popover-source">citeseerx.ist.psu.edu</span><span class="citation-popover-snippet">Journal of Scientific Exploration, Vol. 16, No. 1, pp. 45–66, 2002...</span></span></span>
+The memo’s orientation introduces another problem that is easy to underestimate. The sheet is not photographed straight on. Houran and Randle’s 2002 study described the page as tilted rather than front-facing, while regarding the angle as modest enough that at least some wording might conceivably be extracted.<span class="citation-link-wrap">[CiteSeerX]<span class="citation-popover" role="note"><span class="citation-popover-source">citeseerx.ist.psu.edu</span><span class="citation-popover-snippet">Journal of Scientific Exploration, Vol. 16, No. 1, pp. 45–66, 2002...</span></span></span>
 
 Even a moderate perspective angle matters when the characters are already close to the resolving limit of the photograph. The farther a surface turns away from the camera, the less image space is available in the foreshortened direction. A letter that would occupy a particular height on a front-facing page may be represented by substantially fewer image elements once projected obliquely.
 
@@ -1166,7 +1166,7 @@ For the most disputed Ramey memo phrases, the relevant question is therefore not
 
 34.<a id="endnote-34"></a>
    Source: citeseerx.ist.psu.edu  
-   Link:<a href="https://citeseerx.ist.psu.edu/document?doi=e162b50a3885a28c826cb31c3deca69abaaba9ee&amp;repid=rep1&amp;type=pdf" target="_blank" rel="noopener noreferrer nofollow">https://citeseerx.ist.psu.edu/document?doi=e162b50a3885a28c826cb31c3deca69abaaba9ee&amp;repid=rep1&amp;type=pdf</a>  
+   Link:https://citeseerx.ist.psu.edu/document?doi=e162b50a3885a28c826cb31c3deca69abaaba9ee&amp;repid=rep1&amp;type=pdf  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>Journal of Scientific Exploration, Vol. 16, No. 1, pp. 45–66, 2002...</p></details>
 
 35.<a id="endnote-35"></a>

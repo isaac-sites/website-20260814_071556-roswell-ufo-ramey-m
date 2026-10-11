@@ -400,7 +400,7 @@ For the Ramey memo, three checks would be particularly informative.
 
 **Second, inspect disputed characters alongside the unrectified pixels.** A transformed image may show a beautifully regular text line, but the evidential question is which of its apparent strokes can actually be traced back to recorded tonal structure in the source. This is especially important around the upper and central folds, where even an advocate of extensive rectification reports smearing and uncertain character positions.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://kevinrandle.blogspot.com/2018/12/david-rudiaks-latest-on-ramey-memo.html?showComment=1546118226661" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: kevinrandle.blogspot.com">[Kevin Randle&#x27;s Blog]</a><span class="citation-popover" role="note"><span class="citation-popover-source">kevinrandle.blogspot.com</span><span class="citation-popover-snippet">Kevin Randle&#x27;s BlogA Different Perspective: David Rudiak&#x27;s Latest on the Ramey MemoDecember 19, 2018...</span><span class="citation-popover-meta">Published: December 19, 2018</span></span></span>
 
-**Third, separate geometric assumptions from linguistic assumptions.** If equal character spacing, all-capital typography or a particular word length is imposed while constructing the warp, those constraints should not subsequently be counted as independent visual evidence that the resulting transcription has the expected spacing, capitals or word length. The 2002 discussion of the memo itself proposed analysing structural features such as character spacing and positions, but the continuing disagreement over readings shows why assumptions and observations need to be kept distinct.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://citeseerx.ist.psu.edu/document?doi=e162b50a3885a28c826cb31c3deca69abaaba9ee&amp;repid=rep1&amp;type=pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: citeseerx.ist.psu.edu">[CiteSeerX]</a><span class="citation-popover" role="note"><span class="citation-popover-source">citeseerx.ist.psu.edu</span><span class="citation-popover-snippet">Open source on psu.edu.</span></span></span>
+**Third, separate geometric assumptions from linguistic assumptions.** If equal character spacing, all-capital typography or a particular word length is imposed while constructing the warp, those constraints should not subsequently be counted as independent visual evidence that the resulting transcription has the expected spacing, capitals or word length. The 2002 discussion of the memo itself proposed analysing structural features such as character spacing and positions, but the continuing disagreement over readings shows why assumptions and observations need to be kept distinct.<span class="citation-link-wrap">[CiteSeerX]<span class="citation-popover" role="note"><span class="citation-popover-source">citeseerx.ist.psu.edu</span><span class="citation-popover-snippet">Open source on psu.edu.</span></span></span>
 
 The most revealing test is therefore not “Which corrected image looks clearest?” but “Which features survive when reasonable correction choices change?”
 
@@ -984,7 +984,7 @@ For disputed Ramey memo letters, the most credible result is therefore one that 
 
 33.<a id="endnote-33"></a>
    Source: citeseerx.ist.psu.edu  
-   Link:<a href="https://citeseerx.ist.psu.edu/document?doi=e162b50a3885a28c826cb31c3deca69abaaba9ee&amp;repid=rep1&amp;type=pdf" target="_blank" rel="noopener noreferrer nofollow">https://citeseerx.ist.psu.edu/document?doi=e162b50a3885a28c826cb31c3deca69abaaba9ee&amp;repid=rep1&amp;type=pdf</a>  
+   Link:https://citeseerx.ist.psu.edu/document?doi=e162b50a3885a28c826cb31c3deca69abaaba9ee&amp;repid=rep1&amp;type=pdf  
 
 34.<a id="endnote-34"></a>
    Source: pmc.ncbi.nlm.nih.gov  
@@ -1105,12 +1105,12 @@ For disputed Ramey memo letters, the most credible result is therefore one that 
 60.<a id="endnote-60"></a>
    Source: unexplained-mysteries.com  
    Title: The Ramey Memo  
-   Link:<a href="https://www.unexplained-mysteries.com/forum/topic/250481-the-ramey-memo/page/4/" target="_blank" rel="noopener noreferrer nofollow">https://www.unexplained-mysteries.com/forum/topic/250481-the-ramey-memo/page/4/</a>  
+   Link:https://www.unexplained-mysteries.com/forum/topic/250481-the-ramey-memo/page/4/  
 
 61.<a id="endnote-61"></a>
    Source: unexplained-mysteries.com  
    Title: The Ramey Memo  
-   Link:<a href="https://www.unexplained-mysteries.com/forum/topic/250481-the-ramey-memo/page/7/" target="_blank" rel="noopener noreferrer nofollow">https://www.unexplained-mysteries.com/forum/topic/250481-the-ramey-memo/page/7/</a>  
+   Link:https://www.unexplained-mysteries.com/forum/topic/250481-the-ramey-memo/page/7/  
 
 62.<a id="endnote-62"></a>
    Source: kevinrandle.blogspot.com  

@@ -397,7 +397,7 @@ The distinction between *hard to rectify* and *impossible to recover* is crucial
 
 ## Why enhancement cannot make the three zones equivalent
 
-The history of attempts to read the memo demonstrates that better source material and better processing do not automatically produce agreement. Houran and Randle's 2002 study used an enlarged print and several high-resolution versions derived from University of Texas at Arlington material. Their experiment found substantial disagreement among readers and warned about perceptual and contextual confounds in deciphering the memo.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://citeseerx.ist.psu.edu/document?doi=e162b50a3885a28c826cb31c3deca69abaaba9ee&amp;repid=rep1&amp;type=pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: citeseerx.ist.psu.edu">[CiteSeerX]</a><span class="citation-popover" role="note"><span class="citation-popover-source">citeseerx.ist.psu.edu</span><span class="citation-popover-snippet">Journal of Scientific Exploration, Vol. 16, No. 1, pp. 45–66, 2002October 19, 2025...</span><span class="citation-popover-meta">Published: October 19, 2025</span></span></span>
+The history of attempts to read the memo demonstrates that better source material and better processing do not automatically produce agreement. Houran and Randle's 2002 study used an enlarged print and several high-resolution versions derived from University of Texas at Arlington material. Their experiment found substantial disagreement among readers and warned about perceptual and contextual confounds in deciphering the memo.<span class="citation-link-wrap">[CiteSeerX]<span class="citation-popover" role="note"><span class="citation-popover-source">citeseerx.ist.psu.edu</span><span class="citation-popover-snippet">Journal of Scientific Exploration, Vol. 16, No. 1, pp. 45–66, 2002October 19, 2025...</span><span class="citation-popover-meta">Published: October 19, 2025</span></span></span>
 
 This does not establish that every proposed word is wrong. It does establish that the source is ambiguous enough for expectations and contextual inference to matter. That problem becomes most acute in the folded zones, where geometric processing introduces another layer of interpretation between the negative and the proposed letters.
 
@@ -868,7 +868,7 @@ They are not equivalent. The upper fold and central fold are chiefly difficult b
 
 10.<a id="endnote-10"></a>
    Source: citeseerx.ist.psu.edu  
-   Link:<a href="https://citeseerx.ist.psu.edu/document?doi=e162b50a3885a28c826cb31c3deca69abaaba9ee&amp;repid=rep1&amp;type=pdf" target="_blank" rel="noopener noreferrer nofollow">https://citeseerx.ist.psu.edu/document?doi=e162b50a3885a28c826cb31c3deca69abaaba9ee&amp;repid=rep1&amp;type=pdf</a>  
+   Link:https://citeseerx.ist.psu.edu/document?doi=e162b50a3885a28c826cb31c3deca69abaaba9ee&amp;repid=rep1&amp;type=pdf  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>Journal of Scientific Exploration, Vol. 16, No. 1, pp. 45–66, 2002October 19, 2025...</p></details>
    Published: October 19, 2025  
 
@@ -949,7 +949,7 @@ They are not equivalent. The upper fold and central fold are chiefly difficult b
 27.<a id="endnote-27"></a>
    Source: unexplained-mysteries.com  
    Title: The Ramey Memo  
-   Link:<a href="https://www.unexplained-mysteries.com/forum/topic/250481-the-ramey-memo/page/7/" target="_blank" rel="noopener noreferrer nofollow">https://www.unexplained-mysteries.com/forum/topic/250481-the-ramey-memo/page/7/</a>  
+   Link:https://www.unexplained-mysteries.com/forum/topic/250481-the-ramey-memo/page/7/  
 
 28.<a id="endnote-28"></a>
    Source: unexplained-mysteries.com  

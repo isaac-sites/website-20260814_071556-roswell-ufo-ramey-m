@@ -365,7 +365,7 @@ A reproducible feature should survive variation in the way the image is handled.
 
 Useful comparison points include:
 
-* **Different source images:** A feature appearing in one scan but absent in another may reflect copying, contrast changes or handling damage rather than the original photograph. The Ramey memo has been studied using different photographic materials, including prints and [negative]({{ 'negative/' | relative_url }})-based sources, because each preserves slightly different information.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://citeseerx.ist.psu.edu/document?doi=e162b50a3885a28c826cb31c3deca69abaaba9ee&amp;repid=rep1&amp;type=pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: citeseerx.ist.psu.edu">[CiteSeerX]</a><span class="citation-popover" role="note"><span class="citation-popover-source">citeseerx.ist.psu.edu</span><span class="citation-popover-snippet">Journal of Scientific Exploration, Vol. 16, No. 1, pp. 45–66, 2002October 19, 2025...</span><span class="citation-popover-meta">Published: October 19, 2025</span></span></span>
+* **Different source images:** A feature appearing in one scan but absent in another may reflect copying, contrast changes or handling damage rather than the original photograph. The Ramey memo has been studied using different photographic materials, including prints and [negative]({{ 'negative/' | relative_url }})-based sources, because each preserves slightly different information.<span class="citation-link-wrap">[CiteSeerX]<span class="citation-popover" role="note"><span class="citation-popover-source">citeseerx.ist.psu.edu</span><span class="citation-popover-snippet">Journal of Scientific Exploration, Vol. 16, No. 1, pp. 45–66, 2002October 19, 2025...</span><span class="citation-popover-meta">Published: October 19, 2025</span></span></span>
 * **Different enhancement strengths:** A genuine structure should usually become clearer gradually as processing improves visibility. If a letter appears only after extreme sharpening or thresholding, [confidence]({{ 'confidence/' | relative_url }}) should decrease because the processing may be generating the appearance.
 
 <div class="content-enhancement content-enhancement--comparison" markdown="1">
@@ -891,7 +891,7 @@ For a photograph as limited as the Ramey memo, reproducibility is the dividing l
 
 15.<a id="endnote-15"></a>
    Source: citeseerx.ist.psu.edu  
-   Link:<a href="https://citeseerx.ist.psu.edu/document?doi=e162b50a3885a28c826cb31c3deca69abaaba9ee&amp;repid=rep1&amp;type=pdf" target="_blank" rel="noopener noreferrer nofollow">https://citeseerx.ist.psu.edu/document?doi=e162b50a3885a28c826cb31c3deca69abaaba9ee&amp;repid=rep1&amp;type=pdf</a>  
+   Link:https://citeseerx.ist.psu.edu/document?doi=e162b50a3885a28c826cb31c3deca69abaaba9ee&amp;repid=rep1&amp;type=pdf  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>Journal of Scientific Exploration, Vol. 16, No. 1, pp. 45–66, 2002October 19, 2025...</p></details>
    Published: October 19, 2025  
 
@@ -902,17 +902,17 @@ For a photograph as limited as the Ramey memo, reproducibility is the dividing l
 17.<a id="endnote-17"></a>
    Source: unexplained-mysteries.com  
    Title: The Ramey Memo  
-   Link:<a href="https://www.unexplained-mysteries.com/forum/topic/250481-the-ramey-memo/?comment=4833055&amp;do=findComment" target="_blank" rel="noopener noreferrer nofollow">https://www.unexplained-mysteries.com/forum/topic/250481-the-ramey-memo/?comment=4833055&amp;do=findComment</a>  
+   Link:https://www.unexplained-mysteries.com/forum/topic/250481-the-ramey-memo/?comment=4833055&amp;do=findComment  
 
 18.<a id="endnote-18"></a>
    Source: unexplained-mysteries.com  
    Title: The Ramey Memo  
-   Link:<a href="https://www.unexplained-mysteries.com/forum/topic/250481-the-ramey-memo/?comment=4834994&amp;do=findComment" target="_blank" rel="noopener noreferrer nofollow">https://www.unexplained-mysteries.com/forum/topic/250481-the-ramey-memo/?comment=4834994&amp;do=findComment</a>  
+   Link:https://www.unexplained-mysteries.com/forum/topic/250481-the-ramey-memo/?comment=4834994&amp;do=findComment  
 
 19.<a id="endnote-19"></a>
    Source: unexplained-mysteries.com  
    Title: The Ramey Memo  
-   Link:<a href="https://www.unexplained-mysteries.com/forum/topic/250481-the-ramey-memo/?comment=4836015&amp;do=findComment" target="_blank" rel="noopener noreferrer nofollow">https://www.unexplained-mysteries.com/forum/topic/250481-the-ramey-memo/?comment=4836015&amp;do=findComment</a>  
+   Link:https://www.unexplained-mysteries.com/forum/topic/250481-the-ramey-memo/?comment=4836015&amp;do=findComment  
 
 20.<a id="endnote-20"></a>
    Source: unexplained-mysteries.com  

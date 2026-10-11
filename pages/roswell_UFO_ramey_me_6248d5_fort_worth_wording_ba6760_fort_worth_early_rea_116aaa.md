@@ -361,7 +361,7 @@ The comparison can therefore be reduced to a revealing pattern:
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * **Johnson's team:** included “AT FORT WORTH, TEX” within a much longer, highly disputed reconstruction.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://noufors.com/Documents/Books%2C%20Manuals%20and%20Published%20Papers/Specialty%20UFO%20Publications/Journal%20of%20Scientific%20Exploration/jse_16_1_houran.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: noufors.com">[noufors.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">noufors.com</span><span class="citation-popover-snippet">Open source on noufors.com.</span></span></span>
-* **Neil Morris:** produced a transcription in which most of the surrounding material changed, but “Fort Worth, Texas” remained.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://citeseerx.ist.psu.edu/document?doi=e162b50a3885a28c826cb31c3deca69abaaba9ee&amp;repid=rep1&amp;type=pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: citeseerx.ist.psu.edu">[CiteSeerX]</a><span class="citation-popover" role="note"><span class="citation-popover-source">citeseerx.ist.psu.edu</span><span class="citation-popover-snippet">Journal of Scientific Exploration, Vol. 16, No. 1, pp. 45–66, 2002...</span></span></span>
+* **Neil Morris:** produced a transcription in which most of the surrounding material changed, but “Fort Worth, Texas” remained.<span class="citation-link-wrap">[CiteSeerX]<span class="citation-popover" role="note"><span class="citation-popover-source">citeseerx.ist.psu.edu</span><span class="citation-popover-snippet">Journal of Scientific Exploration, Vol. 16, No. 1, pp. 45–66, 2002...</span></span></span>
 * **John Kirby:** reported being unable to make out much of the document, disagreed over important nearby wording, yet still accepted “At Fort Worth, Tex.”<span class="citation-link-wrap"><a class="citation-inline-link" href="https://noufors.com/Documents/Books%2C%20Manuals%20and%20Published%20Papers/Specialty%20UFO%20Publications/Journal%20of%20Scientific%20Exploration/jse_16_1_houran.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: noufors.com">[noufors.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">noufors.com</span><span class="citation-popover-snippet">Open source on noufors.com.</span></span></span>
 
 </div>
@@ -959,7 +959,7 @@ The surviving agreement should therefore be used asymmetrically. It gives reason
 
 37.<a id="endnote-37"></a>
    Source: citeseerx.ist.psu.edu  
-   Link:<a href="https://citeseerx.ist.psu.edu/document?doi=e162b50a3885a28c826cb31c3deca69abaaba9ee&amp;repid=rep1&amp;type=pdf" target="_blank" rel="noopener noreferrer nofollow">https://citeseerx.ist.psu.edu/document?doi=e162b50a3885a28c826cb31c3deca69abaaba9ee&amp;repid=rep1&amp;type=pdf</a>  
+   Link:https://citeseerx.ist.psu.edu/document?doi=e162b50a3885a28c826cb31c3deca69abaaba9ee&amp;repid=rep1&amp;type=pdf  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>Journal of Scientific Exploration, Vol. 16, No. 1, pp. 45–66, 2002...</p></details>
 
 38.<a id="endnote-38"></a>
@@ -998,12 +998,12 @@ The surviving agreement should therefore be used asymmetrically. It gives reason
 44.<a id="endnote-44"></a>
    Source: unexplained-mysteries.com  
    Title: The Ramey Memo  
-   Link:<a href="https://www.unexplained-mysteries.com/forum/topic/250481-the-ramey-memo/page/4/" target="_blank" rel="noopener noreferrer nofollow">https://www.unexplained-mysteries.com/forum/topic/250481-the-ramey-memo/page/4/</a>  
+   Link:https://www.unexplained-mysteries.com/forum/topic/250481-the-ramey-memo/page/4/  
 
 45.<a id="endnote-45"></a>
    Source: unexplained-mysteries.com  
    Title: The Ramey Memo  
-   Link:<a href="https://www.unexplained-mysteries.com/forum/topic/250481-the-ramey-memo/page/6/" target="_blank" rel="noopener noreferrer nofollow">https://www.unexplained-mysteries.com/forum/topic/250481-the-ramey-memo/page/6/</a>  
+   Link:https://www.unexplained-mysteries.com/forum/topic/250481-the-ramey-memo/page/6/  
 
 46.<a id="endnote-46"></a>
    Source: unexplained-mysteries.com  
@@ -1013,7 +1013,7 @@ The surviving agreement should therefore be used asymmetrically. It gives reason
 47.<a id="endnote-47"></a>
    Source: unexplained-mysteries.com  
    Title: The Ramey Memo  
-   Link:<a href="https://www.unexplained-mysteries.com/forum/topic/250481-the-ramey-memo/?comment=4836015&amp;do=findComment" target="_blank" rel="noopener noreferrer nofollow">https://www.unexplained-mysteries.com/forum/topic/250481-the-ramey-memo/?comment=4836015&amp;do=findComment</a>  
+   Link:https://www.unexplained-mysteries.com/forum/topic/250481-the-ramey-memo/?comment=4836015&amp;do=findComment  
 
 48.<a id="endnote-48"></a>
    Source: unexplained-mysteries.com  

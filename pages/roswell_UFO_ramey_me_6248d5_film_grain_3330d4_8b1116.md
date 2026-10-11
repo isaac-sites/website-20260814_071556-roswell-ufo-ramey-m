@@ -510,7 +510,7 @@ In the surviving Fort Worth Star-Telegram photograph, General Roger Ramey is hol
 
 This geometry imposes a hard evidential constraint. A typewritten letter consists of several finer components: vertical stems, curved bowls, internal spaces, serifs or typewriter-edge irregularities, and the gaps separating one character from the next. If the image records only a limited number of distinguishable tonal transitions across such a character, several different letters can become compatible with the same pattern. Research on degraded document recognition has long found that low resolution, blur and noise cause characters to break apart or merge, making character segmentation itself unreliable before identification even begins.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sciencedirect.com/science/article/pii/S0167865597001761" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Low resolution, degraded document recognition using neural networks and hidden Markov models - ScienceDirect...</span></span></span>
 
-The Ramey memo is harder still than a conventional low-resolution document scan. It was not photographed as a document. The sheet is angled rather than presented flat to the lens, and its small text is embedded within a scene photograph. Houran and Kevin Randle’s 2002 study described the memo as very difficult to read even using the best image material then available. Their participants examined several enlargements and high-resolution scans derived from the Fort Worth Star-Telegram material, yet recovered relatively little text consistently.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://citeseerx.ist.psu.edu/document?doi=e162b50a3885a28c826cb31c3deca69abaaba9ee&amp;repid=rep1&amp;type=pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: citeseerx.ist.psu.edu">[CiteSeerX]</a><span class="citation-popover" role="note"><span class="citation-popover-source">citeseerx.ist.psu.edu</span><span class="citation-popover-snippet">Journal of Scientific Exploration, Vol. 16, No. 1, pp. 45–66, 2002October 19, 2025...</span><span class="citation-popover-meta">Published: October 19, 2025</span></span></span>
+The Ramey memo is harder still than a conventional low-resolution document scan. It was not photographed as a document. The sheet is angled rather than presented flat to the lens, and its small text is embedded within a scene photograph. Houran and Kevin Randle’s 2002 study described the memo as very difficult to read even using the best image material then available. Their participants examined several enlargements and high-resolution scans derived from the Fort Worth Star-Telegram material, yet recovered relatively little text consistently.<span class="citation-link-wrap">[CiteSeerX]<span class="citation-popover" role="note"><span class="citation-popover-source">citeseerx.ist.psu.edu</span><span class="citation-popover-snippet">Journal of Scientific Exploration, Vol. 16, No. 1, pp. 45–66, 2002October 19, 2025...</span><span class="citation-popover-meta">Published: October 19, 2025</span></span></span>
 
 This is why a sharply enlarged display can be misleading. On screen, an indistinct mark may become ten or twenty millimetres wide, but its apparent size no longer reflects the amount of independent detail captured in 1947. The enlargement has enlarged uncertainty as well as signal.
 
@@ -1250,7 +1250,7 @@ That leaves the Ramey memo in an evidentially awkward but understandable positio
 
 59.<a id="endnote-59"></a>
    Source: citeseerx.ist.psu.edu  
-   Link:<a href="https://citeseerx.ist.psu.edu/document?doi=e162b50a3885a28c826cb31c3deca69abaaba9ee&amp;repid=rep1&amp;type=pdf" target="_blank" rel="noopener noreferrer nofollow">https://citeseerx.ist.psu.edu/document?doi=e162b50a3885a28c826cb31c3deca69abaaba9ee&amp;repid=rep1&amp;type=pdf</a>  
+   Link:https://citeseerx.ist.psu.edu/document?doi=e162b50a3885a28c826cb31c3deca69abaaba9ee&amp;repid=rep1&amp;type=pdf  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>Journal of Scientific Exploration, Vol. 16, No. 1, pp. 45–66, 2002October 19, 2025...</p></details>
    Published: October 19, 2025  
 
@@ -1288,17 +1288,17 @@ That leaves the Ramey memo in an evidentially awkward but understandable positio
 67.<a id="endnote-67"></a>
    Source: unexplained-mysteries.com  
    Title: The Ramey Memo  
-   Link:<a href="https://www.unexplained-mysteries.com/forum/topic/250481-the-ramey-memo/page/7/" target="_blank" rel="noopener noreferrer nofollow">https://www.unexplained-mysteries.com/forum/topic/250481-the-ramey-memo/page/7/</a>  
+   Link:https://www.unexplained-mysteries.com/forum/topic/250481-the-ramey-memo/page/7/  
 
 68.<a id="endnote-68"></a>
    Source: unexplained-mysteries.com  
    Title: The Ramey Memo  
-   Link:<a href="https://www.unexplained-mysteries.com/forum/topic/250481-the-ramey-memo/page/4/" target="_blank" rel="noopener noreferrer nofollow">https://www.unexplained-mysteries.com/forum/topic/250481-the-ramey-memo/page/4/</a>  
+   Link:https://www.unexplained-mysteries.com/forum/topic/250481-the-ramey-memo/page/4/  
 
 69.<a id="endnote-69"></a>
    Source: unexplained-mysteries.com  
    Title: The Ramey Memo  
-   Link:<a href="https://www.unexplained-mysteries.com/forum/topic/250481-the-ramey-memo/page/6/" target="_blank" rel="noopener noreferrer nofollow">https://www.unexplained-mysteries.com/forum/topic/250481-the-ramey-memo/page/6/</a>  
+   Link:https://www.unexplained-mysteries.com/forum/topic/250481-the-ramey-memo/page/6/  
 
 70.<a id="endnote-70"></a>
    Source: blogs.loc.gov  

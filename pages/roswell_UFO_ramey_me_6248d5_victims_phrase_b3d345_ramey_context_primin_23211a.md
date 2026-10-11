@@ -394,7 +394,7 @@ This distinction is crucial. Priming does not mean that a viewer can see absolut
 
 ## What happened to “victims of the wreck”?
 
-For the parent dispute over “victims of the wreck”, the experiment is especially significant because that phrase had already become one of the most consequential proposed readings of the memo. Earlier investigators had repeatedly supplied versions containing “VICTIMS OF THE WRECK”, while another reconstruction substituted a radically different phrase: “ARE THE REMAINS OF THE MATERIAL YOU COMMANDED WE FLY”. The published comparison shows that agreement on the supposedly decisive line was therefore never universal even among dedicated memo researchers.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://citeseerx.ist.psu.edu/document?doi=e162b50a3885a28c826cb31c3deca69abaaba9ee&amp;repid=rep1&amp;type=pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: citeseerx.ist.psu.edu">[CiteSeerX]</a><span class="citation-popover" role="note"><span class="citation-popover-source">citeseerx.ist.psu.edu</span><span class="citation-popover-snippet">Journal of Scientific Exploration, Vol. 16, No. 1, pp. 45–66, 2002October 19, 2025...</span><span class="citation-popover-meta">Published: October 19, 2025</span></span></span>
+For the parent dispute over “victims of the wreck”, the experiment is especially significant because that phrase had already become one of the most consequential proposed readings of the memo. Earlier investigators had repeatedly supplied versions containing “VICTIMS OF THE WRECK”, while another reconstruction substituted a radically different phrase: “ARE THE REMAINS OF THE MATERIAL YOU COMMANDED WE FLY”. The published comparison shows that agreement on the supposedly decisive line was therefore never universal even among dedicated memo researchers.<span class="citation-link-wrap">[CiteSeerX]<span class="citation-popover" role="note"><span class="citation-popover-source">citeseerx.ist.psu.edu</span><span class="citation-popover-snippet">Journal of Scientific Exploration, Vol. 16, No. 1, pp. 45–66, 2002October 19, 2025...</span><span class="citation-popover-meta">Published: October 19, 2025</span></span></span>
 
 The experimental participants did **not** independently reproduce “victims of the wreck” as one of the study's cross-condition [consensus]({{ 'consensus/' | relative_url }}) readings. Even in the Roswell-primed condition, the distinctive words reported in Table 3 include “remains”, “crash” and “UFO”, but not “victims”. By contrast, the words surviving across conditions were much less dramatic: “Fort Worth TX”, “story” and “weather balloons”.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/228706129_A_Message_in_a_Bottle_Confounds_in_Deciphering_the_Ramey_Memo_from_the_Roswell_UFO_Case" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">Open source on researchgate.net.</span></span></span>
 
@@ -902,7 +902,7 @@ The appropriate conclusion is therefore narrower than either extreme. The primin
 
 15.<a id="endnote-15"></a>
    Source: citeseerx.ist.psu.edu  
-   Link:<a href="https://citeseerx.ist.psu.edu/document?doi=e162b50a3885a28c826cb31c3deca69abaaba9ee&amp;repid=rep1&amp;type=pdf" target="_blank" rel="noopener noreferrer nofollow">https://citeseerx.ist.psu.edu/document?doi=e162b50a3885a28c826cb31c3deca69abaaba9ee&amp;repid=rep1&amp;type=pdf</a>  
+   Link:https://citeseerx.ist.psu.edu/document?doi=e162b50a3885a28c826cb31c3deca69abaaba9ee&amp;repid=rep1&amp;type=pdf  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>Journal of Scientific Exploration, Vol. 16, No. 1, pp. 45–66, 2002October 19, 2025...</p></details>
    Published: October 19, 2025  
 
@@ -916,7 +916,7 @@ The appropriate conclusion is therefore narrower than either extreme. The primin
 17.<a id="endnote-17"></a>
    Source: unexplained-mysteries.com  
    Title: The Ramey Memo  
-   Link:<a href="https://www.unexplained-mysteries.com/forum/topic/250481-the-ramey-memo/page/6/" target="_blank" rel="noopener noreferrer nofollow">https://www.unexplained-mysteries.com/forum/topic/250481-the-ramey-memo/page/6/</a>  
+   Link:https://www.unexplained-mysteries.com/forum/topic/250481-the-ramey-memo/page/6/  
 
 18.<a id="endnote-18"></a>
    Source: digital.library.adelaide.edu.au  

@@ -1184,7 +1184,7 @@ For the Ramey memo, the strongest claim an enhanced edge can support on its own 
 75.<a id="endnote-75"></a>
    Source: unexplained-mysteries.com  
    Title: The Ramey Memo  
-   Link:<a href="https://www.unexplained-mysteries.com/forum/topic/250481-the-ramey-memo/page/7/" target="_blank" rel="noopener noreferrer nofollow">https://www.unexplained-mysteries.com/forum/topic/250481-the-ramey-memo/page/7/</a>  
+   Link:https://www.unexplained-mysteries.com/forum/topic/250481-the-ramey-memo/page/7/  
 
 76.<a id="endnote-76"></a>
    Source: unexplained-mysteries.com  

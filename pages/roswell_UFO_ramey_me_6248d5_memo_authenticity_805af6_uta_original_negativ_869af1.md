@@ -392,7 +392,7 @@ There is nevertheless an important limit to what should be called a “chain of 
 
 That distinction prevents the provenance argument from becoming stronger than the records justify. It is reasonable to say that the surviving negative has a documented archival lineage through the newspaper collection. It would be excessive to claim that a publicly available handling log accounts for every movement or examination of that individual negative over nearly eight decades.
 
-Handling itself may also matter to image analysis. Houran and Randle's 2002 paper referred to an older print made before the original negative had undergone as much handling, alongside later enlargements and scans.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://citeseerx.ist.psu.edu/document?doi=e162b50a3885a28c826cb31c3deca69abaaba9ee&amp;repid=rep1&amp;type=pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: citeseerx.ist.psu.edu">[CiteSeerX]</a><span class="citation-popover" role="note"><span class="citation-popover-source">citeseerx.ist.psu.edu</span><span class="citation-popover-snippet">Journal of Scientific Exploration, Vol. 16, No. 1, pp. 45–66, 2002...</span></span></span> Researcher Kevin Randle has separately reported inspecting the original negative at UTA and has published views showing the complete negative and its edge markings, although this is a researcher's account rather than UTA's formal catalogue documentation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://kevinrandle.blogspot.com/2016/05/the-ramey-memo-negative.html?showComment=1462514194505" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: kevinrandle.blogspot.com">[Kevin Randle&#x27;s Blog]</a><span class="citation-popover" role="note"><span class="citation-popover-source">kevinrandle.blogspot.com</span><span class="citation-popover-title">Kevin Randle&#x27;s Blog A Different Perspective: The Ramey Memo Negative</span><span class="citation-popover-snippet">Kevin Randle&#x27;s Blog A Different Perspective: The Ramey Memo Negative</span></span></span> It is therefore useful evidence about research access and physical examination, but secondary to the university's own collection and acquisition records when reconstructing custody.
+Handling itself may also matter to image analysis. Houran and Randle's 2002 paper referred to an older print made before the original negative had undergone as much handling, alongside later enlargements and scans.<span class="citation-link-wrap">[CiteSeerX]<span class="citation-popover" role="note"><span class="citation-popover-source">citeseerx.ist.psu.edu</span><span class="citation-popover-snippet">Journal of Scientific Exploration, Vol. 16, No. 1, pp. 45–66, 2002...</span></span></span> Researcher Kevin Randle has separately reported inspecting the original negative at UTA and has published views showing the complete negative and its edge markings, although this is a researcher's account rather than UTA's formal catalogue documentation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://kevinrandle.blogspot.com/2016/05/the-ramey-memo-negative.html?showComment=1462514194505" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: kevinrandle.blogspot.com">[Kevin Randle&#x27;s Blog]</a><span class="citation-popover" role="note"><span class="citation-popover-source">kevinrandle.blogspot.com</span><span class="citation-popover-title">Kevin Randle&#x27;s Blog A Different Perspective: The Ramey Memo Negative</span><span class="citation-popover-snippet">Kevin Randle&#x27;s Blog A Different Perspective: The Ramey Memo Negative</span></span></span> It is therefore useful evidence about research access and physical examination, but secondary to the university's own collection and acquisition records when reconstructing custody.
 
 
 
@@ -1223,7 +1223,7 @@ For the wider debate over Ramey [memo authenticity]({{ 'authenticity/' | relativ
 
 88.<a id="endnote-88"></a>
    Source: citeseerx.ist.psu.edu  
-   Link:<a href="https://citeseerx.ist.psu.edu/document?doi=e162b50a3885a28c826cb31c3deca69abaaba9ee&amp;repid=rep1&amp;type=pdf" target="_blank" rel="noopener noreferrer nofollow">https://citeseerx.ist.psu.edu/document?doi=e162b50a3885a28c826cb31c3deca69abaaba9ee&amp;repid=rep1&amp;type=pdf</a>  
+   Link:https://citeseerx.ist.psu.edu/document?doi=e162b50a3885a28c826cb31c3deca69abaaba9ee&amp;repid=rep1&amp;type=pdf  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>Journal of Scientific Exploration, Vol. 16, No. 1, pp. 45–66, 2002...</p></details>
 
 89.<a id="endnote-89"></a>
@@ -1288,12 +1288,12 @@ For the wider debate over Ramey [memo authenticity]({{ 'authenticity/' | relativ
 101.<a id="endnote-101"></a>
    Source: unexplained-mysteries.com  
    Title: The Ramey Memo  
-   Link:<a href="https://www.unexplained-mysteries.com/forum/topic/250481-the-ramey-memo/page/7/" target="_blank" rel="noopener noreferrer nofollow">https://www.unexplained-mysteries.com/forum/topic/250481-the-ramey-memo/page/7/</a>  
+   Link:https://www.unexplained-mysteries.com/forum/topic/250481-the-ramey-memo/page/7/  
 
 102.<a id="endnote-102"></a>
    Source: unexplained-mysteries.com  
    Title: The Ramey Memo  
-   Link:<a href="https://www.unexplained-mysteries.com/forum/topic/250481-the-ramey-memo/page/6/" target="_blank" rel="noopener noreferrer nofollow">https://www.unexplained-mysteries.com/forum/topic/250481-the-ramey-memo/page/6/</a>  
+   Link:https://www.unexplained-mysteries.com/forum/topic/250481-the-ramey-memo/page/6/  
 
 103.<a id="endnote-103"></a>
    Source: unexplained-mysteries.com  
@@ -1303,12 +1303,12 @@ For the wider debate over Ramey [memo authenticity]({{ 'authenticity/' | relativ
 104.<a id="endnote-104"></a>
    Source: unexplained-mysteries.com  
    Title: The Ramey Memo  
-   Link:<a href="https://www.unexplained-mysteries.com/forum/topic/250481-the-ramey-memo/page/5/" target="_blank" rel="noopener noreferrer nofollow">https://www.unexplained-mysteries.com/forum/topic/250481-the-ramey-memo/page/5/</a>  
+   Link:https://www.unexplained-mysteries.com/forum/topic/250481-the-ramey-memo/page/5/  
 
 105.<a id="endnote-105"></a>
    Source: unexplained-mysteries.com  
    Title: The Ramey Memo  
-   Link:<a href="https://www.unexplained-mysteries.com/forum/topic/250481-the-ramey-memo/page/4/" target="_blank" rel="noopener noreferrer nofollow">https://www.unexplained-mysteries.com/forum/topic/250481-the-ramey-memo/page/4/</a>  
+   Link:https://www.unexplained-mysteries.com/forum/topic/250481-the-ramey-memo/page/4/  
 
 106.<a id="endnote-106"></a>
    Source: kevinrandle.blogspot.com  

@@ -961,7 +961,7 @@ An AI-enhanced document should help researchers ask better questions, not provid
 
 20.<a id="endnote-20"></a>
    Source: archives.gov  
-   Link:<a href="https://www.archives.gov/records-mgmt/memos/ac" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/records-mgmt/memos/ac</a>  
+   Link:https://www.archives.gov/records-mgmt/memos/ac  
 
 21.<a id="endnote-21"></a>
    Source: archives.gov  

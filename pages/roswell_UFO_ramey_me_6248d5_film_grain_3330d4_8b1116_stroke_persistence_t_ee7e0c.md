@@ -313,7 +313,7 @@ That distinction is important because processing can make weak features easier t
 
 ## What persistence across versions actually means
 
-The Ramey photograph has not been examined through a single digital file. Houran and Randle reported using an enlarged print plus four high-resolution working images derived from Fort Worth Star-Telegram material: a [negative]({{ 'negative/' | relative_url }}) image of the memo region, an enlargement made by the University of Texas at Arlington, an older enlargement and another enlargement produced in 1998. They described these as the best raw data available to their participants at the time.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://citeseerx.ist.psu.edu/document?doi=e162b50a3885a28c826cb31c3deca69abaaba9ee&amp;repid=rep1&amp;type=pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: citeseerx.ist.psu.edu">[CiteSeerX]</a><span class="citation-popover" role="note"><span class="citation-popover-source">citeseerx.ist.psu.edu</span><span class="citation-popover-snippet">Journal of Scientific Exploration, Vol. 16, No. 1, pp. 45–66, 2002October 19, 2025...</span><span class="citation-popover-meta">Published: October 19, 2025</span></span></span>
+The Ramey photograph has not been examined through a single digital file. Houran and Randle reported using an enlarged print plus four high-resolution working images derived from Fort Worth Star-Telegram material: a [negative]({{ 'negative/' | relative_url }}) image of the memo region, an enlargement made by the University of Texas at Arlington, an older enlargement and another enlargement produced in 1998. They described these as the best raw data available to their participants at the time.<span class="citation-link-wrap">[CiteSeerX]<span class="citation-popover" role="note"><span class="citation-popover-source">citeseerx.ist.psu.edu</span><span class="citation-popover-snippet">Journal of Scientific Exploration, Vol. 16, No. 1, pp. 45–66, 2002October 19, 2025...</span><span class="citation-popover-meta">Published: October 19, 2025</span></span></span>
 
 Later work returned to the photographic negative. Kevin Randle reported that a team made new scans at the University of Texas at Arlington in April 2015 with the involvement of specialists in forensic photography; some resulting files approached 250 MB. He also reported that the team examined the negative directly under magnification and regarded it as the original 4-by-5-inch negative made by photographer J. Bond Johnson. Crucially, the improved acquisition did **not** produce an immediate, universally accepted transcription.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://kevinrandle.blogspot.com/2015/10/?m=0" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: kevinrandle.blogspot.com">[Kevin Randle&#x27;s Blog]</a><span class="citation-popover" role="note"><span class="citation-popover-source">kevinrandle.blogspot.com</span><span class="citation-popover-snippet">Kevin Randle&#x27;s BlogA Different Perspective: October 2015...</span><span class="citation-popover-meta">Published: October 2015</span></span></span>
 
@@ -894,7 +894,7 @@ On that standard, the Ramey memo contains **recoverable fragments surrounded by 
 
 9.<a id="endnote-9"></a>
    Source: archives.gov  
-   Link:<a href="https://www.archives.gov/records-mgmt/memos/ac" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/records-mgmt/memos/ac</a>  
+   Link:https://www.archives.gov/records-mgmt/memos/ac  
 
 10.<a id="endnote-10"></a>
    Source: archives.gov  
@@ -1046,7 +1046,7 @@ On that standard, the Ramey memo contains **recoverable fragments surrounded by 
 
 42.<a id="endnote-42"></a>
    Source: citeseerx.ist.psu.edu  
-   Link:<a href="https://citeseerx.ist.psu.edu/document?doi=e162b50a3885a28c826cb31c3deca69abaaba9ee&amp;repid=rep1&amp;type=pdf" target="_blank" rel="noopener noreferrer nofollow">https://citeseerx.ist.psu.edu/document?doi=e162b50a3885a28c826cb31c3deca69abaaba9ee&amp;repid=rep1&amp;type=pdf</a>  
+   Link:https://citeseerx.ist.psu.edu/document?doi=e162b50a3885a28c826cb31c3deca69abaaba9ee&amp;repid=rep1&amp;type=pdf  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>Journal of Scientific Exploration, Vol. 16, No. 1, pp. 45–66, 2002October 19, 2025...</p></details>
    Published: October 19, 2025  
 
@@ -1137,7 +1137,7 @@ On that standard, the Ramey memo contains **recoverable fragments surrounded by 
 60.<a id="endnote-60"></a>
    Source: unexplained-mysteries.com  
    Title: The Ramey Memo  
-   Link:<a href="https://www.unexplained-mysteries.com/forum/topic/250481-the-ramey-memo/page/7/" target="_blank" rel="noopener noreferrer nofollow">https://www.unexplained-mysteries.com/forum/topic/250481-the-ramey-memo/page/7/</a>  
+   Link:https://www.unexplained-mysteries.com/forum/topic/250481-the-ramey-memo/page/7/  
 
 61.<a id="endnote-61"></a>
    Source: unexplained-mysteries.com  

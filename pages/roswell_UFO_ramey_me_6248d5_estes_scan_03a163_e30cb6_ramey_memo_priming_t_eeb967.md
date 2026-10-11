@@ -309,7 +309,7 @@ image: /assets/images/roswell_UFO_ramey_me_6248d5_estes_scan_03a163_e30cb6_ramey
 
 ## Introduction
 
-A 2002 experiment by psychologist James Houran and Roswell researcher Kevin D. Randle tested a deceptively simple question about the [Ramey memo]({{ 'ramey-memo/' | relative_url }}): if different people looked at the same blurred writing but were told different stories about what it concerned, would they read different words? The answer was largely yes. Participants primed with a Roswell UFO scenario reported Roswell-compatible terms; participants told the document concerned secret atomic-bomb testing produced words such as “flash”, “atomic” and “laboratory”; people given no subject at all produced far fewer interpretations.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://citeseerx.ist.psu.edu/document?doi=e162b50a3885a28c826cb31c3deca69abaaba9ee&amp;repid=rep1&amp;type=pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: citeseerx.ist.psu.edu">[CiteSeerX]</a><span class="citation-popover" role="note"><span class="citation-popover-source">citeseerx.ist.psu.edu</span><span class="citation-popover-snippet">Journal of Scientific Exploration, Vol. 16, No. 1, pp. 45–66, 2002October 19, 2025...</span><span class="citation-popover-meta">Published: October 19, 2025</span></span></span>
+A 2002 experiment by psychologist James Houran and Roswell researcher Kevin D. Randle tested a deceptively simple question about the [Ramey memo]({{ 'ramey-memo/' | relative_url }}): if different people looked at the same blurred writing but were told different stories about what it concerned, would they read different words? The answer was largely yes. Participants primed with a Roswell UFO scenario reported Roswell-compatible terms; participants told the document concerned secret atomic-bomb testing produced words such as “flash”, “atomic” and “laboratory”; people given no subject at all produced far fewer interpretations.<span class="citation-link-wrap">[CiteSeerX]<span class="citation-popover" role="note"><span class="citation-popover-source">citeseerx.ist.psu.edu</span><span class="citation-popover-snippet">Journal of Scientific Exploration, Vol. 16, No. 1, pp. 45–66, 2002October 19, 2025...</span><span class="citation-popover-meta">Published: October 19, 2025</span></span></span>
 
 
 
@@ -391,7 +391,7 @@ Their experiment exposed the danger in allowing historical context to become the
 
 This creates a form of circular reasoning that is particularly difficult to detect. A proposed word may appear to confirm a Roswell interpretation because it fits Roswell history, while Roswell history was itself one of the reasons the ambiguous shapes were interpreted as that word. The observer may be entirely sincere; the methodological problem remains.
 
-The study also found associations between the number of words reported and participants' characteristics, including their previous exposure to UFO and Roswell material and measures concerning tolerance of ambiguity. That reinforced the authors' broader concern that transcription was not being determined by image information alone.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://citeseerx.ist.psu.edu/document?doi=e162b50a3885a28c826cb31c3deca69abaaba9ee&amp;repid=rep1&amp;type=pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: citeseerx.ist.psu.edu">[CiteSeerX]</a><span class="citation-popover" role="note"><span class="citation-popover-source">citeseerx.ist.psu.edu</span><span class="citation-popover-snippet">Journal of Scientific Exploration, Vol. 16, No. 1, pp. 45–66, 2002October 19, 2025...</span><span class="citation-popover-meta">Published: October 19, 2025</span></span></span>
+The study also found associations between the number of words reported and participants' characteristics, including their previous exposure to UFO and Roswell material and measures concerning tolerance of ambiguity. That reinforced the authors' broader concern that transcription was not being determined by image information alone.<span class="citation-link-wrap">[CiteSeerX]<span class="citation-popover" role="note"><span class="citation-popover-source">citeseerx.ist.psu.edu</span><span class="citation-popover-snippet">Journal of Scientific Exploration, Vol. 16, No. 1, pp. 45–66, 2002October 19, 2025...</span><span class="citation-popover-meta">Published: October 19, 2025</span></span></span>
 
 
 
@@ -952,7 +952,7 @@ For the most disputed portions of the Ramey memo, that standard has proved much 
 
 25.<a id="endnote-25"></a>
    Source: citeseerx.ist.psu.edu  
-   Link:<a href="https://citeseerx.ist.psu.edu/document?doi=e162b50a3885a28c826cb31c3deca69abaaba9ee&amp;repid=rep1&amp;type=pdf" target="_blank" rel="noopener noreferrer nofollow">https://citeseerx.ist.psu.edu/document?doi=e162b50a3885a28c826cb31c3deca69abaaba9ee&amp;repid=rep1&amp;type=pdf</a>  
+   Link:https://citeseerx.ist.psu.edu/document?doi=e162b50a3885a28c826cb31c3deca69abaaba9ee&amp;repid=rep1&amp;type=pdf  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>Journal of Scientific Exploration, Vol. 16, No. 1, pp. 45–66, 2002October 19, 2025...</p></details>
    Published: October 19, 2025  
 
@@ -1000,7 +1000,7 @@ For the most disputed portions of the Ramey memo, that standard has proved much 
 35.<a id="endnote-35"></a>
    Source: unexplained-mysteries.com  
    Title: The Ramey Memo  
-   Link:<a href="https://www.unexplained-mysteries.com/forum/topic/250481-the-ramey-memo/page/4/" target="_blank" rel="noopener noreferrer nofollow">https://www.unexplained-mysteries.com/forum/topic/250481-the-ramey-memo/page/4/</a>  
+   Link:https://www.unexplained-mysteries.com/forum/topic/250481-the-ramey-memo/page/4/  
 
 36.<a id="endnote-36"></a>
    Source: unexplained-mysteries.com  

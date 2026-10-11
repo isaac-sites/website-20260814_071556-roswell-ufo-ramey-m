@@ -585,7 +585,7 @@ A coherent paragraph is therefore not necessarily more trustworthy than a fragme
 
 ## Confidence and consensus answer different questions
 
-<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.unexplained-mysteries.com/forum/topic/250481-the-ramey-memo/page/5/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: unexplained-mysteries.com">[The Ramey Memo]</a><span class="citation-popover" role="note"><span class="citation-popover-source">unexplained-mysteries.com</span><span class="citation-popover-snippet">UTAThe Ramey Memo &#124; UTA Magazine</span></span></span> cussions often blur two measurements that should be kept separate.
+<span class="citation-chip-wrap">[The Ramey Memo]<span class="citation-popover" role="note"><span class="citation-popover-source">unexplained-mysteries.com</span><span class="citation-popover-snippet">UTAThe Ramey Memo &#124; UTA Magazine</span></span></span> cussions often blur two measurements that should be kept separate.
 
 **Confidence** asks how strongly an analyst believes a particular reading is correct.
 
@@ -1169,17 +1169,17 @@ What has not yet been demonstrated is a full transcription that clears the stron
 25.<a id="endnote-25"></a>
    Source: unexplained-mysteries.com  
    Title: The Ramey Memo  
-   Link:<a href="https://www.unexplained-mysteries.com/forum/topic/250481-the-ramey-memo/page/5/" target="_blank" rel="noopener noreferrer nofollow">https://www.unexplained-mysteries.com/forum/topic/250481-the-ramey-memo/page/5/</a>  
+   Link:https://www.unexplained-mysteries.com/forum/topic/250481-the-ramey-memo/page/5/  
 
 26.<a id="endnote-26"></a>
    Source: unexplained-mysteries.com  
    Title: The Ramey Memo  
-   Link:<a href="https://www.unexplained-mysteries.com/forum/topic/250481-the-ramey-memo/page/4/" target="_blank" rel="noopener noreferrer nofollow">https://www.unexplained-mysteries.com/forum/topic/250481-the-ramey-memo/page/4/</a>  
+   Link:https://www.unexplained-mysteries.com/forum/topic/250481-the-ramey-memo/page/4/  
 
 27.<a id="endnote-27"></a>
    Source: unexplained-mysteries.com  
    Title: The Ramey Memo  
-   Link:<a href="https://www.unexplained-mysteries.com/forum/topic/250481-the-ramey-memo/page/6/" target="_blank" rel="noopener noreferrer nofollow">https://www.unexplained-mysteries.com/forum/topic/250481-the-ramey-memo/page/6/</a>  
+   Link:https://www.unexplained-mysteries.com/forum/topic/250481-the-ramey-memo/page/6/  
 
 28.<a id="endnote-28"></a>
    Source: digital.library.adelaide.edu.au  

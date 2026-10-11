@@ -345,7 +345,7 @@ By November, the distribution widened. Randle said most of the new scans had bee
 
 This mattered because the strongest form of confirmation would not have been another reading from somebody already committed to one transcription. It would have been independent recovery: analysts starting with the improved source material and arriving at the same letters without being steered towards a proposed sentence.
 
-That standard was not invented after the 2015 disappointment. James Houran and Randle's 2002 study had already argued that interpretations of the memo were vulnerable to suggestion and weak inter-reader reliability. Their experiment gave different groups different contextual information about the document and found that suggestion affected what participants reported. At the same time, there was some agreement on relatively clearer fragments, showing an important distinction: portions of an image can contain recoverable information even when the document as a whole cannot be reliably deciphered.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://citeseerx.ist.psu.edu/document?doi=e162b50a3885a28c826cb31c3deca69abaaba9ee&amp;repid=rep1&amp;type=pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: citeseerx.ist.psu.edu">[CiteSeerX]</a><span class="citation-popover" role="note"><span class="citation-popover-source">citeseerx.ist.psu.edu</span><span class="citation-popover-snippet">Journal of Scientific Exploration, Vol. 16, No. 1, pp. 45–66, 2002October 19, 2025...</span><span class="citation-popover-meta">Published: October 19, 2025</span></span></span>
+That standard was not invented after the 2015 disappointment. James Houran and Randle's 2002 study had already argued that interpretations of the memo were vulnerable to suggestion and weak inter-reader reliability. Their experiment gave different groups different contextual information about the document and found that suggestion affected what participants reported. At the same time, there was some agreement on relatively clearer fragments, showing an important distinction: portions of an image can contain recoverable information even when the document as a whole cannot be reliably deciphered.<span class="citation-link-wrap">[CiteSeerX]<span class="citation-popover" role="note"><span class="citation-popover-source">citeseerx.ist.psu.edu</span><span class="citation-popover-snippet">Journal of Scientific Exploration, Vol. 16, No. 1, pp. 45–66, 2002October 19, 2025...</span><span class="citation-popover-meta">Published: October 19, 2025</span></span></span>
 
 The 2002 authors consequently proposed independent laboratory analysis rather than relying on accumulated readings within the Roswell research community. Their stated goal was outside corroboration through separate, qualified analyses conducted under controls designed to reduce [expectation effects]({{ 'expectation/' | relative_url }}).<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.astronomyufo.com/UFO/Ramey.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: astronomyufo.com">[Astronomy UFO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">astronomyufo.com</span><span class="citation-popover-title">Astronomy UFOThe Ramey Document: Smoking gun or empty water pistol?</span><span class="citation-popover-snippet">August 1, 2003...</span><span class="citation-popover-meta">Published: August 1, 2003</span></span></span>
 
@@ -940,7 +940,7 @@ For a document whose importance depends almost entirely on exactly what its blur
 
 21.<a id="endnote-21"></a>
    Source: citeseerx.ist.psu.edu  
-   Link:<a href="https://citeseerx.ist.psu.edu/document?doi=e162b50a3885a28c826cb31c3deca69abaaba9ee&amp;repid=rep1&amp;type=pdf" target="_blank" rel="noopener noreferrer nofollow">https://citeseerx.ist.psu.edu/document?doi=e162b50a3885a28c826cb31c3deca69abaaba9ee&amp;repid=rep1&amp;type=pdf</a>  
+   Link:https://citeseerx.ist.psu.edu/document?doi=e162b50a3885a28c826cb31c3deca69abaaba9ee&amp;repid=rep1&amp;type=pdf  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>Journal of Scientific Exploration, Vol. 16, No. 1, pp. 45–66, 2002October 19, 2025...</p></details>
    Published: October 19, 2025  
 
@@ -1103,4 +1103,4 @@ For a document whose importance depends almost entirely on exactly what its blur
 
 57.<a id="endnote-57"></a>
    Source: nhinewsnetwork.com  
-   Link:<a href="https://nhinewsnetwork.com/newsletters/ufo-historical-revue/" target="_blank" rel="noopener noreferrer nofollow">https://nhinewsnetwork.com/newsletters/ufo-historical-revue/</a>  
+   Link:https://nhinewsnetwork.com/newsletters/ufo-historical-revue/  

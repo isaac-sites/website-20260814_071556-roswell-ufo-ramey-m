@@ -1070,7 +1070,7 @@ For the photographic provenance of the Ramey memo, that distinction is crucial. 
 49.<a id="endnote-49"></a>
    Source: unexplained-mysteries.com  
    Title: The Ramey Memo  
-   Link:<a href="https://www.unexplained-mysteries.com/forum/topic/250481-the-ramey-memo/page/7/" target="_blank" rel="noopener noreferrer nofollow">https://www.unexplained-mysteries.com/forum/topic/250481-the-ramey-memo/page/7/</a>  
+   Link:https://www.unexplained-mysteries.com/forum/topic/250481-the-ramey-memo/page/7/  
 
 50.<a id="endnote-50"></a>
    Source: unexplained-mysteries.com  
@@ -1080,7 +1080,7 @@ For the photographic provenance of the Ramey memo, that distinction is crucial. 
 51.<a id="endnote-51"></a>
    Source: unexplained-mysteries.com  
    Title: The Ramey Memo  
-   Link:<a href="https://www.unexplained-mysteries.com/forum/topic/250481-the-ramey-memo/page/6/" target="_blank" rel="noopener noreferrer nofollow">https://www.unexplained-mysteries.com/forum/topic/250481-the-ramey-memo/page/6/</a>  
+   Link:https://www.unexplained-mysteries.com/forum/topic/250481-the-ramey-memo/page/6/  
 
 52.<a id="endnote-52"></a>
    Source: digital.library.adelaide.edu.au  

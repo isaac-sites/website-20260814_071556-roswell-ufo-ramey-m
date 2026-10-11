@@ -315,7 +315,7 @@ That distinction is unusually important here because the photographed text is se
 
 A transcription makes a claim about visible marks. An interpretation makes a claim about what those marks mean. Mixing those two stages can make agreement look stronger than it really is.
 
-The distinction can be seen in the published comparison assembled by James Houran and Kevin Randle. Earlier investigators supplied markedly different readings of corresponding lines. On line 6, for example, versions included constructions involving a base, a newspaper, a “[story]({{ 'story/' | relative_url }})”, its “meaning” and other substantially different wording. On line 8, proposed readings ranged through variants involving “land”, “Denver”, crews and a land surveyor. Yet the comparison identified only the narrower elements on which a majority appeared to see the same basic structure.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://citeseerx.ist.psu.edu/document?doi=e162b50a3885a28c826cb31c3deca69abaaba9ee&amp;repid=rep1&amp;type=pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: citeseerx.ist.psu.edu">[CiteSeerX]</a><span class="citation-popover" role="note"><span class="citation-popover-source">citeseerx.ist.psu.edu</span><span class="citation-popover-snippet">Journal of Scientific Exploration, Vol. 16, No. 1, pp. 45–66, 2002...</span></span></span>
+The distinction can be seen in the published comparison assembled by James Houran and Kevin Randle. Earlier investigators supplied markedly different readings of corresponding lines. On line 6, for example, versions included constructions involving a base, a newspaper, a “[story]({{ 'story/' | relative_url }})”, its “meaning” and other substantially different wording. On line 8, proposed readings ranged through variants involving “land”, “Denver”, crews and a land surveyor. Yet the comparison identified only the narrower elements on which a majority appeared to see the same basic structure.<span class="citation-link-wrap">[CiteSeerX]<span class="citation-popover" role="note"><span class="citation-popover-source">citeseerx.ist.psu.edu</span><span class="citation-popover-snippet">Journal of Scientific Exploration, Vol. 16, No. 1, pp. 45–66, 2002...</span></span></span>
 
 
 
@@ -360,7 +360,7 @@ The rule should become stricter, not looser, as the evidential importance of a w
 
 ## Why location-specific matching matters
 
-The 2002 Houran-Randle experiment provides an unusually useful benchmark because participants were not simply asked whether particular Roswell-related words seemed plausible. They were instructed to work through the memo line by line and record individual characters or complete words that they perceived in its ten-line text block. The researchers then compared readings by position.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://citeseerx.ist.psu.edu/document?doi=e162b50a3885a28c826cb31c3deca69abaaba9ee&amp;repid=rep1&amp;type=pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: citeseerx.ist.psu.edu">[CiteSeerX]</a><span class="citation-popover" role="note"><span class="citation-popover-source">citeseerx.ist.psu.edu</span><span class="citation-popover-snippet">Journal of Scientific Exploration, Vol. 16, No. 1, pp. 45–66, 2002...</span></span></span>
+The 2002 Houran-Randle experiment provides an unusually useful benchmark because participants were not simply asked whether particular Roswell-related words seemed plausible. They were instructed to work through the memo line by line and record individual characters or complete words that they perceived in its ten-line text block. The researchers then compared readings by position.<span class="citation-link-wrap">[CiteSeerX]<span class="citation-popover" role="note"><span class="citation-popover-source">citeseerx.ist.psu.edu</span><span class="citation-popover-snippet">Journal of Scientific Exploration, Vol. 16, No. 1, pp. 45–66, 2002...</span></span></span>
 
 Their 176 participants were divided into three conditions. Fifty-nine were told the document concerned the Roswell UFO case, 58 were given an atomic-bomb-testing context, and 59 were told nothing about its possible subject. This design exposed an important problem: suggestion influenced the words people extracted from the same ambiguous stimulus.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/228706129_A_Message_in_a_Bottle_Confounds_in_Deciphering_the_Ramey_Memo_from_the_Roswell_UFO_Case" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">Open source on researchgate.net.</span></span></span>
 
@@ -447,7 +447,7 @@ For a genuinely disputed passage, the record should remain equally transparent:
 
 </div>
 
-This approach also solves a problem in the history of the memo's analysis. Houran and Randle noted that the earlier researchers represented in their comparison had shared information while trying to decipher the document. Their table also distinguished capital letters, which analysts regarded as relatively secure, from lower-case guesses.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://citeseerx.ist.psu.edu/document?doi=e162b50a3885a28c826cb31c3deca69abaaba9ee&amp;repid=rep1&amp;type=pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: citeseerx.ist.psu.edu">[CiteSeerX]</a><span class="citation-popover" role="note"><span class="citation-popover-source">citeseerx.ist.psu.edu</span><span class="citation-popover-snippet">Journal of Scientific Exploration, Vol. 16, No. 1, pp. 45–66, 2002...</span></span></span> Such collaborative work can be valuable for developing hypotheses, but once readers have exchanged proposed words it becomes difficult to treat later similarity as independent confirmation.
+This approach also solves a problem in the history of the memo's analysis. Houran and Randle noted that the earlier researchers represented in their comparison had shared information while trying to decipher the document. Their table also distinguished capital letters, which analysts regarded as relatively secure, from lower-case guesses.<span class="citation-link-wrap">[CiteSeerX]<span class="citation-popover" role="note"><span class="citation-popover-source">citeseerx.ist.psu.edu</span><span class="citation-popover-snippet">Journal of Scientific Exploration, Vol. 16, No. 1, pp. 45–66, 2002...</span></span></span> Such collaborative work can be valuable for developing hypotheses, but once readers have exchanged proposed words it becomes difficult to treat later similarity as independent confirmation.
 
 The underlying photographic source remains important here. The University of Texas at Arlington identifies the Ramey-memo photograph with its Fort Worth Star-Telegram collection, and its Special Collections material preserves the original photographic record associated with J. [Bond Johnson]({{ 'johnson/' | relative_url }}). UTA itself has described the obscured wording as not definitively deciphered.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.uta.edu/utamagazine/spring-2017/stories/collected.php" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: uta.edu">[UTA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">uta.edu</span><span class="citation-popover-title">The Ramey Memo &#124; UTA Magazine</span><span class="citation-popover-snippet">The Ramey Memo &#124; UTA Magazine...</span></span></span> That continuing uncertainty makes careful notation more valuable than a polished reconstruction.
 
@@ -942,7 +942,7 @@ For the Ramey memo, therefore, the governing policy can be stated narrowly: **ma
 
 17.<a id="endnote-17"></a>
    Source: citeseerx.ist.psu.edu  
-   Link:<a href="https://citeseerx.ist.psu.edu/document?doi=e162b50a3885a28c826cb31c3deca69abaaba9ee&amp;repid=rep1&amp;type=pdf" target="_blank" rel="noopener noreferrer nofollow">https://citeseerx.ist.psu.edu/document?doi=e162b50a3885a28c826cb31c3deca69abaaba9ee&amp;repid=rep1&amp;type=pdf</a>  
+   Link:https://citeseerx.ist.psu.edu/document?doi=e162b50a3885a28c826cb31c3deca69abaaba9ee&amp;repid=rep1&amp;type=pdf  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>Journal of Scientific Exploration, Vol. 16, No. 1, pp. 45–66, 2002...</p></details>
 
 18.<a id="endnote-18"></a>
@@ -960,12 +960,12 @@ For the Ramey memo, therefore, the governing policy can be stated narrowly: **ma
 20.<a id="endnote-20"></a>
    Source: unexplained-mysteries.com  
    Title: The Ramey Memo  
-   Link:<a href="https://www.unexplained-mysteries.com/forum/topic/250481-the-ramey-memo/page/6/" target="_blank" rel="noopener noreferrer nofollow">https://www.unexplained-mysteries.com/forum/topic/250481-the-ramey-memo/page/6/</a>  
+   Link:https://www.unexplained-mysteries.com/forum/topic/250481-the-ramey-memo/page/6/  
 
 21.<a id="endnote-21"></a>
    Source: unexplained-mysteries.com  
    Title: The Ramey Memo  
-   Link:<a href="https://www.unexplained-mysteries.com/forum/topic/250481-the-ramey-memo/page/4/" target="_blank" rel="noopener noreferrer nofollow">https://www.unexplained-mysteries.com/forum/topic/250481-the-ramey-memo/page/4/</a>  
+   Link:https://www.unexplained-mysteries.com/forum/topic/250481-the-ramey-memo/page/4/  
 
 22.<a id="endnote-22"></a>
    Source: pt.scribd.com  

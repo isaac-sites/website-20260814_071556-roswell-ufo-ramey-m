@@ -309,7 +309,7 @@ image: /assets/images/roswell_UFO_ramey_me_6248d5_weather_balloon_word_20718b_we
 
 ## Introduction
 
-The phrase “WEATHER BALLOONS” is unusually important in attempts to read the [Ramey memo]({{ 'ramey-memo/' | relative_url }}) because it is among the fragments that researchers have repeatedly thought they could recognise. Yet recognising those two words does **not** establish what the document says about weather balloons. The missing surrounding words are precisely what would determine their meaning. The phrase could refer to the recovered material itself, to the explanation being given to the public, or even to contemporary press or wire-service reporting about the Roswell [story]({{ 'story/' | relative_url }}). The 2002 James Houran–Kevin Randle study is especially relevant here: it found evidence that expectations can influence readings of the badly degraded memo, while “weather balloons” was among the material on which readers showed comparatively notable agreement.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://citeseerx.ist.psu.edu/document?doi=e162b50a3885a28c826cb31c3deca69abaaba9ee&amp;repid=rep1&amp;type=pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: citeseerx.ist.psu.edu">[CiteSeerX]</a><span class="citation-popover" role="note"><span class="citation-popover-source">citeseerx.ist.psu.edu</span><span class="citation-popover-snippet">Journal of Scientific Exploration, Vol. 16, No. 1, pp. 45–66, 2002October 19, 2025...</span><span class="citation-popover-meta">Published: October 19, 2025</span></span></span>
+The phrase “WEATHER BALLOONS” is unusually important in attempts to read the [Ramey memo]({{ 'ramey-memo/' | relative_url }}) because it is among the fragments that researchers have repeatedly thought they could recognise. Yet recognising those two words does **not** establish what the document says about weather balloons. The missing surrounding words are precisely what would determine their meaning. The phrase could refer to the recovered material itself, to the explanation being given to the public, or even to contemporary press or wire-service reporting about the Roswell [story]({{ 'story/' | relative_url }}). The 2002 James Houran–Kevin Randle study is especially relevant here: it found evidence that expectations can influence readings of the badly degraded memo, while “weather balloons” was among the material on which readers showed comparatively notable agreement.<span class="citation-link-wrap">[CiteSeerX]<span class="citation-popover" role="note"><span class="citation-popover-source">citeseerx.ist.psu.edu</span><span class="citation-popover-snippet">Journal of Scientific Exploration, Vol. 16, No. 1, pp. 45–66, 2002October 19, 2025...</span><span class="citation-popover-meta">Published: October 19, 2025</span></span></span>
 
 
 
@@ -363,7 +363,7 @@ Some pro-UFO [transcriptions]({{ 'transcriptions/' | relative_url }}) go much fu
 
 That is a possible **interpretation of a proposed transcription**, not an independently established reading of the original document. The distinction matters enormously. Words such as those supposedly connecting “weather balloons” to a press release are substantially more disputed than the [balloon phrase]({{ 'balloon-phrase/' | relative_url }}) itself. Accepting the relatively recognisable words and then filling the uncertain gaps from one preferred reconstruction effectively transfers confidence from the strongest part of the image to its weakest part.
 
-There is also a broader methodological warning from the Houran–Randle experiment. Participants were deliberately supplied with different contextual suggestions, and their attempted readings showed that expectations could influence what they perceived in the ambiguous letter forms. The study nevertheless found some agreement across conditions, which is why recurring fragments such as “weather balloons” deserve attention. But its larger lesson was precisely that decipherment of degraded text is vulnerable to contextual suggestion.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://citeseerx.ist.psu.edu/document?doi=e162b50a3885a28c826cb31c3deca69abaaba9ee&amp;repid=rep1&amp;type=pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: citeseerx.ist.psu.edu">[CiteSeerX]</a><span class="citation-popover" role="note"><span class="citation-popover-source">citeseerx.ist.psu.edu</span><span class="citation-popover-snippet">Journal of Scientific Exploration, Vol. 16, No. 1, pp. 45–66, 2002October 19, 2025...</span><span class="citation-popover-meta">Published: October 19, 2025</span></span></span>
+There is also a broader methodological warning from the Houran–Randle experiment. Participants were deliberately supplied with different contextual suggestions, and their attempted readings showed that expectations could influence what they perceived in the ambiguous letter forms. The study nevertheless found some agreement across conditions, which is why recurring fragments such as “weather balloons” deserve attention. But its larger lesson was precisely that decipherment of degraded text is vulnerable to contextual suggestion.<span class="citation-link-wrap">[CiteSeerX]<span class="citation-popover" role="note"><span class="citation-popover-source">citeseerx.ist.psu.edu</span><span class="citation-popover-snippet">Journal of Scientific Exploration, Vol. 16, No. 1, pp. 45–66, 2002October 19, 2025...</span><span class="citation-popover-meta">Published: October 19, 2025</span></span></span>
 
 The defensible conclusion is therefore narrower than either side of the Roswell argument often wants. If “WEATHER BALLOONS” is genuine, it establishes that balloon terminology probably occurs in the document. It does **not**, without reliable connecting words, tell us whether Ramey was endorsing, reporting, questioning or organising that explanation.
 
@@ -415,7 +415,7 @@ This is why proposed connecting words such as “PR”, “story”, “sent” 
 
 ## What the phrase actually establishes
 
-“WEATHER BALLOONS” is significant because it appears to be one of the comparatively persistent textual anchors in an otherwise extremely uncertain document. The Houran–Randle work makes such cross-reader recurrence more interesting than a phrase produced only after somebody has been shown a complete Roswell-oriented transcription.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://citeseerx.ist.psu.edu/document?doi=e162b50a3885a28c826cb31c3deca69abaaba9ee&amp;repid=rep1&amp;type=pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: citeseerx.ist.psu.edu">[CiteSeerX]</a><span class="citation-popover" role="note"><span class="citation-popover-source">citeseerx.ist.psu.edu</span><span class="citation-popover-snippet">Journal of Scientific Exploration, Vol. 16, No. 1, pp. 45–66, 2002October 19, 2025...</span><span class="citation-popover-meta">Published: October 19, 2025</span></span></span> But its significance should not be overstated.
+“WEATHER BALLOONS” is significant because it appears to be one of the comparatively persistent textual anchors in an otherwise extremely uncertain document. The Houran–Randle work makes such cross-reader recurrence more interesting than a phrase produced only after somebody has been shown a complete Roswell-oriented transcription.<span class="citation-link-wrap">[CiteSeerX]<span class="citation-popover" role="note"><span class="citation-popover-source">citeseerx.ist.psu.edu</span><span class="citation-popover-snippet">Journal of Scientific Exploration, Vol. 16, No. 1, pp. 45–66, 2002October 19, 2025...</span><span class="citation-popover-meta">Published: October 19, 2025</span></span></span> But its significance should not be overstated.
 
 If the reading is correct, the strongest conclusion is that the photographed document probably referred to weather balloons in some fashion at precisely the time when the Roswell story was being publicly reframed around balloon equipment. That is historically coherent whichever broad interpretation of Roswell one adopts.
 
@@ -966,7 +966,7 @@ The phrase therefore anchors the Ramey memo to the real vocabulary of the Roswel
 
 33.<a id="endnote-33"></a>
    Source: citeseerx.ist.psu.edu  
-   Link:<a href="https://citeseerx.ist.psu.edu/document?doi=e162b50a3885a28c826cb31c3deca69abaaba9ee&amp;repid=rep1&amp;type=pdf" target="_blank" rel="noopener noreferrer nofollow">https://citeseerx.ist.psu.edu/document?doi=e162b50a3885a28c826cb31c3deca69abaaba9ee&amp;repid=rep1&amp;type=pdf</a>  
+   Link:https://citeseerx.ist.psu.edu/document?doi=e162b50a3885a28c826cb31c3deca69abaaba9ee&amp;repid=rep1&amp;type=pdf  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>Journal of Scientific Exploration, Vol. 16, No. 1, pp. 45–66, 2002October 19, 2025...</p></details>
    Published: October 19, 2025  
 
@@ -1049,12 +1049,12 @@ The phrase therefore anchors the Ramey memo to the real vocabulary of the Roswel
 49.<a id="endnote-49"></a>
    Source: unexplained-mysteries.com  
    Title: The Ramey Memo  
-   Link:<a href="https://www.unexplained-mysteries.com/forum/topic/250481-the-ramey-memo/page/5/" target="_blank" rel="noopener noreferrer nofollow">https://www.unexplained-mysteries.com/forum/topic/250481-the-ramey-memo/page/5/</a>  
+   Link:https://www.unexplained-mysteries.com/forum/topic/250481-the-ramey-memo/page/5/  
 
 50.<a id="endnote-50"></a>
    Source: unexplained-mysteries.com  
    Title: The Ramey Memo  
-   Link:<a href="https://www.unexplained-mysteries.com/forum/topic/250481-the-ramey-memo/page/7/" target="_blank" rel="noopener noreferrer nofollow">https://www.unexplained-mysteries.com/forum/topic/250481-the-ramey-memo/page/7/</a>  
+   Link:https://www.unexplained-mysteries.com/forum/topic/250481-the-ramey-memo/page/7/  
 
 51.<a id="endnote-51"></a>
    Source: af.mil  

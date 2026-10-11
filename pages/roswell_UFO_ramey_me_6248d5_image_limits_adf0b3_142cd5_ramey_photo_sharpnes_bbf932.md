@@ -1019,7 +1019,6 @@ Its different subjects were recorded at radically different physical scales. Fac
 
 39.<a id="endnote-39"></a>
    Source: citeseerx.ist.psu.edu  
-   Link:https://citeseerx.ist.psu.edu/document?doi=e162b50a3885a28c826cb31c3deca69abaaba9ee&amp;repid=rep1&amp;type=pdf  
 
 40.<a id="endnote-40"></a>
    Source: kevinrandle.blogspot.com  

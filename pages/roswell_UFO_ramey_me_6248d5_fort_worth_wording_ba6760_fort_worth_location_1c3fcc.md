@@ -956,7 +956,6 @@ For the narrow question — **does Fort Worth match where the Ramey memo photogr
 
 28.<a id="endnote-28"></a>
    Source: citeseerx.ist.psu.edu  
-   Link:https://citeseerx.ist.psu.edu/document?doi=e162b50a3885a28c826cb31c3deca69abaaba9ee&amp;repid=rep1&amp;type=pdf  
 
 29.<a id="endnote-29"></a>
    Source: wikidisc.org  
@@ -975,7 +974,6 @@ For the narrow question — **does Fort Worth match where the Ramey memo photogr
 32.<a id="endnote-32"></a>
    Source: unexplained-mysteries.com  
    Title: The Ramey Memo  
-   Link:https://www.unexplained-mysteries.com/forum/topic/250481-the-ramey-memo/page/7/  
 
 33.<a id="endnote-33"></a>
    Source: ufologie.patrickgross.org  

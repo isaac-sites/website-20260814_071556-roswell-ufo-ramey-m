@@ -1016,17 +1016,14 @@ For the 2015 archival rescanning, that was the failed breakthrough in its most p
 37.<a id="endnote-37"></a>
    Source: unexplained-mysteries.com  
    Title: The Ramey Memo  
-   Link:https://www.unexplained-mysteries.com/forum/topic/250481-the-ramey-memo/page/7/  
 
 38.<a id="endnote-38"></a>
    Source: unexplained-mysteries.com  
    Title: The Ramey Memo  
-   Link:https://www.unexplained-mysteries.com/forum/topic/250481-the-ramey-memo/page/5/  
 
 39.<a id="endnote-39"></a>
    Source: unexplained-mysteries.com  
    Title: The Ramey Memo  
-   Link:https://www.unexplained-mysteries.com/forum/topic/250481-the-ramey-memo/page/4/  
 
 40.<a id="endnote-40"></a>
    Source: astronomyufo.com  

@@ -1045,7 +1045,6 @@ For this photograph, then, [familiarity]({{ 'familiarity/' | relative_url }}) sh
 44.<a id="endnote-44"></a>
    Source: unexplained-mysteries.com  
    Title: The Ramey Memo  
-   Link:https://www.unexplained-mysteries.com/forum/topic/250481-the-ramey-memo/page/7/  
 
 45.<a id="endnote-45"></a>
    Source: pmc.ncbi.nlm.nih.gov  

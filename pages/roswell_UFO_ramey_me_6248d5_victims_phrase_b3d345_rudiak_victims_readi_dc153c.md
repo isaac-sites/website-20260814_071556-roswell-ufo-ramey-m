@@ -965,22 +965,18 @@ That leaves Rudiak’s “victims of the wreck” as a serious **candidate recon
 33.<a id="endnote-33"></a>
    Source: unexplained-mysteries.com  
    Title: The Ramey Memo  
-   Link:https://www.unexplained-mysteries.com/forum/topic/250481-the-ramey-memo/page/6/  
 
 34.<a id="endnote-34"></a>
    Source: unexplained-mysteries.com  
    Title: The Ramey Memo  
-   Link:https://www.unexplained-mysteries.com/forum/topic/250481-the-ramey-memo/page/4/  
 
 35.<a id="endnote-35"></a>
    Source: unexplained-mysteries.com  
    Title: The Ramey Memo  
-   Link:https://www.unexplained-mysteries.com/forum/topic/250481-the-ramey-memo/page/7/  
 
 36.<a id="endnote-36"></a>
    Source: unexplained-mysteries.com  
    Title: The Ramey Memo  
-   Link:https://www.unexplained-mysteries.com/forum/topic/250481-the-ramey-memo/page/5/  
 
 37.<a id="endnote-37"></a>
    Source: pt.scribd.com  

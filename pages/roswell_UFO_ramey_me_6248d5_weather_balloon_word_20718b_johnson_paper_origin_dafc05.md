@@ -915,7 +915,6 @@ That is the most defensible significance of his conflicting accounts. They do no
 23.<a id="endnote-23"></a>
    Source: unexplained-mysteries.com  
    Title: Unexplained Mysteries The Ramey Memo  
-   Link:https://www.unexplained-mysteries.com/forum/topic/250481-the-ramey-memo/page/5/  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>Unexplained MysteriesThe Ramey Memo - Page 5 - Extraterrestrial Life and The UFO Phenomenon - Unexplained Mysteries Discussion Forums...</p></details>
 
 24.<a id="endnote-24"></a>

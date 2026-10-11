@@ -1034,17 +1034,14 @@ For any claimed transcription, the first question should therefore come before d
 41.<a id="endnote-41"></a>
    Source: unexplained-mysteries.com  
    Title: The Ramey Memo  
-   Link:https://www.unexplained-mysteries.com/forum/topic/250481-the-ramey-memo/page/7/  
 
 42.<a id="endnote-42"></a>
    Source: unexplained-mysteries.com  
    Title: The Ramey Memo  
-   Link:https://www.unexplained-mysteries.com/forum/topic/250481-the-ramey-memo/page/6/  
 
 43.<a id="endnote-43"></a>
    Source: unexplained-mysteries.com  
    Title: The Ramey Memo  
-   Link:https://www.unexplained-mysteries.com/forum/topic/250481-the-ramey-memo/page/5/  
 
 44.<a id="endnote-44"></a>
    Source: kevinrandle.blogspot.com  

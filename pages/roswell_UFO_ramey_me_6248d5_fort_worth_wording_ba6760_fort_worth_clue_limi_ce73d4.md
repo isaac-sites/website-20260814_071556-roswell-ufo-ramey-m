@@ -995,17 +995,14 @@ The Fort Worth clue therefore matters most when its limits are respected. It sup
 36.<a id="endnote-36"></a>
    Source: unexplained-mysteries.com  
    Title: The Ramey Memo  
-   Link:https://www.unexplained-mysteries.com/forum/topic/250481-the-ramey-memo/page/4/  
 
 37.<a id="endnote-37"></a>
    Source: unexplained-mysteries.com  
    Title: The Ramey Memo  
-   Link:https://www.unexplained-mysteries.com/forum/topic/250481-the-ramey-memo/page/6/  
 
 38.<a id="endnote-38"></a>
    Source: unexplained-mysteries.com  
    Title: The Ramey Memo  
-   Link:https://www.unexplained-mysteries.com/forum/topic/250481-the-ramey-memo/page/5/  
 
 39.<a id="endnote-39"></a>
    Source: pt.scribd.com  

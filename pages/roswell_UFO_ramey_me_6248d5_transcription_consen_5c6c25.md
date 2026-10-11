@@ -1169,17 +1169,14 @@ What has not yet been demonstrated is a full transcription that clears the stron
 25.<a id="endnote-25"></a>
    Source: unexplained-mysteries.com  
    Title: The Ramey Memo  
-   Link:https://www.unexplained-mysteries.com/forum/topic/250481-the-ramey-memo/page/5/  
 
 26.<a id="endnote-26"></a>
    Source: unexplained-mysteries.com  
    Title: The Ramey Memo  
-   Link:https://www.unexplained-mysteries.com/forum/topic/250481-the-ramey-memo/page/4/  
 
 27.<a id="endnote-27"></a>
    Source: unexplained-mysteries.com  
    Title: The Ramey Memo  
-   Link:https://www.unexplained-mysteries.com/forum/topic/250481-the-ramey-memo/page/6/  
 
 28.<a id="endnote-28"></a>
    Source: digital.library.adelaide.edu.au  

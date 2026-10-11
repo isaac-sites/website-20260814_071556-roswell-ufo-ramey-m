@@ -931,7 +931,6 @@ The most defensible conclusion from the 2015 film inspection is therefore narrow
 28.<a id="endnote-28"></a>
    Source: unexplained-mysteries.com  
    Title: The Ramey Memo  
-   Link:https://www.unexplained-mysteries.com/forum/topic/250481-the-ramey-memo/page/7/  
 
 29.<a id="endnote-29"></a>
    Source: kevinrandle.blogspot.com  

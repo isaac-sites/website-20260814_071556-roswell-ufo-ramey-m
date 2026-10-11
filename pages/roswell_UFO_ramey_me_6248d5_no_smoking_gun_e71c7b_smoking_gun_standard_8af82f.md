@@ -931,7 +931,6 @@ That is why the standard of proof matters so much in this case. An ambiguous phr
 
 21.<a id="endnote-21"></a>
    Source: citeseerx.ist.psu.edu  
-   Link:https://citeseerx.ist.psu.edu/document?doi=e162b50a3885a28c826cb31c3deca69abaaba9ee&amp;repid=rep1&amp;type=pdf  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>Journal of Scientific Exploration, Vol. 16, No. 1, pp. 45–66, 2002...</p></details>
 
 22.<a id="endnote-22"></a>
@@ -946,12 +945,10 @@ That is why the standard of proof matters so much in this case. An ambiguous phr
 24.<a id="endnote-24"></a>
    Source: unexplained-mysteries.com  
    Title: The Ramey Memo  
-   Link:https://www.unexplained-mysteries.com/forum/topic/250481-the-ramey-memo/page/6/  
 
 25.<a id="endnote-25"></a>
    Source: unexplained-mysteries.com  
    Title: The Ramey Memo  
-   Link:https://www.unexplained-mysteries.com/forum/topic/250481-the-ramey-memo/page/7/  
 
 26.<a id="endnote-26"></a>
    Source: digital.library.adelaide.edu.au  

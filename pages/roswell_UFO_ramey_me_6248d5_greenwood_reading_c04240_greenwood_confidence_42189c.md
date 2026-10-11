@@ -975,7 +975,6 @@ The most defensible reading of Greenwood’s trajectory is therefore neither tha
 33.<a id="endnote-33"></a>
    Source: unexplained-mysteries.com  
    Title: The Ramey Memo  
-   Link:https://www.unexplained-mysteries.com/forum/topic/250481-the-ramey-memo/?comment=4834393&amp;do=findComment  
 
 34.<a id="endnote-34"></a>
    Source: kevinrandle.blogspot.com  

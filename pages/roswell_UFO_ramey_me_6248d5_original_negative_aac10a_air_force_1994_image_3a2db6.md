@@ -960,7 +960,6 @@ The cautious conclusion is therefore neither that the memo contains no recoverab
 
 32.<a id="endnote-32"></a>
    Source: citeseerx.ist.psu.edu  
-   Link:https://citeseerx.ist.psu.edu/document?doi=e162b50a3885a28c826cb31c3deca69abaaba9ee&amp;repid=rep1&amp;type=pdf  
 
 33.<a id="endnote-33"></a>
    Source: digital.library.adelaide.edu.au  
@@ -997,7 +996,6 @@ The cautious conclusion is therefore neither that the memo contains no recoverab
 40.<a id="endnote-40"></a>
    Source: unexplained-mysteries.com  
    Title: The Ramey Memo  
-   Link:https://www.unexplained-mysteries.com/forum/topic/250481-the-ramey-memo/page/7/  
 
 41.<a id="endnote-41"></a>
    Source: digital.library.adelaide.edu.au  

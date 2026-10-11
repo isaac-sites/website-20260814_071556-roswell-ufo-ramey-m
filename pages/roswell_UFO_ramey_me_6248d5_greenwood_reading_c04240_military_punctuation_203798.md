@@ -1065,7 +1065,6 @@ The punctuation challenge therefore produces a useful methodological correction 
 55.<a id="endnote-55"></a>
    Source: unexplained-mysteries.com  
    Title: The Ramey Memo  
-   Link:https://www.unexplained-mysteries.com/forum/topic/250481-the-ramey-memo/?comment=4834393&amp;do=findComment  
 
 56.<a id="endnote-56"></a>
    Source: unexplained-mysteries.com  

@@ -896,7 +896,6 @@ That makes this single passage unusually valuable in the wider Ramey memo debate
 
 18.<a id="endnote-18"></a>
    Source: citeseerx.ist.psu.edu  
-   Link:https://citeseerx.ist.psu.edu/document?doi=e162b50a3885a28c826cb31c3deca69abaaba9ee&amp;repid=rep1&amp;type=pdf  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>Journal of Scientific Exploration, Vol. 16, No. 1, pp. 45–66, 2002October 19, 2025...</p></details>
    Published: October 19, 2025  
 
@@ -931,12 +930,10 @@ That makes this single passage unusually valuable in the wider Ramey memo debate
 25.<a id="endnote-25"></a>
    Source: unexplained-mysteries.com  
    Title: The Ramey Memo  
-   Link:https://www.unexplained-mysteries.com/forum/topic/250481-the-ramey-memo/page/4/  
 
 26.<a id="endnote-26"></a>
    Source: unexplained-mysteries.com  
    Title: The Ramey Memo  
-   Link:https://www.unexplained-mysteries.com/forum/topic/250481-the-ramey-memo/?comment=4836015&amp;do=findComment  
 
 27.<a id="endnote-27"></a>
    Source: unexplained-mysteries.com  
@@ -946,7 +943,6 @@ That makes this single passage unusually valuable in the wider Ramey memo debate
 28.<a id="endnote-28"></a>
    Source: unexplained-mysteries.com  
    Title: The Ramey Memo  
-   Link:https://www.unexplained-mysteries.com/forum/topic/250481-the-ramey-memo/page/6/  
 
 29.<a id="endnote-29"></a>
    Source: greys-area.blogspot.com  

@@ -1244,12 +1244,10 @@ For that reason, H/N/M and C/G/O/S are best understood not as a definitive catal
 88.<a id="endnote-88"></a>
    Source: unexplained-mysteries.com  
    Title: The Ramey Memo  
-   Link:https://www.unexplained-mysteries.com/forum/topic/250481-the-ramey-memo/page/4/  
 
 89.<a id="endnote-89"></a>
    Source: unexplained-mysteries.com  
    Title: The Ramey Memo  
-   Link:https://www.unexplained-mysteries.com/forum/topic/250481-the-ramey-memo/page/6/  
 
 90.<a id="endnote-90"></a>
    Source: loc.gov  

@@ -901,12 +901,10 @@ That is why question marks matter so much in the Ramey memo. They prevent an unr
 17.<a id="endnote-17"></a>
    Source: unexplained-mysteries.com  
    Title: The Ramey Memo  
-   Link:https://www.unexplained-mysteries.com/forum/topic/250481-the-ramey-memo/page/4/  
 
 18.<a id="endnote-18"></a>
    Source: unexplained-mysteries.com  
    Title: The Ramey Memo  
-   Link:https://www.unexplained-mysteries.com/forum/topic/250481-the-ramey-memo/page/5/  
 
 19.<a id="endnote-19"></a>
    Source: ufologie.patrickgross.org  

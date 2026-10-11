@@ -1174,17 +1174,14 @@ Sentence coherence can still be useful. It can generate hypotheses, reject impos
 76.<a id="endnote-76"></a>
    Source: unexplained-mysteries.com  
    Title: The Ramey Memo  
-   Link:https://www.unexplained-mysteries.com/forum/topic/250481-the-ramey-memo/page/5/  
 
 77.<a id="endnote-77"></a>
    Source: unexplained-mysteries.com  
    Title: The Ramey Memo  
-   Link:https://www.unexplained-mysteries.com/forum/topic/250481-the-ramey-memo/page/6/  
 
 78.<a id="endnote-78"></a>
    Source: unexplained-mysteries.com  
    Title: The Ramey Memo  
-   Link:https://www.unexplained-mysteries.com/forum/topic/250481-the-ramey-memo/page/4/  
 
 79.<a id="endnote-79"></a>
    Source: pmc.ncbi.nlm.nih.gov  

@@ -862,7 +862,6 @@ But period news copy cannot by itself validate the reconstruction. Once the news
 
 6.<a id="endnote-6"></a>
    Source: citeseerx.ist.psu.edu  
-   Link:https://citeseerx.ist.psu.edu/document?doi=e162b50a3885a28c826cb31c3deca69abaaba9ee&amp;repid=rep1&amp;type=pdf  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>Journal of Scientific Exploration, Vol. 16, No. 1, pp. 45–66, 2002October 19, 2025...</p></details>
    Published: October 19, 2025  
 
@@ -948,12 +947,10 @@ But period news copy cannot by itself validate the reconstruction. Once the news
 23.<a id="endnote-23"></a>
    Source: unexplained-mysteries.com  
    Title: The Ramey Memo  
-   Link:https://www.unexplained-mysteries.com/forum/topic/250481-the-ramey-memo/?comment=4834994&amp;do=findComment  
 
 24.<a id="endnote-24"></a>
    Source: unexplained-mysteries.com  
    Title: The Ramey Memo  
-   Link:https://www.unexplained-mysteries.com/forum/topic/250481-the-ramey-memo/?comment=4834393&amp;do=findComment  
 
 25.<a id="endnote-25"></a>
    Source: unexplained-mysteries.com  
@@ -963,12 +960,10 @@ But period news copy cannot by itself validate the reconstruction. Once the news
 26.<a id="endnote-26"></a>
    Source: unexplained-mysteries.com  
    Title: The Ramey Memo  
-   Link:https://www.unexplained-mysteries.com/forum/topic/250481-the-ramey-memo/page/7/  
 
 27.<a id="endnote-27"></a>
    Source: unexplained-mysteries.com  
    Title: The Ramey Memo  
-   Link:https://www.unexplained-mysteries.com/forum/topic/250481-the-ramey-memo/page/5/  
 
 28.<a id="endnote-28"></a>
    Source: unexplained-mysteries.com  

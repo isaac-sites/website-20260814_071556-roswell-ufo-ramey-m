@@ -1096,7 +1096,6 @@ Until that happens, several analysts saying “I can clearly see it” may be ps
 52.<a id="endnote-52"></a>
    Source: unexplained-mysteries.com  
    Title: The Ramey Memo  
-   Link:https://www.unexplained-mysteries.com/forum/topic/250481-the-ramey-memo/page/7/  
 
 53.<a id="endnote-53"></a>
    Source: ojp.gov  

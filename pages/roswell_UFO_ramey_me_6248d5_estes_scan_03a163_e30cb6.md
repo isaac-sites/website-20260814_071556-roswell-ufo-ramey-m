@@ -1119,12 +1119,10 @@ The most defensible lesson from Estes’s ultra-high-resolution attempt is conse
 32.<a id="endnote-32"></a>
    Source: unexplained-mysteries.com  
    Title: The Ramey Memo  
-   Link:https://www.unexplained-mysteries.com/forum/topic/250481-the-ramey-memo/page/7/  
 
 33.<a id="endnote-33"></a>
    Source: unexplained-mysteries.com  
    Title: The Ramey Memo  
-   Link:https://www.unexplained-mysteries.com/forum/topic/250481-the-ramey-memo/page/5/  
 
 34.<a id="endnote-34"></a>
    Source: blogs.loc.gov  

@@ -1093,12 +1093,10 @@ That combination makes the Fort Worth wording valuable in a very specific way. I
 24.<a id="endnote-24"></a>
    Source: unexplained-mysteries.com  
    Title: The Ramey Memo  
-   Link:https://www.unexplained-mysteries.com/forum/topic/250481-the-ramey-memo/page/7/  
 
 25.<a id="endnote-25"></a>
    Source: unexplained-mysteries.com  
    Title: The Ramey Memo  
-   Link:https://www.unexplained-mysteries.com/forum/topic/250481-the-ramey-memo/page/4/  
 
 26.<a id="endnote-26"></a>
    Source: unexplained-mysteries.com  
@@ -1108,7 +1106,6 @@ That combination makes the Fort Worth wording valuable in a very specific way. I
 27.<a id="endnote-27"></a>
    Source: unexplained-mysteries.com  
    Title: The Ramey Memo  
-   Link:https://www.unexplained-mysteries.com/forum/topic/250481-the-ramey-memo/page/6/  
 
 28.<a id="endnote-28"></a>
    Source: govinfo.gov  

@@ -1110,7 +1110,6 @@ The irony is that Johnson’s greatest contribution to the Roswell record is pre
 
 22.<a id="endnote-22"></a>
    Source: citeseerx.ist.psu.edu  
-   Link:https://citeseerx.ist.psu.edu/document?doi=e162b50a3885a28c826cb31c3deca69abaaba9ee&amp;repid=rep1&amp;type=pdf  
 
 23.<a id="endnote-23"></a>
    Source: pmc.ncbi.nlm.nih.gov  

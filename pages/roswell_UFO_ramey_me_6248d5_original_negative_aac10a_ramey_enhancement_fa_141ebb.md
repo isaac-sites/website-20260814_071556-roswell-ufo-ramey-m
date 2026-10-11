@@ -1025,12 +1025,10 @@ For this particular photograph, visual cleanliness is best treated as an aid to 
 41.<a id="endnote-41"></a>
    Source: unexplained-mysteries.com  
    Title: The Ramey Memo  
-   Link:https://www.unexplained-mysteries.com/forum/topic/250481-the-ramey-memo/page/4/  
 
 42.<a id="endnote-42"></a>
    Source: unexplained-mysteries.com  
    Title: The Ramey Memo  
-   Link:https://www.unexplained-mysteries.com/forum/topic/250481-the-ramey-memo/page/6/  
 
 43.<a id="endnote-43"></a>
    Source: unexplained-mysteries.com  
@@ -1040,7 +1038,6 @@ For this particular photograph, visual cleanliness is best treated as an aid to 
 44.<a id="endnote-44"></a>
    Source: unexplained-mysteries.com  
    Title: The Ramey Memo  
-   Link:https://www.unexplained-mysteries.com/forum/topic/250481-the-ramey-memo/page/7/  
 
 45.<a id="endnote-45"></a>
    Source: ufotransparency.com  

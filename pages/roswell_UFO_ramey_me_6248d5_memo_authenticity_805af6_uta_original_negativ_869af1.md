@@ -1223,7 +1223,6 @@ For the wider debate over Ramey [memo authenticity]({{ 'authenticity/' | relativ
 
 88.<a id="endnote-88"></a>
    Source: citeseerx.ist.psu.edu  
-   Link:https://citeseerx.ist.psu.edu/document?doi=e162b50a3885a28c826cb31c3deca69abaaba9ee&amp;repid=rep1&amp;type=pdf  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>Journal of Scientific Exploration, Vol. 16, No. 1, pp. 45–66, 2002...</p></details>
 
 89.<a id="endnote-89"></a>
@@ -1288,12 +1287,10 @@ For the wider debate over Ramey [memo authenticity]({{ 'authenticity/' | relativ
 101.<a id="endnote-101"></a>
    Source: unexplained-mysteries.com  
    Title: The Ramey Memo  
-   Link:https://www.unexplained-mysteries.com/forum/topic/250481-the-ramey-memo/page/7/  
 
 102.<a id="endnote-102"></a>
    Source: unexplained-mysteries.com  
    Title: The Ramey Memo  
-   Link:https://www.unexplained-mysteries.com/forum/topic/250481-the-ramey-memo/page/6/  
 
 103.<a id="endnote-103"></a>
    Source: unexplained-mysteries.com  
@@ -1303,12 +1300,10 @@ For the wider debate over Ramey [memo authenticity]({{ 'authenticity/' | relativ
 104.<a id="endnote-104"></a>
    Source: unexplained-mysteries.com  
    Title: The Ramey Memo  
-   Link:https://www.unexplained-mysteries.com/forum/topic/250481-the-ramey-memo/page/5/  
 
 105.<a id="endnote-105"></a>
    Source: unexplained-mysteries.com  
    Title: The Ramey Memo  
-   Link:https://www.unexplained-mysteries.com/forum/topic/250481-the-ramey-memo/page/4/  
 
 106.<a id="endnote-106"></a>
    Source: kevinrandle.blogspot.com  
